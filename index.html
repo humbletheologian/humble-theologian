@@ -1,0 +1,59 @@
+---
+layout: default
+title: Home
+description: A personal theology and Bible study resource for Bible college students and serious theologically minded Christians.
+---
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="eyebrow">{{ site.tagline }}</p>
+      <h1>Serious theology without the ego.</h1>
+      <p class="lede">Humble Theologian is a free resource for Bible college students and thoughtful Christians who want to learn Scripture, love people well and live the faith with humility.</p>
+      <div class="button-row">
+        <a class="btn" href="{{ '/start-here/' | relative_url }}">Start Here</a>
+        <a class="btn secondary" href="{{ '/topics/' | relative_url }}">Browse Topics</a>
+      </div>
+    </div>
+    <aside class="creation-card">
+      <p class="eyebrow">Creation palette</p>
+      <h2>Grounded in earth. Open to wonder.</h2>
+      <p>A content-first reading space shaped by creation: soil, trees, sky, starlight and deep space. The design should support the writing, not compete with it.</p>
+      <div class="palette-dots" aria-hidden="true">
+        <span class="dot" style="background:#111827"></span><span class="dot" style="background:#3f5f4a"></span><span class="dot" style="background:#7a5c3e"></span><span class="dot" style="background:#c9a646"></span><span class="dot" style="background:#d7e3ea"></span>
+      </div>
+    </aside>
+  </div>
+</section>
+<section class="section">
+  <div class="wrap">
+    <h2 class="section-title">Start with these areas</h2>
+    <p class="section-intro">The site is designed as a solo theology library: organised enough to be useful, personal enough to remain honest and humble.</p>
+    <div class="grid three">
+      <article class="card"><p class="eyebrow">Theology Guides</p><h3>Questions Christians still debate</h3><p>Clear introductions to doctrines and disagreements, with space for Scripture, history, pastoral care and honest uncertainty.</p></article>
+      <article class="card"><p class="eyebrow">Disability and Faith</p><h3>Image of God and belonging</h3><p>Reflections on dignity, embodiment, healing, access and ministry by disabled Christians, not merely ministry to disabled Christians.</p></article>
+      <article class="card"><p class="eyebrow">Love as a Verb</p><h3>Devotion that becomes practice</h3><p>A devotional stream about love, humility, service, prayer and Christian formation in ordinary life.</p></article>
+    </div>
+  </div>
+</section>
+<section class="feature-band">
+  <div class="wrap grid two">
+    <div>
+      <p class="eyebrow">Where I stand</p>
+      <h2>Conviction with humility.</h2>
+    </div>
+    <div>
+      <p>I am still learning. This site will be transparent about where I currently stand, while trying to represent other Christian views fairly.</p>
+      <p><a href="{{ '/where-i-stand/' | relative_url }}">Read where I currently stand</a></p>
+    </div>
+  </div>
+</section>
+<section class="section">
+  <div class="wrap">
+    <h2 class="section-title">Latest articles</h2>
+    <div class="grid three">
+      {% for post in site.posts limit:3 %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

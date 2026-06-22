@@ -1,0 +1,43 @@
+media:
+  input: assets/images
+  output: /assets/images
+
+content:
+  - name: posts
+    label: Articles
+    path: _posts
+    type: collection
+    filename: "{year}-{month}-{day}-{primary}.md"
+    fields:
+      - { name: layout, type: string, default: post, hidden: true }
+      - { name: title, label: Title, type: string }
+      - { name: date, label: Date, type: date }
+      - { name: author, label: Author, type: string, default: Shayne Johnston }
+      - { name: category, label: Category, type: string }
+      - { name: topic, label: Topic, type: string }
+      - { name: tags, label: Tags, type: string, list: true }
+      - { name: description, label: Description, type: text }
+      - { name: words, label: Approx word count, type: number }
+      - { name: body, label: Body, type: rich-text }
+  - name: pages
+    label: Pages
+    path: .
+    type: collection
+    include: "*.md"
+    exclude: [README.md, CONTENT-GUIDE.md, GITHUB-PAGES-SETUP.md]
+    fields:
+      - { name: layout, type: string, default: page }
+      - { name: title, label: Title, type: string }
+      - { name: description, label: Description, type: text }
+      - { name: kicker, label: Kicker, type: string }
+      - { name: body, label: Body, type: rich-text }
+  - name: love-as-a-verb
+    label: Love as a Verb
+    path: _love-as-a-verb
+    type: collection
+    fields:
+      - { name: layout, type: string, default: page }
+      - { name: title, label: Title, type: string }
+      - { name: description, label: Description, type: text }
+      - { name: day, label: Day, type: number }
+      - { name: body, label: Body, type: rich-text }

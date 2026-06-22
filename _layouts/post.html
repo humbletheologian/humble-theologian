@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="article">
+  <header class="article-header wrap narrow">
+    <p class="eyebrow">{{ page.category }}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
+    <p class="meta">By {{ page.author | default: site.author }} · {{ page.date | date: "%d %B %Y" }}{% if page.words %} · approx. {{ page.words }} words{% endif %}</p>
+  </header>
+  <div class="article-body wrap narrow prose">
+    {{ content }}
+  </div>
+  <footer class="article-footer wrap narrow">
+    <p><a href="{{ '/topics/' | relative_url }}">Browse more topics</a></p>
+  </footer>
+</article>
