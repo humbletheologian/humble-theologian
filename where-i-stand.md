@@ -34,20 +34,3 @@ For each topic, I want to ask:
 6. What questions remain unresolved?
 
 That is the spirit of this page.
-
-## Topics to be developed
-
-- Scripture and interpretation
-- The Trinity
-- Creation and new creation
-- Sin and human nature
-- Atonement
-- Salvation and election
-- Baptism and church life
-- Spiritual gifts
-- Women in ministry
-- Disability and the image of God
-- Hell and final judgment
-- The intermediate state
-- The return of Christ
-
