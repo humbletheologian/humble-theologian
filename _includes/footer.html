@@ -6,6 +6,11 @@
     </div>
     <div>
       <p>Serious theology without the ego. A personal resource for Bible college students and thoughtful Christians.</p>
+      <p>
+        Questions, comments or suggested topics?
+        <a href="mailto:{{ site.email | default: 'shayne.johnston@humbletheologian.com' }}">Email me</a>
+        {% if site.feed.path %} · <a href="{{ site.feed.path | relative_url }}">RSS feed</a>{% else %} · <a href="{{ '/feed.xml' | relative_url }}">RSS feed</a>{% endif %}
+      </p>
     </div>
   </div>
 </footer>
