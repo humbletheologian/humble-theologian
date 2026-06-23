@@ -21,20 +21,21 @@ These are plain-English guides to major Christian beliefs and debates. The goal 
 
 Good places to begin:
 
-- What Do Christians Believe About Hell?
-- How Should Christians Read Old Testament Law?
-- What Is the Kingdom of God?
-- What Is the Image of God?
+- [How We Got the Bible]({{ '/theology-guides/how-we-got-the-bible/' | relative_url }})
+- [What Do Christians Believe About Hell?]({{ '/theology-guides/what-do-christians-believe-about-hell/' | relative_url }})
+- [Why I Currently Lean Toward Annihilationism]({{ '/theology-guides/why-i-currently-lean-toward-annihilationism/' | relative_url }})
+- [New Creation, Not Escape]({{ '/theology-guides/new-creation-not-escape/' | relative_url }})
+- [How Should Christians Read Old Testament Law?]({{ '/old-testament-law-and-christian-life/how-should-christians-read-old-testament-law/' | relative_url }})
 
 ### Bible College Help
 This section is for students who are learning how to read, write and think theologically. It will include assignment planning, essay structure, exegesis help, referencing tips and reflections on how to study theology without losing your own voice.
 
 Good places to begin:
 
-- How to Compare Theological Views Fairly
-- How to Read an Academic Theology Article
-- What Exegesis Actually Is
-- How to Use AI Ethically as a Theology Student
+- [How We Got the Bible]({{ '/theology-guides/how-we-got-the-bible/' | relative_url }})
+- [How Should Christians Read Old Testament Law?]({{ '/old-testament-law-and-christian-life/how-should-christians-read-old-testament-law/' | relative_url }})
+
+More Bible college help articles will be added over time, including guides to exegesis, comparing theological views fairly and reading academic theology without losing your own voice.
 
 ### Disability, Faith and Church
 This is one of the more personal parts of the site. It explores disability, dignity, healing, embodiment, accessibility and the role of disabled Christians in the church.
@@ -43,13 +44,12 @@ The focus is not only ministry *to* disabled people, but ministry *with* and *by
 
 Good places to begin:
 
-- Disability and the Image of God
-- What Churches Need to Understand About Disability
-- Healing Theology and Harmful Assumptions
-- Weakness, Dependence and Christian Community
+- [Disability and the Image of God]({{ '/disability-faith-and-church/disability-and-the-image-of-god/' | relative_url }})
+
+More articles on disability, healing theology, weakness, dependence and Christian community will be added gradually.
 
 ### Love as a Verb
-This is the devotional side of Humble Theologian. The original site included a 365-day devotional series called **Love as a Verb**. The relaunch will preserve that material while gradually making it easier to search, read and use.
+This is the devotional side of Humble Theologian. The original site included a 365-day devotional series called **Love as a Verb**. The relaunch preserves that material and makes it available as part of the wider site.
 
 The central idea is that Christian love is not merely a feeling. Love becomes visible in action, service, sacrifice, patience, forgiveness and faithfulness.
 
@@ -57,6 +57,13 @@ The central idea is that Christian love is not merely a feeling. Love becomes vi
 This section explains my current theological positions. It is not meant to be a creed or a test of fellowship. It is simply a way of being transparent.
 
 I want to cover different theological camps fairly. But fairness does not require pretending I have no convictions. So where I have reached a position, I will say so. Where I am still unsure, I will say that too.
+
+Good places to begin:
+
+- [Soul Sleep and Resurrection Hope]({{ '/theology-guides/soul-sleep-and-resurrection-hope/' | relative_url }})
+- [Post-Trib, Premillennial, No Secret Rapture]({{ '/theology-guides/post-trib-premill-no-secret-rapture/' | relative_url }})
+- [Arminian, Calvinist, Provisionist, Molinist]({{ '/theology-guides/arminian-calvinist-provisionist-molinist/' | relative_url }})
+- [Soft Complementarian, Drifting Egalitarian]({{ '/theology-guides/soft-complementarian-drifting-egalitarian/' | relative_url }})
 
 ## How to use this site
 
