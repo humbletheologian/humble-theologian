@@ -32,19 +32,23 @@ These are plain-English guides to major Christian beliefs and debates. The goal 
 
 Good places to begin:
 
-{% if bible_post %}- [How We Got the Bible]({{ bible_post.url | relative_url }}){% endif %}
-{% if hell_intro_post %}- [What Do Christians Believe About Hell?]({{ hell_intro_post.url | relative_url }}){% endif %}
-{% if annihilationism_post %}- [Why I Currently Lean Toward Annihilationism]({{ annihilationism_post.url | relative_url }}){% endif %}
-{% if new_creation_post %}- [New Creation, Not Escape]({{ new_creation_post.url | relative_url }}){% endif %}
-{% if ot_law_post %}- [How Should Christians Read Old Testament Law?]({{ ot_law_post.url | relative_url }}){% endif %}
+<ul>
+  {% if bible_post %}<li><a href="{{ bible_post.url | relative_url }}">How We Got the Bible</a></li>{% endif %}
+  {% if hell_intro_post %}<li><a href="{{ hell_intro_post.url | relative_url }}">What Do Christians Believe About Hell?</a></li>{% endif %}
+  {% if annihilationism_post %}<li><a href="{{ annihilationism_post.url | relative_url }}">Why I Currently Lean Toward Annihilationism</a></li>{% endif %}
+  {% if new_creation_post %}<li><a href="{{ new_creation_post.url | relative_url }}">New Creation, Not Escape</a></li>{% endif %}
+  {% if ot_law_post %}<li><a href="{{ ot_law_post.url | relative_url }}">How Should Christians Read Old Testament Law?</a></li>{% endif %}
+</ul>
 
 ### Bible College Help
 This section is for students who are learning how to read, write and think theologically. It will include assignment planning, essay structure, exegesis help, referencing tips and reflections on how to study theology without losing your own voice.
 
 Good places to begin:
 
-{% if bible_post %}- [How We Got the Bible]({{ bible_post.url | relative_url }}){% endif %}
-{% if ot_law_post %}- [How Should Christians Read Old Testament Law?]({{ ot_law_post.url | relative_url }}){% endif %}
+<ul>
+  {% if bible_post %}<li><a href="{{ bible_post.url | relative_url }}">How We Got the Bible</a></li>{% endif %}
+  {% if ot_law_post %}<li><a href="{{ ot_law_post.url | relative_url }}">How Should Christians Read Old Testament Law?</a></li>{% endif %}
+</ul>
 
 More Bible college help articles will be added over time, including guides to exegesis, comparing theological views fairly and reading academic theology without losing your own voice.
 
@@ -55,7 +59,9 @@ The focus is not only ministry *to* disabled people, but ministry *with* and *by
 
 Good places to begin:
 
-{% if disability_post %}- [Disability and the Image of God]({{ disability_post.url | relative_url }}){% endif %}
+<ul>
+  {% if disability_post %}<li><a href="{{ disability_post.url | relative_url }}">Disability and the Image of God</a></li>{% endif %}
+</ul>
 
 More articles on disability, healing theology, weakness, dependence and Christian community will be added gradually.
 
@@ -71,10 +77,12 @@ I want to cover different theological camps fairly. But fairness does not requir
 
 Good places to begin:
 
-{% if soul_sleep_post %}- [Soul Sleep and Resurrection Hope]({{ soul_sleep_post.url | relative_url }}){% endif %}
-{% if rapture_post %}- [Post-Trib, Premillennial, No Secret Rapture]({{ rapture_post.url | relative_url }}){% endif %}
-{% if arminian_post %}- [Arminian, Calvinist, Provisionist, Molinist]({{ arminian_post.url | relative_url }}){% endif %}
-{% if gender_post %}- [Soft Complementarian, Drifting Egalitarian]({{ gender_post.url | relative_url }}){% endif %}
+<ul>
+  {% if soul_sleep_post %}<li><a href="{{ soul_sleep_post.url | relative_url }}">Soul Sleep and Resurrection Hope</a></li>{% endif %}
+  {% if rapture_post %}<li><a href="{{ rapture_post.url | relative_url }}">Post-Trib, Premillennial, No Secret Rapture</a></li>{% endif %}
+  {% if arminian_post %}<li><a href="{{ arminian_post.url | relative_url }}">Arminian, Calvinist, Provisionist, Molinist</a></li>{% endif %}
+  {% if gender_post %}<li><a href="{{ gender_post.url | relative_url }}">Soft Complementarian, Drifting Egalitarian</a></li>{% endif %}
+</ul>
 
 ## How to use this site
 
