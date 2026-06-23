@@ -31,14 +31,88 @@ Major articles should normally aim for **1,800 to 2,200 words**. They are writte
 
 ## Articles by topic
 
-{% assign grouped_posts = site.posts | group_by: "category" | sort: "name" %}
-{% for group in grouped_posts %}
-### {{ group.name }}
-{: id="{{ group.name | slugify }}" }
+{% assign all_posts = site.posts | sort: "date" | reverse %}
 
-{% assign posts = group.items | sort: "date" | reverse %}
-{% for post in posts %}
+### Theology Guides
+{: id="theology-guides" }
+
+{% assign topic_posts = all_posts | where: "category", "Theology Guides" %}
+{% if topic_posts.size > 0 %}
+{% for post in topic_posts %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}
 {% endfor %}
+{% else %}
+More articles will be added here soon.
+{% endif %}
 
+### Hell, Judgment and Hope
+{: id="hell-judgment-and-hope" }
+
+{% assign topic_posts = all_posts | where: "category", "Hell, Judgment and Hope" %}
+{% if topic_posts.size > 0 %}
+{% for post in topic_posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}
 {% endfor %}
+{% else %}
+More articles will be added here soon.
+{% endif %}
+
+### Disability, Faith and Church
+{: id="disability-faith-and-church" }
+
+{% assign topic_posts = all_posts | where: "category", "Disability, Faith and Church" %}
+{% if topic_posts.size > 0 %}
+{% for post in topic_posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}
+{% endfor %}
+{% else %}
+More articles will be added here soon.
+{% endif %}
+
+### Old Testament Law and Christian Life
+{: id="old-testament-law-and-christian-life" }
+
+{% assign topic_posts = all_posts | where: "category", "Old Testament Law and Christian Life" %}
+{% if topic_posts.size > 0 %}
+{% for post in topic_posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}
+{% endfor %}
+{% else %}
+More articles will be added here soon.
+{% endif %}
+
+### Bible College Help
+{: id="bible-college-help" }
+
+{% assign topic_posts = all_posts | where: "category", "Bible College Help" %}
+{% if topic_posts.size > 0 %}
+{% for post in topic_posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}
+{% endfor %}
+{% else %}
+More articles will be added here soon.
+{% endif %}
+
+### Church and Ministry
+{: id="church-and-ministry" }
+
+{% assign topic_posts = all_posts | where: "category", "Church and Ministry" %}
+{% if topic_posts.size > 0 %}
+{% for post in topic_posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}
+{% endfor %}
+{% else %}
+More articles will be added here soon.
+{% endif %}
+
+### Personal Reflections
+{: id="personal-reflections" }
+
+{% assign topic_posts = all_posts | where: "category", "Personal Reflections" %}
+{% if topic_posts.size > 0 %}
+{% for post in topic_posts %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}
+{% endfor %}
+{% else %}
+More articles will be added here soon.
+{% endif %}
