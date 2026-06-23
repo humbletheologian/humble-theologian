@@ -17,7 +17,7 @@ words: 2200
 
 When Christians say “the Bible”, we are usually talking as though everyone means the same thing. In one sense, that is fair enough. Protestants, Catholics, Eastern Orthodox and most other Christian traditions share the same twenty-seven books of the New Testament. We also share the central storyline of creation, Israel, Jesus, the church and the hope of God’s renewed creation.
 
-But in another sense, “the Bible” is not quite as simple as many of us first assumed. A Protestant Bible has sixty-six books. A Catholic Bible has seventy-three. Eastern Orthodox Bibles usually include more Old Testament books than Catholic Bibles. The Ethiopian Orthodox Tewahedo Church has an even wider canon, traditionally counted as eighty-one books.[^1]
+But in another sense, “the Bible” is not quite as simple as many of us first assumed. A Protestant Bible has sixty-six books. A Catholic Bible has seventy-three. Eastern Orthodox Bibles usually include more Old Testament books than Catholic Bibles. The Ethiopian Orthodox Tewahedo Church has an even wider canon, traditionally counted as eighty-one books.
 
 That can sound alarming. It can also feed the popular myth that a group of powerful men simply sat around a table one day and decided which books they liked. The truth is more interesting and, I think, more reassuring. The Bible did not drop from heaven as a leather-bound book with maps, chapter numbers and a contents page. But neither was it invented by a committee. The canon developed as God’s people recognised, received, read and handed on the writings they believed carried divine authority.
 
@@ -33,11 +33,11 @@ The biggest difference between Protestant, Catholic, Orthodox and Ethiopian Bibl
 
 Protestant Old Testaments follow the books of the Hebrew Bible, though arranged differently. The Hebrew Bible counts twenty-four books, while Protestants usually count thirty-nine, mostly because books such as Samuel, Kings and Chronicles are divided into two and the twelve minor prophets are counted separately.
 
-Catholic Bibles include the books Protestants often call the Apocrypha and Catholics call the Deuterocanonical books. These include Tobit, Judith, Wisdom, Sirach, Baruch, 1 and 2 Maccabees and additions to Esther and Daniel. These books were part of the wider Greek-speaking Jewish and Christian scriptural world and were included in the Latin Vulgate tradition. At the Council of Trent in 1546, the Catholic Church formally listed these books as canonical in response to Reformation-era disputes.[^2]
+Catholic Bibles include the books Protestants often call the Apocrypha and Catholics call the Deuterocanonical books. These include Tobit, Judith, Wisdom, Sirach, Baruch, 1 and 2 Maccabees and additions to Esther and Daniel. These books were part of the wider Greek-speaking Jewish and Christian scriptural world and were included in the Latin Vulgate tradition. At the Council of Trent in 1546, the Catholic Church formally listed these books as canonical in response to Reformation-era disputes.
 
 Eastern Orthodox churches tend to use the Septuagint, the ancient Greek translation of the Jewish Scriptures, as their Old Testament base. This usually means a wider Old Testament than both Protestant and Catholic Bibles. The exact list can vary between Orthodox traditions, but it commonly includes books such as 1 Esdras, 3 Maccabees, Psalm 151 and the Prayer of Manasseh.
 
-The Ethiopian Orthodox Tewahedo tradition is broader again. Its own account says its canon contains forty-six Old Testament books and thirty-five New Testament books, for a total of eighty-one. It also preserves books such as Enoch and Jubilees, which are especially important for the history of Jewish thought before and around the time of Jesus.[^3]
+The Ethiopian Orthodox Tewahedo tradition is broader again. Its own account says its canon contains forty-six Old Testament books and thirty-five New Testament books, for a total of eighty-one. It also preserves books such as Enoch and Jubilees, which are especially important for the history of Jewish thought before and around the time of Jesus.
 
 So why the difference? It is not mainly because Christians disagree about Jesus. It is because early Christians inherited a complex Jewish scriptural world. Some communities were shaped more by the Hebrew textual tradition. Others were shaped more by the Greek Septuagint tradition. Over time, the Reformation pushed Protestants toward the Hebrew canon for the Old Testament, while Catholic and Orthodox traditions retained wider inherited collections.
 
@@ -47,11 +47,11 @@ The New Testament story is slightly different. Here the basic question was not, 
 
 The earliest Christians already had Scripture: what we call the Old Testament. But as the apostles preached Christ, wrote letters and told the story of Jesus, some Christian writings began to be read alongside Israel’s Scriptures. Paul’s letters were copied and exchanged. The four Gospels became the church’s stable witness to Jesus. Acts told the story of the risen Christ’s mission through the apostles. Other letters instructed churches in faith, holiness and perseverance.
 
-This did not happen because one council suddenly created the New Testament. There is no good historical evidence that the Council of Nicaea in AD 325 chose the books of the Bible. Nicaea dealt primarily with the Arian controversy and the church’s confession of Christ, not the biblical canon. The claim that Constantine or Nicaea “made the Bible” is a modern myth, popularised in novels and internet arguments, not a serious reading of the evidence.[^4]
+This did not happen because one council suddenly created the New Testament. There is no good historical evidence that the Council of Nicaea in AD 325 chose the books of the Bible. Nicaea dealt primarily with the Arian controversy and the church’s confession of Christ, not the biblical canon. The claim that Constantine or Nicaea “made the Bible” is a modern myth, popularised in novels and internet arguments, not a serious reading of the evidence.
 
-What we do find is a gradual pattern of recognition. By the late second century, the Muratorian Fragment shows a substantial core of New Testament books already being treated as authoritative, even though some boundaries were still being discussed.[^5] In the early fourth century, Eusebius distinguished between books widely acknowledged, books disputed by some and books rejected as spurious. That is important because it shows the church was not pretending there were no questions. It was discerning carefully.[^6]
+What we do find is a gradual pattern of recognition. By the late second century, the Muratorian Fragment shows a substantial core of New Testament books already being treated as authoritative, even though some boundaries were still being discussed. In the early fourth century, Eusebius distinguished between books widely acknowledged, books disputed by some and books rejected as spurious. That is important because it shows the church was not pretending there were no questions. It was discerning carefully.
 
-In AD 367, Athanasius of Alexandria listed the twenty-seven New Testament books that match the New Testament used by most Christians today. His Festal Letter is often noted as the first surviving list that names exactly our twenty-seven New Testament books.[^7] Later regional councils, such as Hippo and Carthage, affirmed similar lists. But these councils were not choosing books from scratch. They were giving formal recognition to books already widely received and read in the churches.
+In AD 367, Athanasius of Alexandria listed the twenty-seven New Testament books that match the New Testament used by most Christians today. His Festal Letter is often noted as the first surviving list that names exactly our twenty-seven New Testament books. Later regional councils, such as Hippo and Carthage, affirmed similar lists. But these councils were not choosing books from scratch. They were giving formal recognition to books already widely received and read in the churches.
 
 ## What criteria were used?
 
@@ -71,9 +71,9 @@ Fifth, there was liturgical and pastoral fruitfulness. Scripture was not merely 
 
 Yes. This is where Christians should be honest rather than defensive. Some biblical books had questions around authorship, date or reception.
 
-In the New Testament, Hebrews is anonymous. The early church valued it deeply, but there were questions about whether Paul wrote it. Eusebius says some in the Roman church disputed Pauline authorship, even though the book was still known and used.[^8] Today, most scholars simply say the author of Hebrews is unknown.
+In the New Testament, Hebrews is anonymous. The early church valued it deeply, but there were questions about whether Paul wrote it. Eusebius says some in the Roman church disputed Pauline authorship, even though the book was still known and used. Today, most scholars simply say the author of Hebrews is unknown.
 
-Second Peter is probably the most discussed New Testament book when it comes to authorship. Eusebius says 1 Peter was widely acknowledged but that 2 Peter was disputed, while still being used by many with the other Scriptures.[^9] Modern scholars continue to debate its authorship because of differences in style, vocabulary and its relationship to Jude.
+Second Peter is probably the most discussed New Testament book when it comes to authorship. Eusebius says 1 Peter was widely acknowledged but that 2 Peter was disputed, while still being used by many with the other Scriptures. Modern scholars continue to debate its authorship because of differences in style, vocabulary and its relationship to Jude.
 
 James, Jude, 2 John, 3 John and Revelation also had uneven reception in some places. Revelation, for example, was strongly received in some parts of the church and questioned in others, especially because of how some groups used it. Yet over time it was received as part of the New Testament canon.
 
@@ -107,14 +107,19 @@ The result is that when we open the Bible, we are not merely reading a private s
 
 That should make us careful readers. It should also make us grateful ones.
 
-## Sources and further reading
+## Sources and Further Reading
 
-[^1]: Ethiopian Orthodox Tewahedo Church, “Canonical Books,” which describes the Ethiopic canon as forty-six Old Testament books and thirty-five New Testament books.
-[^2]: Council of Trent, Fourth Session, “Decree Concerning the Canonical Scriptures,” 1546.
-[^3]: Ethiopian Orthodox Tewahedo Church, “Canonical Books.”
-[^4]: Tyndale House, “Why do our Bibles contain these books and not others?”; Gavin Ortlund, “No, Nicaea Didn’t Create the Canon”; and Michael J. Kruger, “The NT Canon Was Not Decided at Nicea.”
-[^5]: Britannica, “Muratorian Fragment”; Early Christian Writings, “The Muratorian Canon.”
-[^6]: Eusebius, *Ecclesiastical History*, Book 3, especially his distinction between acknowledged, disputed and rejected writings.
-[^7]: Athanasius, Thirty-Ninth Festal Letter, AD 367.
-[^8]: Eusebius, *Ecclesiastical History* 3.3.
-[^9]: Eusebius, *Ecclesiastical History* 3.3; Text & Canon Institute, “How 2 Peter Made It into the Bible.”
+This article is written as a plain-language guide rather than an academic paper. The following sources shaped the discussion and are useful starting points for readers who want to go deeper.
+
+- Athanasius of Alexandria, *Thirty-Ninth Festal Letter* (AD 367), especially his list of the books received as Scripture.
+- Eusebius of Caesarea, *Ecclesiastical History*, Book 3, especially his discussion of acknowledged, disputed and rejected writings.
+- Council of Trent, Fourth Session, “Decree Concerning the Canonical Scriptures” (1546), for the formal Catholic listing of the deuterocanonical books.
+- Ethiopian Orthodox Tewahedo Church, “Canonical Books,” for the broader Ethiopic canon and its traditional count of eighty-one books.
+- F. F. Bruce, *The Canon of Scripture*.
+- Bruce M. Metzger, *The Canon of the New Testament: Its Origin, Development, and Significance*.
+- Michael J. Kruger, *Canon Revisited: Establishing the Origins and Authority of the New Testament Books*.
+- Lee Martin McDonald, *The Biblical Canon: Its Origin, Transmission, and Authority*.
+- Craig D. Allert, *A High View of Scripture? The Authority of the Bible and the Formation of the New Testament Canon*.
+- Tyndale House, “Why do our Bibles contain these books and not others?”
+- Michael J. Kruger, “The NT Canon Was Not Decided at Nicea.”
+- Text & Canon Institute, “How 2 Peter Made It into the Bible.”
