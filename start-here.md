@@ -6,6 +6,17 @@ description: "A guided entry point for new readers."
 kicker: "Welcome"
 ---
 
+{% assign bible_post = site.posts | where: "title", "How We Got the Bible" | first %}
+{% assign hell_intro_post = site.posts | where: "title", "What Do Christians Believe About Hell?" | first %}
+{% assign annihilationism_post = site.posts | where: "title", "Why I Currently Lean Toward Annihilationism" | first %}
+{% assign new_creation_post = site.posts | where: "title", "New Creation, Not Escape" | first %}
+{% assign ot_law_post = site.posts | where: "title", "How Should Christians Read Old Testament Law?" | first %}
+{% assign disability_post = site.posts | where: "title", "Disability and the Image of God" | first %}
+{% assign soul_sleep_post = site.posts | where: "title", "Soul Sleep and Resurrection Hope" | first %}
+{% assign rapture_post = site.posts | where: "title", "Post-Trib, Premillennial, No Secret Rapture" | first %}
+{% assign arminian_post = site.posts | where: "title", "Arminian, Calvinist, Provisionist, Molinist" | first %}
+{% assign gender_post = site.posts | where: "title", "Soft Complementarian, Drifting Egalitarian" | first %}
+
 # Start Here
 
 Welcome to **Humble Theologian**.
@@ -21,19 +32,19 @@ These are plain-English guides to major Christian beliefs and debates. The goal 
 
 Good places to begin:
 
-- [How We Got the Bible]({{ '/theology-guides/how-we-got-the-bible/' | relative_url }})
-- [What Do Christians Believe About Hell?]({{ '/theology-guides/what-do-christians-believe-about-hell/' | relative_url }})
-- [Why I Currently Lean Toward Annihilationism]({{ '/theology-guides/why-i-currently-lean-toward-annihilationism/' | relative_url }})
-- [New Creation, Not Escape]({{ '/theology-guides/new-creation-not-escape/' | relative_url }})
-- [How Should Christians Read Old Testament Law?]({{ '/old-testament-law-and-christian-life/how-should-christians-read-old-testament-law/' | relative_url }})
+{% if bible_post %}- [How We Got the Bible]({{ bible_post.url | relative_url }}){% endif %}
+{% if hell_intro_post %}- [What Do Christians Believe About Hell?]({{ hell_intro_post.url | relative_url }}){% endif %}
+{% if annihilationism_post %}- [Why I Currently Lean Toward Annihilationism]({{ annihilationism_post.url | relative_url }}){% endif %}
+{% if new_creation_post %}- [New Creation, Not Escape]({{ new_creation_post.url | relative_url }}){% endif %}
+{% if ot_law_post %}- [How Should Christians Read Old Testament Law?]({{ ot_law_post.url | relative_url }}){% endif %}
 
 ### Bible College Help
 This section is for students who are learning how to read, write and think theologically. It will include assignment planning, essay structure, exegesis help, referencing tips and reflections on how to study theology without losing your own voice.
 
 Good places to begin:
 
-- [How We Got the Bible]({{ '/theology-guides/how-we-got-the-bible/' | relative_url }})
-- [How Should Christians Read Old Testament Law?]({{ '/old-testament-law-and-christian-life/how-should-christians-read-old-testament-law/' | relative_url }})
+{% if bible_post %}- [How We Got the Bible]({{ bible_post.url | relative_url }}){% endif %}
+{% if ot_law_post %}- [How Should Christians Read Old Testament Law?]({{ ot_law_post.url | relative_url }}){% endif %}
 
 More Bible college help articles will be added over time, including guides to exegesis, comparing theological views fairly and reading academic theology without losing your own voice.
 
@@ -44,7 +55,7 @@ The focus is not only ministry *to* disabled people, but ministry *with* and *by
 
 Good places to begin:
 
-- [Disability and the Image of God]({{ '/disability-faith-and-church/disability-and-the-image-of-god/' | relative_url }})
+{% if disability_post %}- [Disability and the Image of God]({{ disability_post.url | relative_url }}){% endif %}
 
 More articles on disability, healing theology, weakness, dependence and Christian community will be added gradually.
 
@@ -60,10 +71,10 @@ I want to cover different theological camps fairly. But fairness does not requir
 
 Good places to begin:
 
-- [Soul Sleep and Resurrection Hope]({{ '/theology-guides/soul-sleep-and-resurrection-hope/' | relative_url }})
-- [Post-Trib, Premillennial, No Secret Rapture]({{ '/theology-guides/post-trib-premill-no-secret-rapture/' | relative_url }})
-- [Arminian, Calvinist, Provisionist, Molinist]({{ '/theology-guides/arminian-calvinist-provisionist-molinist/' | relative_url }})
-- [Soft Complementarian, Drifting Egalitarian]({{ '/theology-guides/soft-complementarian-drifting-egalitarian/' | relative_url }})
+{% if soul_sleep_post %}- [Soul Sleep and Resurrection Hope]({{ soul_sleep_post.url | relative_url }}){% endif %}
+{% if rapture_post %}- [Post-Trib, Premillennial, No Secret Rapture]({{ rapture_post.url | relative_url }}){% endif %}
+{% if arminian_post %}- [Arminian, Calvinist, Provisionist, Molinist]({{ arminian_post.url | relative_url }}){% endif %}
+{% if gender_post %}- [Soft Complementarian, Drifting Egalitarian]({{ gender_post.url | relative_url }}){% endif %}
 
 ## How to use this site
 
