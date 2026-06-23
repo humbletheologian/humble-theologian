@@ -6,7 +6,7 @@ author: "Shayne Johnston"
 category: "Disability, Faith and Church"
 topic: "Disability, Faith and Church"
 tags: ["image of God", "human dignity", "church", "pastoral care", "theology guides"]
-description: "A theological reflection on disability, human dignity and what it means for every person to bear the image of God."
+description: "A theological reflection on disability, human dignity, embodiment and why every person bears God’s image before they achieve, contribute or appear whole."
 words: 1545
 ---
 
