@@ -2,13 +2,12 @@
 permalink: /contact/
 layout: page
 title: "Contact"
-description: "A simple contact page for Humble Theologian."
-kicker: "Contact"
+description: "Contact Shayne Johnston about Humble Theologian."
+kicker: "Get in touch"
 ---
 
-For now, this page can include a simple contact method or link. Because the site is static, avoid publishing private details you do not want indexed publicly.
+If something on the site raises a question, encourages you, gives you something to push back on or suggests a future topic, you are welcome to contact me.
 
-Suggested contact line:
+Email: [shayne.johnston@humbletheologian.com](mailto:shayne.johnston@humbletheologian.com)
 
-> You can contact me through the Humble Theologian email address or via the contact details I provide publicly through church/ministry contexts.
-
+I read messages personally, but I may not always be able to reply quickly. Please also remember that this site is a public theology and Bible study resource, not a substitute for local pastoral care, professional counselling, medical advice or emergency help.

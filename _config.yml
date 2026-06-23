@@ -2,7 +2,8 @@ title: Humble Theologian
 tagline: Learning, loving and living the faith.
 description: A personal theology and Bible study resource for Bible college students and serious theologically minded Christians.
 author: Shayne Johnston
-url: "https://humbletheologian.com"
+email: shayne.johnston@humbletheologian.com
+url: "https://www.humbletheologian.com"
 baseurl: ""
 permalink: /:categories/:title/
 markdown: kramdown
