@@ -11,6 +11,7 @@ Resources are here to help readers keep learning without making the site feel cl
 ## Current resources
 
 - [Recommended Reading]({{ '/recommended-reading/' | relative_url }}) - a curated list of books from my library, with brief notes on why each one matters and who it may help.
+- [Recommended YouTube Channels and Ministries]({{ '/recommended-youtube/' | relative_url }}) - YouTube channels and ministries I follow or find useful for theology, Bible study, apologetics, church life and Christian discipleship.
 - [Love as a Verb]({{ '/love-as-a-verb/' | relative_url }}) - devotional reflections on love as something lived, practised and embodied.
 - [Spurgeon Devotionals](#spurgeon-devotionals) - public-domain devotional classics with brief Humble Theologian reflections.
 - [Topics]({{ '/topics/' | relative_url }}) - a library-style index for theology guides, Bible college help, disability theology, pastoral care and church life.
