@@ -12,8 +12,9 @@ Resources are here to help readers keep learning without making the site feel cl
 
 - [Recommended Reading]({{ '/recommended-reading/' | relative_url }}) - a curated list of books from my library, with brief notes on why each one matters and who it may help.
 - [Love as a Verb]({{ '/love-as-a-verb/' | relative_url }}) - devotional reflections on love as something lived, practised and embodied.
-- [Spurgeon Devotionals]({{ '/spurgeon/christ-the-son-of-man/' | relative_url }}) - public-domain devotional classics with brief Humble Theologian reflections.
+- [Spurgeon Devotionals]({{ '/spurgeon/' | relative_url }}) - public-domain devotional classics with brief Humble Theologian reflections.
 - [Topics]({{ '/topics/' | relative_url }}) - a library-style index for theology guides, Bible college help, disability theology, pastoral care and church life.
+- [Recommended YouTube Channels and Ministries](/recommended-youtube/)
 
 ## How resources will be handled
 
