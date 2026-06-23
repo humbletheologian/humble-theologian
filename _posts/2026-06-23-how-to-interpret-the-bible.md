@@ -4,7 +4,7 @@ title: "How to Interpret the Bible"
 date: 2026-06-23
 author: Shayne Johnston
 category: Bible Study
-topic: Biblical interpretation
+topic: Bible interpretation
 tags:
   - Bible study
   - hermeneutics
