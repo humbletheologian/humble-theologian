@@ -5,7 +5,7 @@ author: Shayne Johnston
 email: shayne.johnston@humbletheologian.com
 url: "https://www.humbletheologian.com"
 baseurl: ""
-permalink: /:categories/:title/
+permalink: /:title/
 markdown: kramdown
 theme: null
 
@@ -25,3 +25,5 @@ exclude:
   - README.md
   - CONTENT-GUIDE.md
   - GITHUB-PAGES-SETUP.md
+  - LOCAL-PREVIEW-INSTRUCTIONS.md
+  - LAUNCH-AUDIT.md
