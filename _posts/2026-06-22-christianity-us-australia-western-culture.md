@@ -115,3 +115,17 @@ For me, this means I want to learn from Christians in other Western countries wi
 Christianity can be lived faithfully in any Western developed country, but it will look different because the cultural pressures are different. The task is not to copy another nation’s expression of faith. The task is to follow Jesus here, among these people, with these challenges and opportunities.
 
 For Humble Theologian, that means theology should be serious but not performative, convictional but not triumphalistic, publicly thoughtful but pastorally grounded. We need Christians who can think deeply without becoming arrogant, love generously without becoming vague and live faithfully without confusing the kingdom of God with any national culture.
+
+## Sources and Further Reading
+
+This article is a cultural and theological reflection, so the sources below are not offered as proof that every Christian in a given country behaves the same way. They are useful background for the claims about civil religion, nationalism, secularisation, discipleship and the different cultural pressures faced by Christians in Australia and the United States.
+
+- Robert N. Bellah, “Civil Religion in America,” *Daedalus* 96, no. 1 (1967): 1-21.
+- Mark A. Noll, *The Scandal of the Evangelical Mind*. Eerdmans, 1994.
+- Mark A. Noll, *America's God: From Jonathan Edwards to Abraham Lincoln*. Oxford University Press, 2002.
+- James Davison Hunter, *To Change the World: The Irony, Tragedy, and Possibility of Christianity in the Late Modern World*. Oxford University Press, 2010.
+- Charles Taylor, *A Secular Age*. Belknap Press, 2007.
+- Andrew Root, *Churches and the Crisis of Decline: A Hopeful, Practical Ecclesiology for a Secular Age*. Baker Academic, 2022.
+- Hugh Mackay, *Australia Reimagined: Towards a More Compassionate, Less Anxious Society*. Pan Macmillan Australia, 2018.
+- Roy Williams, *Post-God Nation? How Religion Fell Off the Radar in Australia*. ABC Books, 2015.
+- Stanley Hauerwas and William H. Willimon, *Resident Aliens: Life in the Christian Colony*. Abingdon, 1989.

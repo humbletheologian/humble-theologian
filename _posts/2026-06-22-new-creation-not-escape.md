@@ -99,3 +99,17 @@ That changes how I speak. Instead of saying, “One day we will leave earth and 
 I currently find the new creation view persuasive because it makes sense of the whole Bible. It honours Genesis, the prophets, the resurrection of Jesus, Romans 8, 1 Corinthians 15 and Revelation 21–22. It also produces better discipleship. It teaches us to care about bodies, communities, creation, justice and worship without confusing Christian mission with political utopianism.
 
 The Christian hope is not that we float away. The Christian hope is that God finishes what he began. Creation is not God’s failed experiment. It is the theatre of redemption, the place where God’s glory will dwell with his people.
+
+## Sources and Further Reading
+
+This article reflects a new creation reading of Christian hope. These sources are useful for checking the claims about resurrection, heaven and earth, embodied hope, creation, vocation and the renewal of all things.
+
+- N. T. Wright, *Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church*. HarperOne, 2008.
+- J. Richard Middleton, *A New Heaven and a New Earth: Reclaiming Biblical Eschatology*. Baker Academic, 2014.
+- N. T. Wright, *The Resurrection of the Son of God*. Fortress, 2003.
+- Michael J. Gorman, *A New and Ancient Gospel: The Theology of N. T. Wright*. Abingdon, 2011.
+- Christopher J. H. Wright, *The Mission of God: Unlocking the Bible's Grand Narrative*. IVP Academic, 2006.
+- Richard Bauckham, *The Theology of the Book of Revelation*. Cambridge University Press, 1993.
+- G. K. Beale, *The Book of Revelation: A Commentary on the Greek Text*. Eerdmans, 1999.
+- Craig R. Koester, *Revelation and the End of All Things*. Eerdmans, 2001.
+- Michael S. Heiser, *The Unseen Realm: Recovering the Supernatural Worldview of the Bible*. Lexham, 2015.

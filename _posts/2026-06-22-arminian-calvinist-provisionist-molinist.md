@@ -93,3 +93,17 @@ So my current leaning is non-Calvinist, probably somewhere between provisionism 
 I still need to read Calvinists fairly. I do not want to defeat a cartoon. I also need to keep reading Arminians, provisionists and Molinists critically. Every system has pressure points. Non-Calvinist theology can drift into shallow optimism if it forgets the bondage of sin. Molinism can become speculative if it relies too heavily on philosophical categories. Provisionism can sometimes sound more defined by what it rejects than by a fully developed constructive account.
 
 For now, I hold the position humbly. God is sovereign. Salvation is by grace. Christ is genuinely offered. Human beings are responsible. Those truths may not fit neatly into one simple slogan, but together they give me a way to preach, pastor and pray with integrity.
+
+## Sources and Further Reading
+
+This article is written as a plain-language reflection rather than a formal academic paper. The following sources are useful for checking the main claims about Calvinism, Arminianism, provisionism, Molinism, divine sovereignty, grace and human freedom.
+
+- Roger E. Olson, *Arminian Theology: Myths and Realities*. IVP Academic, 2006.
+- Thomas R. Schreiner and Bruce A. Ware, eds., *Still Sovereign: Contemporary Perspectives on Election, Foreknowledge, and Grace*. Baker, 2000.
+- Kenneth Keathley, *Salvation and Sovereignty: A Molinist Approach*. B&H Academic, 2010.
+- William Lane Craig, *The Only Wise God: The Compatibility of Divine Foreknowledge and Human Freedom*. Wipf and Stock, 2000.
+- Leighton Flowers, *The Potter's Promise: A Biblical Defense of Traditional Soteriology*. Trinity Academic Press, 2017.
+- Robert E. Picirilli, *Grace, Faith, Free Will: Contrasting Views of Salvation*. Randall House, 2002.
+- John Piper, *Five Points: Towards a Deeper Experience of God's Grace*. Christian Focus, 2013.
+- Michael Horton, *For Calvinism*. Zondervan, 2011.
+- Jerry L. Walls and Joseph R. Dongell, *Why I Am Not a Calvinist*. IVP Academic, 2004.

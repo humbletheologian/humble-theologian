@@ -97,3 +97,17 @@ For now, I am softly complementarian but increasingly open to egalitarianism. Th
 ## The pastoral test
 
 The pastoral test is not simply whether a position wins an argument. It is whether it helps the church honour Scripture, love people and recognise the gifts of the Spirit. A faithful church should not be embarrassed by gifted women. It should be grateful. The question is how those gifts are ordered in obedience to Christ. That is the question I am still wrestling with, and I hope to do so with humility rather than fear.
+
+## Sources and Further Reading
+
+This article is intentionally cautious and personal. The sources below represent both complementarian and egalitarian arguments, along with historical and exegetical works that help readers test the claims about creation, church leadership, Paul, women in ministry and the life of the early church.
+
+- John Piper and Wayne Grudem, eds., *Recovering Biblical Manhood and Womanhood: A Response to Evangelical Feminism*. Crossway, 1991.
+- Wayne Grudem, *Evangelical Feminism and Biblical Truth*. Crossway, 2004.
+- Craig S. Keener, *Paul, Women and Wives: Marriage and Women's Ministry in the Letters of Paul*. Baker Academic, 1992.
+- Philip B. Payne, *Man and Woman, One in Christ: An Exegetical and Theological Study of Paul's Letters*. Zondervan, 2009.
+- Cynthia Long Westfall, *Paul and Gender: Reclaiming the Apostle's Vision for Men and Women in Christ*. Baker Academic, 2016.
+- Lucy Peppiatt, *Rediscovering Scripture's Vision for Women: Fresh Perspectives on Disputed Texts*. IVP Academic, 2019.
+- Michael F. Bird, *Bourgeois Babes, Bossy Wives, and Bobby Haircuts: A Case for Gender Equality in Ministry*. Zondervan, 2012.
+- N. T. Wright, “Women's Service in the Church: The Biblical Basis.” Christians for Biblical Equality, 2004.
+- Stanley J. Grenz and Denise Muir Kjesbo, *Women in the Church: A Biblical Theology of Women in Ministry*. IVP Academic, 1995.

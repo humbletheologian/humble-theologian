@@ -103,3 +103,17 @@ This view helps me keep end-times teaching connected to discipleship. The questi
 End-times convictions should be held with particular humility because faithful Christians have disagreed for centuries. I do not want this position to become a test of fellowship. I can learn from amillennial Christians who emphasise the present reign of Christ. I can learn from historic premillennial Christians who keep the focus on endurance. I can even learn from dispensational Christians where they take prophecy, Israel and future hope seriously. My concern is not to win an end-times chart. It is to keep the return of Christ connected to faithful discipleship.
 
 If this view makes me more patient, courageous, prayerful and mission-minded, it is bearing good fruit. If it makes me speculative, smug or dismissive of other Christians, then I have misunderstood the point of biblical hope.
+
+## Sources and Further Reading
+
+This article gives a personal summary of a post-tribulational premillennial view and rejects a separate secret rapture. The sources below represent several positions, so readers can test the claims and see how different Christians understand the millennium, tribulation, resurrection and return of Christ.
+
+- George Eldon Ladd, *The Blessed Hope: A Biblical Study of the Second Advent and the Rapture*. Eerdmans, 1956.
+- George Eldon Ladd, *A Theology of the New Testament*. Eerdmans, revised edition, 1993.
+- Craig L. Blomberg and Sung Wook Chung, eds., *A Case for Historic Premillennialism: An Alternative to “Left Behind” Eschatology*. Baker Academic, 2009.
+- Stanley J. Grenz, *The Millennial Maze: Sorting Out Evangelical Options*. IVP, 1992.
+- Robert G. Clouse, ed., *The Meaning of the Millennium: Four Views*. IVP Academic, 1977.
+- Alan Hultberg, ed., *Three Views on the Rapture: Pretribulation, Prewrath, or Posttribulation*. Zondervan, 2010.
+- N. T. Wright, *Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church*. HarperOne, 2008.
+- G. K. Beale, *The Book of Revelation: A Commentary on the Greek Text*. Eerdmans, 1999.
+- Craig S. Keener, *1-2 Thessalonians*. Cambridge University Press, 2019.

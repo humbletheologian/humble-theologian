@@ -152,3 +152,17 @@ A church can be technically accessible and still emotionally unwelcoming. It can
 One of the most important shifts is from ministry to disabled people to ministry by disabled people. Disabled Christians are not only recipients of care. They are theologians, servants, leaders, pray-ers, teachers, encouragers and witnesses. Their lives may reveal dimensions of dependence, endurance, embodiment and hope that the wider church desperately needs.
 
 This does not romanticise disability. Pain, fatigue, exclusion and limitation are real. But the kingdom of God often works through what the world overlooks. The church should be a place where weakness is not hidden in shame, but received as part of the body through which Christ is made known.
+
+## Sources and Further Reading
+
+This article draws on biblical theology, disability theology and pastoral reflection. The following sources are useful for checking the claims about the image of God, human dignity, disability, inclusion and the church's calling to receive disabled people as members of Christ's body.
+
+- Amos Yong, *The Bible, Disability, and the Church: A New Vision of the People of God*. Eerdmans, 2011.
+- John Swinton, *Becoming Friends of Time: Disability, Timefullness, and Gentle Discipleship*. Baylor University Press, 2016.
+- Brian Brock, *Wondrously Wounded: Theology, Disability, and the Body of Christ*. Baylor University Press, 2019.
+- Thomas E. Reynolds, *Vulnerable Communion: A Theology of Disability and Hospitality*. Brazos, 2008.
+- Hans S. Reinders, *Receiving the Gift of Friendship: Profound Disability, Theological Anthropology, and Ethics*. Eerdmans, 2008.
+- Nancy L. Eiesland, *The Disabled God: Toward a Liberatory Theology of Disability*. Abingdon, 1994.
+- Bethany McKinney Fox, *Disability and the Way of Jesus: Holistic Healing in the Gospels and the Church*. IVP Academic, 2019.
+- J. Richard Middleton, *The Liberating Image: The Imago Dei in Genesis 1*. Brazos, 2005.
+- Stanley Hauerwas, *Suffering Presence: Theological Reflections on Medicine, the Mentally Handicapped, and the Church*. University of Notre Dame Press, 1986.

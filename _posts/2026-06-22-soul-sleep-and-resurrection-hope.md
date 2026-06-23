@@ -99,3 +99,17 @@ It also helps avoid sentimental speculation. Christians often say things about t
 I currently lean toward soul sleep, or conditional unconsciousness between death and resurrection, because it seems to honour the biblical emphasis on resurrection. I am not dogmatic. The intermediate state has serious defenders and some important texts on its side. But I am persuaded that the final Christian hope is not an immortal soul escaping the body. It is resurrection life in renewed creation.
 
 Whatever happens between death and resurrection, believers are safe in Christ. That is the pastoral centre. We do not belong to death. We belong to the risen Lord. Whether we describe the intermediate state as conscious presence or unconscious rest, the final hope is the same: the trumpet will sound, the dead will be raised and Christ will make all things new.
+
+## Sources and Further Reading
+
+This article leans toward soul sleep while recognising that many Christians defend a conscious intermediate state. The sources below help readers check the biblical, theological and historical claims about death, resurrection, judgment, the intermediate state and Christian hope.
+
+- Anthony F. Buzzard, *The Doctrine of the Trinity: Christianity's Self-Inflicted Wound*. International Scholars Publications, 1998. See especially his wider work on conditional immortality and resurrection hope.
+- Oscar Cullmann, *Immortality of the Soul or Resurrection of the Dead?* Epworth, 1958.
+- N. T. Wright, *The Resurrection of the Son of God*. Fortress, 2003.
+- N. T. Wright, *Surprised by Hope: Rethinking Heaven, the Resurrection, and the Mission of the Church*. HarperOne, 2008.
+- Anthony C. Thiselton, *Life After Death: A New Approach to the Last Things*. Eerdmans, 2012.
+- G. C. Berkouwer, *The Return of Christ*. Eerdmans, 1972.
+- Herman Bavinck, *Reformed Dogmatics, Volume 4: Holy Spirit, Church, and New Creation*. Baker Academic, 2008.
+- Samuele Bacchiocchi, *Immortality or Resurrection? A Biblical Study on Human Nature and Destiny*. Biblical Perspectives, 1997.
+- Edward Fudge, *The Fire That Consumes: A Biblical and Historical Study of the Doctrine of Final Punishment*. Cascade, 3rd ed., 2011.

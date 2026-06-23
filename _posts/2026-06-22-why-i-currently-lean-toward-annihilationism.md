@@ -152,3 +152,17 @@ The pastoral danger is not only that we make hell too severe. It is also that we
 The strongest challenge to annihilationism remains the biblical language of eternal punishment, undying worm, unquenchable fire and smoke rising forever. If I became convinced that those texts require the ongoing conscious experience of the lost, I would need to reconsider. I also need to keep listening to historic Christian voices that have defended eternal conscious torment with seriousness rather than cruelty.
 
 For now, I still think annihilationism better holds together the language of death, destruction, perishing, judgment and the gift of eternal life. But I want to hold the view as a theological conviction, not as a weapon.
+
+## Sources and Further Reading
+
+This article explains why I currently find annihilationism, or conditional immortality, persuasive. The sources below are useful for testing the claims about death, destruction, immortality, final judgment, biblical language and the pastoral implications of the doctrine of hell.
+
+- Edward Fudge, *The Fire That Consumes: A Biblical and Historical Study of the Doctrine of Final Punishment*. Cascade, 3rd ed., 2011.
+- John Stott and David L. Edwards, *Essentials: A Liberal-Evangelical Dialogue*. Hodder & Stoughton, 1988.
+- John G. Stackhouse Jr., “Terminal Punishment.” In *Four Views on Hell*, 2nd ed., edited by Preston Sprinkle. Zondervan, 2016.
+- Preston Sprinkle, ed., *Four Views on Hell*, 2nd ed. Zondervan, 2016.
+- Glenn A. Peoples, *Rethinking Hell: Readings in Evangelical Conditionalism*. Cascade, 2014.
+- Chris Date, Gregory Stump and Joshua Anderson, eds., *Rethinking Hell: Readings in Evangelical Conditionalism*. Cascade, 2014.
+- I. Howard Marshall, “The New Testament Does Not Teach Universal Salvation.” In *Universal Salvation? The Current Debate*, edited by Robin A. Parry and Christopher H. Partridge. Eerdmans, 2003.
+- Denny Burk, “Eternal Conscious Torment.” In *Four Views on Hell*, 2nd ed., edited by Preston Sprinkle. Zondervan, 2016.
+- Jerry L. Walls, *Hell: The Logic of Damnation*. University of Notre Dame Press, 1992.

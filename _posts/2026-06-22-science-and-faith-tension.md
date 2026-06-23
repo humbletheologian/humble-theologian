@@ -107,3 +107,17 @@ I do not think science and faith are natural enemies. They can come into tension
 The better path is patient integration. Read Scripture well. Study creation carefully. Avoid false battles. Be honest about unresolved questions. Worship the Creator whose world is more intricate, spacious and wonderful than we can fully grasp.
 
 That is why I want this conversation to remain humble. Christians do not need to pretend every scientific claim is settled, and scientists do not need to pretend every philosophical question has disappeared. There is room for careful confidence without arrogance.
+
+## Sources and Further Reading
+
+This article assumes that Christian faith and scientific inquiry need not be enemies, while still recognising real interpretive questions. These sources are useful for checking the claims about creation, Scripture, science, conflict narratives, Genesis, miracles and Christian approaches to origins.
+
+- John H. Walton, *The Lost World of Genesis One: Ancient Cosmology and the Origins Debate*. IVP Academic, 2009.
+- John H. Walton, *The Lost World of Adam and Eve: Genesis 2-3 and the Human Origins Debate*. IVP Academic, 2015.
+- Francis S. Collins, *The Language of God: A Scientist Presents Evidence for Belief*. Free Press, 2006.
+- Alister E. McGrath, *Science and Religion: A New Introduction*. Wiley-Blackwell, 3rd ed., 2020.
+- Denis R. Alexander, *Creation or Evolution: Do We Have to Choose?* Monarch, 2008.
+- Deborah B. Haarsma and Loren D. Haarsma, *Origins: Christian Perspectives on Creation, Evolution, and Intelligent Design*. Faith Alive, 2011.
+- C. John Collins, *Genesis 1-4: A Linguistic, Literary, and Theological Commentary*. P&R, 2006.
+- Ian G. Barbour, *Religion and Science: Historical and Contemporary Issues*. HarperOne, 1997.
+- Peter Harrison, *The Territories of Science and Religion*. University of Chicago Press, 2015.

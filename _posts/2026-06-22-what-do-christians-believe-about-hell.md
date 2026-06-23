@@ -137,3 +137,17 @@ For annihilationism or conditional immortality, John Stott, Edward Fudge and mor
 For universal reconciliation, Gregory of Nyssa is often discussed historically, while modern writers have developed different forms of Christian universalism.
 
 For my own current position, see [Why I Currently Lean Toward Annihilationism]({{ "/theology-guides/why-i-currently-lean-toward-annihilationism/" | relative_url }}).
+
+## Sources and Further Reading
+
+This article is a broad introduction to Christian views of hell. The sources below represent eternal conscious torment, annihilationism or conditional immortality, and universal reconciliation, so readers can check the article's descriptions against serious advocates of each position.
+
+- Jerry L. Walls, *Hell: The Logic of Damnation*. University of Notre Dame Press, 1992.
+- Denny Burk, “Eternal Conscious Torment.” In *Four Views on Hell*, 2nd ed., edited by Preston Sprinkle. Zondervan, 2016.
+- John G. Stackhouse Jr., “Terminal Punishment.” In *Four Views on Hell*, 2nd ed., edited by Preston Sprinkle. Zondervan, 2016.
+- Robin A. Parry, “Christian Universalism.” In *Four Views on Hell*, 2nd ed., edited by Preston Sprinkle. Zondervan, 2016.
+- Edward Fudge, *The Fire That Consumes: A Biblical and Historical Study of the Doctrine of Final Punishment*. Cascade, 3rd ed., 2011.
+- John Stott and David L. Edwards, *Essentials: A Liberal-Evangelical Dialogue*. Hodder & Stoughton, 1988.
+- I. Howard Marshall, “The New Testament Does Not Teach Universal Salvation.” In *Universal Salvation? The Current Debate*, edited by Robin A. Parry and Christopher H. Partridge. Eerdmans, 2003.
+- Gregory MacDonald, *The Evangelical Universalist*. Cascade, 2nd ed., 2012.
+- Christopher W. Morgan and Robert A. Peterson, eds., *Hell Under Fire: Modern Scholarship Reinvents Eternal Punishment*. Zondervan, 2004.
