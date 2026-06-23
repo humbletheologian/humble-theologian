@@ -13,6 +13,7 @@ tags:
   - discipleship
 description: "A practical guide to reading the Bible carefully, with attention to genre, context, culture, hermeneutics, original audience and faithful application today."
 permalink: "/how-to-interpret-the-bible/"
+words: 2200
 ---
 
 Most Christians know the Bible matters. Fewer Christians have been taught how to read it well.

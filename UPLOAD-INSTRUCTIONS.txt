@@ -1,0 +1,49 @@
+Humble Theologian continuity patch
+
+Upload these files/folders only. Do not upload Love as a Verb or Spurgeon devotionals.
+
+Root/main level:
+- index.html
+- start-here.md
+- topics.md
+- articles.md
+- resources.md
+- _config.yml
+- .pages.yml
+
+_includes folder:
+- header.html
+- footer.html
+- post-card.html
+
+_layouts folder:
+- default.html
+- post.html
+
+_posts folder:
+- upload/replace all .md files in the included _posts folder
+
+What this patch implements:
+1. Standardised article metadata structure.
+2. New /articles/ archive page.
+3. Curated Start Here reading pathway.
+4. Consistent article ending through _layouts/post.html.
+5. “How I write” note on Start Here.
+6. Category descriptions on Topics.
+7. Keeps Sources and Further Reading style in articles.
+8. More organised Resources page.
+9. Keeps Love as a Verb as its own main feature and devotional resource.
+10. Published/category/topic line in article layout.
+11. Keeps comments off for now while making email/RSS/contact easy to find.
+
+After uploading:
+1. Commit changes.
+2. Wait for the green tick in Actions.
+3. Hard refresh or use ?v=continuity-patch.
+4. Test:
+   - https://www.humbletheologian.com/
+   - https://www.humbletheologian.com/start-here/
+   - https://www.humbletheologian.com/articles/
+   - https://www.humbletheologian.com/topics/
+   - https://www.humbletheologian.com/resources/
+   - https://www.humbletheologian.com/feed.xml

@@ -13,6 +13,7 @@ tags:
   - church
 description: "A plain-language guide to the core Christian beliefs shared across historic Christianity, and how to distinguish essentials from important secondary disagreements."
 permalink: "/essential-christian-beliefs/"
+words: 2300
 ---
 
 Christians disagree about many things. We disagree about baptism, spiritual gifts, church government, end-times timelines, women in ministry, worship styles, Bible translations, communion and a long list of other topics. Some disagreements are important. Some are less important than we make them. Some have divided churches for centuries.

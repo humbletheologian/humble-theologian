@@ -25,7 +25,7 @@ kicker: "Welcome"
 
 Welcome to **Humble Theologian**.
 
-This site is for Bible college students, thoughtful Christians and anyone who wants to take Scripture and theology seriously without turning faith into a competition of who can sound the most clever.
+This site is for Bible college students, thoughtful Christians and anyone who wants to take Scripture and theology seriously without turning faith into a competition over who can sound the cleverest.
 
 The aim is simple: **serious theology without the ego**.
 
@@ -43,22 +43,19 @@ If you are new to the site, I suggest starting here:
 
 That path moves from the good news of Jesus, to core Christian beliefs, to the Bible itself, then to faithful interpretation and one of the harder parts of Christian reading: Old Testament law.
 
-## What you will find here
+## New to Christianity?
 
-### Core Christian Beliefs
-
-These articles explain the central convictions of historic Christianity, along with some important areas where Christians disagree.
+Start with the gospel and the core beliefs shared across historic Christianity.
 
 <ul>
   {% if gospel_post %}<li><a href="{{ gospel_post.url | relative_url }}">What Is the Gospel?</a></li>{% endif %}
   {% if essentials_post %}<li><a href="{{ essentials_post.url | relative_url }}">What Are the Essential Christian Beliefs?</a></li>{% endif %}
   {% if new_creation_post %}<li><a href="{{ new_creation_post.url | relative_url }}">New Creation, Not Escape</a></li>{% endif %}
-  {% if soul_sleep_post %}<li><a href="{{ soul_sleep_post.url | relative_url }}">Soul Sleep and the Hope of Resurrection</a></li>{% endif %}
 </ul>
 
-### Bible and Interpretation
+## Trying to understand the Bible?
 
-This section is for readers who want to understand the Bible more carefully: where it came from, how it should be read and how context, genre, culture and application matter.
+These articles are for readers who want to understand Scripture carefully, not just collect isolated proof texts.
 
 <ul>
   {% if bible_post %}<li><a href="{{ bible_post.url | relative_url }}">How We Got the Bible</a></li>{% endif %}
@@ -66,7 +63,7 @@ This section is for readers who want to understand the Bible more carefully: whe
   {% if ot_law_post %}<li><a href="{{ ot_law_post.url | relative_url }}">How Should Christians Read Old Testament Law?</a></li>{% endif %}
 </ul>
 
-### Disability, Faith and Church
+## Interested in disability, dignity and church life?
 
 This is one of the more personal parts of the site. It explores disability, dignity, healing, embodiment, accessibility and the role of disabled Christians in the church.
 
@@ -77,50 +74,37 @@ The focus is not only ministry *to* disabled people, but ministry *with* and *by
   {% if disability_church_post %}<li><a href="{{ disability_church_post.url | relative_url }}">What Churches Need to Understand About Disability</a></li>{% endif %}
 </ul>
 
-### Hell, Judgment and Hope
+## Exploring disputed doctrines?
 
-These articles explain the major Christian views of hell and judgment while also being honest about where I currently lean.
+Christians disagree about important things. These articles try to explain the issues without turning every disagreement into a fight.
 
 <ul>
   {% if hell_intro_post %}<li><a href="{{ hell_intro_post.url | relative_url }}">What Do Christians Believe About Hell?</a></li>{% endif %}
   {% if annihilationism_post %}<li><a href="{{ annihilationism_post.url | relative_url }}">Why I Currently Lean Toward Annihilationism</a></li>{% endif %}
+  {% if soul_sleep_post %}<li><a href="{{ soul_sleep_post.url | relative_url }}">Soul Sleep and the Hope of Resurrection</a></li>{% endif %}
+  {% if rapture_post %}<li><a href="{{ rapture_post.url | relative_url }}">Post-Trib, Premillennial and No Secret Rapture</a></li>{% endif %}
 </ul>
 
-### Where I Stand
+## Where I currently stand
 
-Some articles explain my current theological positions. They are not meant to be a creed or a test of fellowship. They are simply a way of being transparent.
+Some articles explain my current theological positions. They are not a creed or a test of fellowship. They are simply a way of being transparent about how I currently read the evidence.
 
 <ul>
   {% if arminian_post %}<li><a href="{{ arminian_post.url | relative_url }}">Arminian, Calvinist, Provisionist or Molinist?</a></li>{% endif %}
   {% if gender_post %}<li><a href="{{ gender_post.url | relative_url }}">Soft Complementarian, Drifting Egalitarian</a></li>{% endif %}
-  {% if rapture_post %}<li><a href="{{ rapture_post.url | relative_url }}">Post-Trib, Premillennial and No Secret Rapture</a></li>{% endif %}
 </ul>
 
-### Love as a Verb
+## Love as a Verb
 
 This is the devotional side of Humble Theologian. The original site included a 365-day devotional series called **Love as a Verb**. The relaunch preserves that material and makes it available as part of the wider site.
 
 The central idea is that Christian love is not merely a feeling. Love becomes visible in action, service, sacrifice, patience, forgiveness and faithfulness.
 
-## How to use this site
+## How I write
 
-If you are a Bible college student, start with **Bible and Interpretation** and then browse the articles connected to your current unit.
+I write as a Bible college student, church volunteer and developing pastoral care practitioner. These articles are not meant to settle every issue or replace local church discipleship. They are meant to help readers think carefully, read Scripture responsibly and follow Jesus faithfully.
 
-If you are a church member wanting to go deeper, start with **Core Christian Beliefs** or **Love as a Verb**.
-
-If you are interested in disability and church life, start with **Disability, Faith and Church**.
-
-If you want to know my theological leanings, start with **Where I Stand**.
-
-## A note on disagreement
-
-Christians disagree about important things. Sometimes those disagreements matter deeply. But not every disagreement needs to become a fight.
-
-My goal is to present views honestly, avoid cheap caricatures and remain open to correction. I will not always get that right. When I do not, I hope to be humble enough to fix it.
-
-## A note on sources
-
-Some content on this site is adapted from my Bible college work. Assignments will normally be rewritten before appearing here so they are more useful for public readers and do not simply reproduce academic submissions.
+Some content is adapted from my Bible college work. Assignments will normally be rewritten before appearing here so they are more useful for public readers and do not simply reproduce academic submissions.
 
 Where I rely on books, articles or other resources, I will try to acknowledge them clearly. The goal is not to replace good scholarship, but to help ordinary Christians engage with it.
 

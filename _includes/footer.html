@@ -2,14 +2,20 @@
   <div class="wrap footer-grid">
     <div>
       <strong>Humble Theologian</strong>
-      <p>Learning, loving and living the faith.</p>
+      <p>{{ site.tagline | default: 'Learning, loving and living the faith.' }}</p>
     </div>
     <div>
       <p>Serious theology without the ego. A personal resource for Bible college students and thoughtful Christians.</p>
       <p>
+        <a href="{{ '/articles/' | relative_url }}">Articles</a> ·
+        <a href="{{ '/topics/' | relative_url }}">Topics</a> ·
+        <a href="{{ '/resources/' | relative_url }}">Resources</a> ·
+        <a href="{{ '/contact/' | relative_url }}">Contact</a> ·
+        {% if site.feed.path %}<a href="{{ site.feed.path | relative_url }}">RSS feed</a>{% else %}<a href="{{ '/feed.xml' | relative_url }}">RSS feed</a>{% endif %}
+      </p>
+      <p>
         Questions, comments or suggested topics?
-        <a href="mailto:{{ site.email | default: 'shayne.johnston@humbletheologian.com' }}">Email me</a>
-        {% if site.feed.path %} · <a href="{{ site.feed.path | relative_url }}">RSS feed</a>{% else %} · <a href="{{ '/feed.xml' | relative_url }}">RSS feed</a>{% endif %}
+        <a href="mailto:{{ site.email | default: 'shayne.johnston@humbletheologian.com' }}">Email me</a>.
       </p>
     </div>
   </div>

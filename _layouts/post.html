@@ -6,13 +6,21 @@ layout: default
     <p class="eyebrow">{{ page.category }}</p>
     <h1>{{ page.title }}</h1>
     {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
-    <p class="meta">By {{ page.author | default: site.author }} · {{ page.date | date: "%d %B %Y" }}{% if page.words %} · approx. {{ page.words }} words{% endif %}</p>
+    <p class="meta">
+      Published: {{ page.date | date: "%d %B %Y" }}
+      {% if page.author %} · By {{ page.author }}{% elsif site.author %} · By {{ site.author }}{% endif %}
+      {% if page.category %} · Category: {{ page.category }}{% endif %}
+      {% if page.topic %} · Topic: {{ page.topic }}{% endif %}
+      {% if page.words %} · Approx. {{ page.words }} words{% endif %}
+    </p>
   </header>
+
   <div class="article-body wrap narrow prose">
     {{ content }}
   </div>
+
   <footer class="article-footer wrap narrow">
-    <p><a href="{{ '/topics/' | relative_url }}">Browse more topics</a></p>
+    <p><a href="{{ '/articles/' | relative_url }}">Browse all articles</a> · <a href="{{ '/topics/' | relative_url }}">Browse by topic</a></p>
     <p>
       Have a question or thoughtful response to this article?
       You are welcome to email me at
