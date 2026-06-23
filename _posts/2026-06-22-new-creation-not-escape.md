@@ -2,7 +2,9 @@
 layout: post
 title: "New Creation, Not Escape: Why Heaven Is Not the Final Destination"
 description: "A reflection on the new creation hope taught by N. T. Wright, J. Richard Middleton and others: God’s future is not escape from earth, but the renewal of creation."
-category: "Where I Stand"
+category: "Core Christian Beliefs"
+topic: "New creation and Christian hope"
+permalink: "/new-creation-not-escape/"
 tags: ["new creation", "eschatology", "N. T. Wright", "resurrection"]
 words: 2000
 author: Shayne Johnston

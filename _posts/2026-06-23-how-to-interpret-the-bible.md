@@ -3,8 +3,8 @@ layout: post
 title: "How to Interpret the Bible"
 date: 2026-06-23
 author: Shayne Johnston
-category: Bible Study
-topic: Bible interpretation
+category: "Bible and Interpretation"
+topic: "Hermeneutics and application"
 tags:
   - Bible study
   - hermeneutics
@@ -12,7 +12,7 @@ tags:
   - Bible college help
   - discipleship
 description: "A practical guide to reading the Bible carefully, with attention to genre, context, culture, hermeneutics, original audience and faithful application today."
-permalink: /how-to-interpret-the-bible/
+permalink: "/how-to-interpret-the-bible/"
 ---
 
 Most Christians know the Bible matters. Fewer Christians have been taught how to read it well.

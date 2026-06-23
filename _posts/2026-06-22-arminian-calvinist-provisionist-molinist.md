@@ -2,7 +2,9 @@
 layout: post
 title: "Arminian, Calvinist, Provisionist or Molinist? Where I Currently Lean"
 description: "A humble attempt to explain why I lean away from Calvinism and toward either provisionism or Molinism, while still wanting to represent Calvinist brothers and sisters fairly."
-category: "Where I Stand"
+category: "Core Christian Beliefs"
+topic: "Salvation, grace and free will"
+permalink: "/arminian-calvinist-provisionist-molinist/"
 tags: ["salvation", "Arminianism", "Calvinism", "provisionism", "Molinism"]
 words: 2000
 author: Shayne Johnston

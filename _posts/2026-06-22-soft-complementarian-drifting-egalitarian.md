@@ -2,7 +2,9 @@
 layout: post
 title: "Soft Complementarian, Drifting Egalitarian"
 description: "A personal reflection on women, men, church leadership and why I am trying to move carefully rather than defensively."
-category: "Where I Stand"
+category: "Church and Pastoral Care"
+topic: "Women, men and church leadership"
+permalink: "/soft-complementarian-drifting-egalitarian/"
 tags: ["women in ministry", "complementarian", "egalitarian", "church"]
 words: 2000
 author: Shayne Johnston

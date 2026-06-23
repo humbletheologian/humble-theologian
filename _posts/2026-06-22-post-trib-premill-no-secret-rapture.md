@@ -2,7 +2,9 @@
 layout: post
 title: "Post-Trib, Premillennial and No Secret Rapture"
 description: "A summary of my current end-times view: Christ returns after tribulation, reigns in victory and gathers his people without a separate secret rapture event."
-category: "Where I Stand"
+category: "Core Christian Beliefs"
+topic: "Eschatology and end times"
+permalink: "/post-trib-premillennial-no-secret-rapture/"
 tags: ["end times", "premillennialism", "rapture", "eschatology"]
 words: 2000
 author: Shayne Johnston

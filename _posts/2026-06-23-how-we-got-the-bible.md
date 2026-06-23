@@ -3,8 +3,9 @@ layout: post
 title: "How We Got the Bible"
 date: 2026-06-23
 author: Shayne Johnston
-category: Theology Guides
-topic: Bible and canon
+category: "Bible and Interpretation"
+topic: "Canon and Scripture"
+permalink: "/how-we-got-the-bible/"
 tags:
   - Bible study
   - theology guides

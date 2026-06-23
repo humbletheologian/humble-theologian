@@ -2,7 +2,9 @@
 layout: post
 title: "Science and Faith: Is There Really a Conflict?"
 description: "A reflection on creation, Scripture, science and whether Christians need to fear honest inquiry into the world God made."
-category: "Theology Guides"
+category: "Bible and Interpretation"
+topic: "Creation, Scripture and science"
+permalink: "/science-and-faith/"
 tags: ["science", "faith", "creation", "Bible"]
 words: 2000
 author: Shayne Johnston

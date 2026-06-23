@@ -2,7 +2,9 @@
 layout: post
 title: "Christianity in Western Cultures: Australia, America and the Shape of Discipleship"
 description: "A reflection on how Christianity is lived differently in Western developed countries, especially Australia and the United States."
-category: "Theology Guides"
+category: "Church and Pastoral Care"
+topic: "Faith and culture"
+permalink: "/christianity-in-western-cultures/"
 tags: ["culture", "Australia", "United States", "discipleship"]
 words: 2000
 author: Shayne Johnston

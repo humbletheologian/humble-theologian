@@ -3,8 +3,8 @@ layout: post
 title: "What Are the Essential Christian Beliefs?"
 date: 2026-06-23
 author: Shayne Johnston
-category: Theology Guides
-topic: Christian doctrine
+category: "Core Christian Beliefs"
+topic: "Essentials and secondary doctrines"
 tags:
   - theology guides
   - Christian beliefs
@@ -12,7 +12,7 @@ tags:
   - discipleship
   - church
 description: "A plain-language guide to the core Christian beliefs shared across historic Christianity, and how to distinguish essentials from important secondary disagreements."
-permalink: /essential-christian-beliefs/
+permalink: "/essential-christian-beliefs/"
 ---
 
 Christians disagree about many things. We disagree about baptism, spiritual gifts, church government, end-times timelines, women in ministry, worship styles, Bible translations, communion and a long list of other topics. Some disagreements are important. Some are less important than we make them. Some have divided churches for centuries.

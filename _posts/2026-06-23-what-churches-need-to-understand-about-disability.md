@@ -4,7 +4,8 @@ title: "What Churches Need to Understand About Disability"
 date: 2026-06-23
 author: Shayne Johnston
 category: "Disability, Faith and Church"
-topic: "Disability and church life"
+topic: "Accessibility and belonging"
+permalink: "/what-churches-need-to-understand-about-disability/"
 tags:
   - disability
   - church
