@@ -11,7 +11,7 @@ tags:
   - pastoral care
   - inclusion
   - theology
-description: "A plain-language theology and pastoral care guide to disability, dignity, belonging and church life."
+description: "description: "A practical guide for churches on welcome, belonging, accessibility, pastoral care and moving beyond pity toward genuine participation."
 words: 2100
 ---
 
