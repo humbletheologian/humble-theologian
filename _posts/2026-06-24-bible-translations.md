@@ -7,7 +7,7 @@ category: "Bible and Interpretation"
 topic: "Bible Translations"
 description: "A plain-language guide to Bible translation philosophy, committees, paraphrases, inclusive language, KJV-onlyism and choosing a translation wisely."
 permalink: /bible-translations/
-words: "2280"
+words: 2280
 ---
 
 Most Christians who read the Bible in English are already relying on translation. That is not a problem. It is a gift. The Old Testament was mostly written in Hebrew, with some Aramaic, and the New Testament was written in Greek. Unless we can read those languages well, we meet the Bible through the work of translators.
