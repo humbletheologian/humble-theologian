@@ -19,6 +19,36 @@ layout: default
     {{ content }}
   </div>
 
+  <section class="article-share wrap narrow" aria-labelledby="share-this-article">
+    <h2 id="share-this-article">Share this article</h2>
+    <p>If this article was helpful, you are welcome to share it with others.</p>
+    <p class="share-links">
+      <button type="button" class="share-copy" onclick="copyArticleLink(this)">Copy link</button>
+      <a href="mailto:?subject={{ page.title | uri_escape }}&amp;body={{ page.title | uri_escape }}%0A{{ page.url | absolute_url | uri_escape }}">Email</a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | uri_escape }}" target="_blank" rel="noopener noreferrer">Facebook</a>
+      <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | uri_escape }}&amp;text={{ page.title | uri_escape }}" target="_blank" rel="noopener noreferrer">X</a>
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ page.url | absolute_url | uri_escape }}&amp;title={{ page.title | uri_escape }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+    </p>
+  </section>
+
+  <script>
+    function copyArticleLink(button) {
+      const url = window.location.href;
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(function () {
+          const originalText = button.textContent;
+          button.textContent = 'Link copied';
+          setTimeout(function () { button.textContent = originalText; }, 2000);
+        }).catch(function () {
+          window.prompt('Copy this link:', url);
+        });
+      } else {
+        window.prompt('Copy this link:', url);
+      }
+    }
+  </script>
+
+
   <footer class="article-footer wrap narrow">
     <p><a href="{{ '/articles/' | relative_url }}">Browse all articles</a> · <a href="{{ '/topics/' | relative_url }}">Browse by topic</a></p>
     <p>
