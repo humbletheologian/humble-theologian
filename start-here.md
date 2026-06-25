@@ -6,15 +6,19 @@ description: "A guided entry point for new readers."
 kicker: "Welcome"
 ---
 
+{% assign why_started_post = site.posts | where: "title", "Why I Started Humble Theologian" | first %}
+{% assign learning_loving_post = site.posts | where: "title", "Learning, Loving and Living the Faith" | first %}
 {% assign gospel_post = site.posts | where: "title", "What Is the Gospel?" | first %}
 {% assign essentials_post = site.posts | where: "title", "What Are the Essential Christian Beliefs?" | first %}
 {% assign bible_post = site.posts | where: "title", "How We Got the Bible" | first %}
 {% assign interpretation_post = site.posts | where: "title", "How to Interpret the Bible" | first %}
+{% assign bible_translations_post = site.posts | where: "title", "Bible Translations: Why They Differ and How to Choose One" | first %}
 {% assign ot_law_post = site.posts | where: "title", "How Should Christians Read Old Testament Law?" | first %}
 {% assign hell_intro_post = site.posts | where: "title", "What Do Christians Believe About Hell?" | first %}
 {% assign annihilationism_post = site.posts | where: "title", "Why I Currently Lean Toward Annihilationism" | first %}
 {% assign disability_image_post = site.posts | where: "title", "Disability and the Image of God" | first %}
 {% assign disability_church_post = site.posts | where: "title", "What Churches Need to Understand About Disability" | first %}
+{% assign christian_influence_post = site.posts | where: "title", "Christian Influence Without Theocracy: Are We a Christian Nation?" | first %}
 {% assign new_creation_post = site.posts | where: "title", "New Creation, Not Escape: Why Heaven Is Not the Final Destination" | first %}
 {% assign soul_sleep_post = site.posts | where: "title", "Soul Sleep and the Hope of Resurrection" | first %}
 {% assign rapture_post = site.posts | where: "title", "Post-Trib, Premillennial and No Secret Rapture" | first %}
@@ -27,21 +31,29 @@ Welcome to **Humble Theologian**.
 
 This site is for Bible college students, thoughtful Christians and anyone who wants to take Scripture and theology seriously without turning faith into a competition over who can sound the cleverest.
 
-The aim is simple: **serious theology without the ego**.
+The aim is simple: **serious theology without the ego**. Humble Theologian is about learning, loving and living the faith. That means thinking carefully, loving God and neighbour and letting theology become faithful discipleship in ordinary life.
 
 ## The best first pathway
 
 If you are new to the site, I suggest starting here:
 
 <ol>
+  {% if why_started_post %}<li><a href="{{ why_started_post.url | relative_url }}">Why I Started Humble Theologian</a></li>{% endif %}
+  {% if learning_loving_post %}<li><a href="{{ learning_loving_post.url | relative_url }}">Learning, Loving and Living the Faith</a></li>{% endif %}
   {% if gospel_post %}<li><a href="{{ gospel_post.url | relative_url }}">What Is the Gospel?</a></li>{% endif %}
   {% if essentials_post %}<li><a href="{{ essentials_post.url | relative_url }}">What Are the Essential Christian Beliefs?</a></li>{% endif %}
   {% if bible_post %}<li><a href="{{ bible_post.url | relative_url }}">How We Got the Bible</a></li>{% endif %}
   {% if interpretation_post %}<li><a href="{{ interpretation_post.url | relative_url }}">How to Interpret the Bible</a></li>{% endif %}
+  {% if bible_translations_post %}<li><a href="{{ bible_translations_post.url | relative_url }}">Bible Translations: Why They Differ and How to Choose One</a></li>{% endif %}
   {% if ot_law_post %}<li><a href="{{ ot_law_post.url | relative_url }}">How Should Christians Read Old Testament Law?</a></li>{% endif %}
+  {% if disability_image_post %}<li><a href="{{ disability_image_post.url | relative_url }}">Disability and the Image of God</a></li>{% endif %}
+  {% if disability_church_post %}<li><a href="{{ disability_church_post.url | relative_url }}">What Churches Need to Understand About Disability</a></li>{% endif %}
+  {% if hell_intro_post %}<li><a href="{{ hell_intro_post.url | relative_url }}">What Do Christians Believe About Hell?</a></li>{% endif %}
+  {% if annihilationism_post %}<li><a href="{{ annihilationism_post.url | relative_url }}">Why I Currently Lean Toward Annihilationism</a></li>{% endif %}
+  {% if christian_influence_post %}<li><a href="{{ christian_influence_post.url | relative_url }}">Christian Influence Without Theocracy</a></li>{% endif %}
 </ol>
 
-That path moves from the good news of Jesus, to core Christian beliefs, to the Bible itself, then to faithful interpretation and one of the harder parts of Christian reading: Old Testament law.
+That path begins with the purpose and tone of the site, then moves into the gospel, core beliefs, Scripture, interpretation, disability, disputed doctrines and public faith.
 
 ## New to Christianity?
 
@@ -60,7 +72,16 @@ These articles are for readers who want to understand Scripture carefully, not j
 <ul>
   {% if bible_post %}<li><a href="{{ bible_post.url | relative_url }}">How We Got the Bible</a></li>{% endif %}
   {% if interpretation_post %}<li><a href="{{ interpretation_post.url | relative_url }}">How to Interpret the Bible</a></li>{% endif %}
+  {% if bible_translations_post %}<li><a href="{{ bible_translations_post.url | relative_url }}">Bible Translations: Why They Differ and How to Choose One</a></li>{% endif %}
   {% if ot_law_post %}<li><a href="{{ ot_law_post.url | relative_url }}">How Should Christians Read Old Testament Law?</a></li>{% endif %}
+</ul>
+
+## Interested in Christian living and formation?
+
+Christian maturity is not only about knowing more. It is about learning what is true, loving God and neighbour and living faithfully in ordinary places.
+
+<ul>
+  {% if learning_loving_post %}<li><a href="{{ learning_loving_post.url | relative_url }}">Learning, Loving and Living the Faith</a></li>{% endif %}
 </ul>
 
 ## Interested in disability, dignity and church life?
@@ -83,6 +104,14 @@ Christians disagree about important things. These articles try to explain the is
   {% if annihilationism_post %}<li><a href="{{ annihilationism_post.url | relative_url }}">Why I Currently Lean Toward Annihilationism</a></li>{% endif %}
   {% if soul_sleep_post %}<li><a href="{{ soul_sleep_post.url | relative_url }}">Soul Sleep and the Hope of Resurrection</a></li>{% endif %}
   {% if rapture_post %}<li><a href="{{ rapture_post.url | relative_url }}">Post-Trib, Premillennial and No Secret Rapture</a></li>{% endif %}
+</ul>
+
+## Faith in public life
+
+Christians should be able to serve society, contribute to public life and seek the good of their neighbours. At the same time, people should be persuaded by the gospel, not legislated into faith.
+
+<ul>
+  {% if christian_influence_post %}<li><a href="{{ christian_influence_post.url | relative_url }}">Christian Influence Without Theocracy</a></li>{% endif %}
 </ul>
 
 ## Where I currently stand

@@ -22,6 +22,8 @@ My own journey back into Christian faith began after a difficult season of loss,
 
 Humble Theologian began as a place to share devotional writing, assignments and reflections. This relaunch gives it a clearer purpose: to become a free theological resource for Bible college students and serious Christians.
 
+If you want the fuller story behind the site, start with [Why I Started Humble Theologian]({{ '/why-i-started-humble-theologian/' | relative_url }}). If you want to understand the vision behind the tagline, read [Learning, Loving and Living the Faith]({{ '/learning-loving-and-living-the-faith/' | relative_url }}).
+
 On this site you will find devotional writing, theological explainers, Bible study resources, reflections from ministry and material adapted from my own study. Some pages will compare different Christian positions. Where appropriate, I will also say where I currently stand and why. I do not want to pretend neutrality when I have a view, but I also do not want to caricature brothers and sisters in Christ who see things differently.
 
 A few themes are especially important to me:
