@@ -7,7 +7,7 @@ category: "Bible and Interpretation"
 topic: "Biblical theology and eschatology"
 description: "A plain-language guide to dispensationalism, its history, distinctives, relationship to end-times views and why I am not sure which theological framework best describes where I currently stand."
 permalink: /dispensationalism/
-word: 2190
+words: 2190
 ---
 
 Dispensationalism is one of those theological words that can sound more complicated than it needs to. At its simplest, it is a way of reading the whole Bible that pays close attention to the different stages, or “dispensations,” in God’s dealings with humanity. It is also a framework that has often been connected with a strong distinction between Israel and the church, a future-focused reading of biblical prophecy and a particular way of understanding the end times.
