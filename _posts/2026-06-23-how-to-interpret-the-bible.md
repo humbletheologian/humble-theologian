@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Interpret the Bible"
-date: 2026-06-23
+date: 2026-03-20
 author: Shayne Johnston
 category: "Bible and Interpretation"
 topic: "Hermeneutics and application"

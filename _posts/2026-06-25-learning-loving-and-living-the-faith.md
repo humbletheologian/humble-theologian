@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning, Loving and Living the Faith"
-date: 2026-06-25
+date: 2026-02-20
 author: Shayne Johnston
 category: "Christian Living and Formation"
 topic: "Discipleship"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bible Translations: Why They Differ and How to Choose One"
-date: 2026-06-24
+date: 2026-03-27
 author: Shayne Johnston
 category: "Bible and Interpretation"
 topic: "Bible Translations"

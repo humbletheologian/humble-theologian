@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Churches Need to Understand About Disability"
-date: 2026-06-23
+date: 2026-04-17
 author: Shayne Johnston
 category: "Disability, Faith and Church"
 topic: "Accessibility and belonging"

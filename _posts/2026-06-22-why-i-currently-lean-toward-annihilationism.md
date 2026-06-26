@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I Currently Lean Toward Annihilationism"
-date: 2026-06-22
+date: 2026-04-24
 author: "Shayne Johnston"
 category: "Hell, Judgment and Hope"
 topic: "Annihilationism and conditional immortality"

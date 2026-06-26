@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Soul Sleep and the Hope of Resurrection"
+date: 2026-05-01
 description: "Why I currently find soul sleep more coherent than the popular idea of a conscious intermediate state, while still holding the question humbly."
 category: "Core Christian Beliefs"
 topic: "Resurrection and the intermediate state"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Is the Gospel?"
-date: 2026-06-23
+date: 2026-02-27
 author: Shayne Johnston
 category: "Core Christian Beliefs"
 topic: "Gospel and salvation"

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Christianity in Western Cultures: Australia, America and the Shape of Discipleship"
+date: 2026-06-12
 description: "A reflection on how Christianity is lived differently in Western developed countries, especially Australia and the United States."
 category: "Church and Pastoral Care"
 topic: "Faith and culture"

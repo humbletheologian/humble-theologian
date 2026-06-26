@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Are the Essential Christian Beliefs?"
-date: 2026-06-23
+date: 2026-03-06
 author: Shayne Johnston
 category: "Core Christian Beliefs"
 topic: "Essentials and secondary doctrines"

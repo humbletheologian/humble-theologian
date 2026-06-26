@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Do Christians Believe About Hell?"
-date: 2026-06-22
+date: 2026-04-24
 author: "Shayne Johnston"
 category: "Hell, Judgment and Hope"
 topic: "Views of hell"

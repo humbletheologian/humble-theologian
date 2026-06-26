@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Should Christians Read Old Testament Law?"
-date: 2026-06-23
+date: 2026-04-03
 author: "Shayne Johnston"
 category: "Old Testament Law and Christian Life"
 topic: "Law and covenant"

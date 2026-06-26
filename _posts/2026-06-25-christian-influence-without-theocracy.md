@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christian Influence Without Theocracy: Are We a Christian Nation?"
-date: 2026-06-25
+date: 2026-06-12
 author: Shayne Johnston
 category: "Church and Pastoral Care"
 topic: "Public Faith"

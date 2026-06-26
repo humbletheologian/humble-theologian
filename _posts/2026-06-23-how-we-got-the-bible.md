@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How We Got the Bible"
-date: 2026-06-23
+date: 2026-03-13
 author: Shayne Johnston
 category: "Bible and Interpretation"
 topic: "Canon and Scripture"

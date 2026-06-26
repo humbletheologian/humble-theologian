@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disability and the Image of God"
-date: 2026-06-22
+date: 2026-04-10
 author: "Shayne Johnston"
 category: "Disability, Faith and Church"
 topic: "Image of God and human dignity"

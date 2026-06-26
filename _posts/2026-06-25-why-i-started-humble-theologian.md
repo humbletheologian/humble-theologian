@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I Started Humble Theologian"
-date: 2026-06-25
+date: 2026-02-13
 author: Shayne Johnston
 category: "Personal Reflections"
 topic: "Site Purpose"
