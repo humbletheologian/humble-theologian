@@ -7,12 +7,13 @@ category: "Disability, Faith and Church"
 topic: "Accessibility and belonging"
 permalink: "/what-churches-need-to-understand-about-disability/"
 tags:
-  - disability
-  - church
-  - pastoral care
-  - inclusion
-  - theology
-description: "A practical guide for churches on welcome, belonging, accessibility, pastoral care and moving beyond pity toward genuine participation."
+- disability
+- church
+- pastoral care
+- inclusion
+- theology
+description: "A practical guide for churches on welcome, belonging, accessibility,
+  pastoral care and moving beyond pity toward genuine participation."
 words: 2100
 ---
 

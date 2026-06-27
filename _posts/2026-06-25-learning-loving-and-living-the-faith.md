@@ -5,7 +5,8 @@ date: 2026-02-20
 author: Shayne Johnston
 category: "Christian Living and Formation"
 topic: "Discipleship"
-description: "A vision article for Humble Theologian on learning what is true, loving God and neighbour and living the faith in ordinary discipleship."
+description: "A vision article for Humble Theologian on learning what is true, loving
+  God and neighbour and living the faith in ordinary discipleship."
 permalink: /learning-loving-and-living-the-faith/
 words: 2090
 ---

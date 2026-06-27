@@ -5,7 +5,8 @@ date: 2026-03-27
 author: Shayne Johnston
 category: "Bible and Interpretation"
 topic: "Bible Translations"
-description: "A plain-language guide to Bible translation philosophy, committees, paraphrases, inclusive language, KJV-onlyism and choosing a translation wisely."
+description: "A plain-language guide to Bible translation philosophy, committees,
+  paraphrases, inclusive language, KJV-onlyism and choosing a translation wisely."
 permalink: /bible-translations/
 words: 2280
 ---

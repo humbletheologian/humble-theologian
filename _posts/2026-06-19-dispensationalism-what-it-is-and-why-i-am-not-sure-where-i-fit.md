@@ -5,7 +5,9 @@ date: 2026-06-19
 author: Shayne Johnston
 category: "Bible and Interpretation"
 topic: "Biblical theology and eschatology"
-description: "A plain-language guide to dispensationalism, its history, distinctives, relationship to end-times views and why I am not sure which theological framework best describes where I currently stand."
+description: "A plain-language guide to dispensationalism, its history, distinctives,
+  relationship to end-times views and why I am not sure which theological framework
+  best describes where I currently stand."
 permalink: /dispensationalism/
 words: 2190
 ---

@@ -6,12 +6,14 @@ author: Shayne Johnston
 category: "Bible and Interpretation"
 topic: "Hermeneutics and application"
 tags:
-  - Bible study
-  - hermeneutics
-  - interpretation
-  - Bible college help
-  - discipleship
-description: "A practical guide to reading the Bible carefully, with attention to genre, context, culture, hermeneutics, original audience and faithful application today."
+- Bible study
+- hermeneutics
+- interpretation
+- Bible college help
+- discipleship
+description: "A practical guide to reading the Bible carefully, with attention to
+  genre, context, culture, hermeneutics, original audience and faithful application
+  today."
 permalink: "/how-to-interpret-the-bible/"
 words: 2200
 ---

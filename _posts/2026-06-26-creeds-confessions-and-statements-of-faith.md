@@ -5,7 +5,9 @@ date: 2026-06-26
 author: Shayne Johnston
 category: "Core Christian Beliefs"
 topic: "Creeds, confessions and doctrine"
-description: "A plain-language guide to creeds, confessions and statements of faith, why some churches use them more explicitly than others and whether Christians miss out when their churches keep things simple."
+description: "A plain-language guide to creeds, confessions and statements of faith,
+  why some churches use them more explicitly than others and whether Christians miss
+  out when their churches keep things simple."
 permalink: /creeds-confessions-statements-of-faith/
 words: 2120
 ---

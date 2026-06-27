@@ -2,7 +2,8 @@
 layout: post
 title: "Soft Complementarian, Drifting Egalitarian"
 date: 2026-06-05
-description: "A personal reflection on women, men, church leadership and why I am trying to move carefully rather than defensively."
+description: "A personal reflection on women, men, church leadership and why I am
+  trying to move carefully rather than defensively."
 category: "Church and Pastoral Care"
 topic: "Women, men and church leadership"
 permalink: "/soft-complementarian-drifting-egalitarian/"

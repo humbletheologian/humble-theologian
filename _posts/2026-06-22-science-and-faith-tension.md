@@ -2,7 +2,8 @@
 layout: post
 title: "Science and Faith: Is There Really a Conflict?"
 date: 2026-05-29
-description: "A reflection on creation, Scripture, science and whether Christians need to fear honest inquiry into the world God made."
+description: "A reflection on creation, Scripture, science and whether Christians
+  need to fear honest inquiry into the world God made."
 category: "Bible and Interpretation"
 topic: "Creation, Scripture and science"
 permalink: "/science-and-faith/"

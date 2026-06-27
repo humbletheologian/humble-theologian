@@ -6,13 +6,14 @@ author: Shayne Johnston
 category: "Core Christian Beliefs"
 topic: "Gospel and salvation"
 tags:
-  - gospel
-  - Jesus
-  - salvation
-  - theology guides
-  - discipleship
+- gospel
+- Jesus
+- salvation
+- theology guides
+- discipleship
 permalink: "/what-is-the-gospel/"
-description: "A plain-language explanation of the good news of Jesus, why it matters and what it means to respond."
+description: "A plain-language explanation of the good news of Jesus, why it matters
+  and what it means to respond."
 words: 2100
 ---
 

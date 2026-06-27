@@ -6,12 +6,13 @@ author: Shayne Johnston
 category: "Core Christian Beliefs"
 topic: "Essentials and secondary doctrines"
 tags:
-  - theology guides
-  - Christian beliefs
-  - doctrine
-  - discipleship
-  - church
-description: "A plain-language guide to the core Christian beliefs shared across historic Christianity, and how to distinguish essentials from important secondary disagreements."
+- theology guides
+- Christian beliefs
+- doctrine
+- discipleship
+- church
+description: "A plain-language guide to the core Christian beliefs shared across historic
+  Christianity, and how to distinguish essentials from important secondary disagreements."
 permalink: "/essential-christian-beliefs/"
 words: 2300
 ---

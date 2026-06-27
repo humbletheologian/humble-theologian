@@ -2,8 +2,9 @@
 layout: post
 title: "Post-Trib, Premillennial and No Secret Rapture"
 date: 2026-05-15
-description: "A summary of my current end-times view: Christ returns after tribulation, reigns in victory and gathers his people without a separate secret rapture event."
-category: "Core Christian Beliefs"
+description: "A summary of my current end-times view: Christ returns after tribulation,
+  reigns in victory and gathers his people without a separate secret rapture event."
+category: "Hell, Judgment and Hope"
 topic: "Eschatology and end times"
 permalink: "/post-trib-premillennial-no-secret-rapture/"
 tags: ["end times", "premillennialism", "rapture", "eschatology"]

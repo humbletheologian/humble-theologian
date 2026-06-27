@@ -2,7 +2,9 @@
 layout: post
 title: "Arminian, Calvinist, Provisionist or Molinist? Where I Currently Lean"
 date: 2026-05-22
-description: "A humble attempt to explain why I lean away from Calvinism and toward either provisionism or Molinism, while still wanting to represent Calvinist brothers and sisters fairly."
+description: "A humble attempt to explain why I lean away from Calvinism and toward
+  either provisionism or Molinism, while still wanting to represent Calvinist brothers
+  and sisters fairly."
 category: "Core Christian Beliefs"
 topic: "Salvation, grace and free will"
 permalink: "/arminian-calvinist-provisionist-molinist/"

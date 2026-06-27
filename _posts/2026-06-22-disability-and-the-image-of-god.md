@@ -7,7 +7,8 @@ category: "Disability, Faith and Church"
 topic: "Image of God and human dignity"
 permalink: "/disability-and-the-image-of-god/"
 tags: ["image of God", "human dignity", "church", "pastoral care", "theology guides"]
-description: "A theological reflection on disability, human dignity, embodiment and why every person bears God’s image before they achieve, contribute or appear whole."
+description: "A theological reflection on disability, human dignity, embodiment and
+  why every person bears God’s image before they achieve, contribute or appear whole."
 words: 1545
 ---
 

@@ -7,12 +7,14 @@ category: "Bible and Interpretation"
 topic: "Canon and Scripture"
 permalink: "/how-we-got-the-bible/"
 tags:
-  - Bible study
-  - theology guides
-  - apologetics
-  - church
-  - discipleship
-description: "A clear guide to how the biblical canon developed, why different Christian traditions have different Old Testaments, and why the popular myths about councils choosing the Bible do not really hold up."
+- Bible study
+- theology guides
+- apologetics
+- church
+- discipleship
+description: "A clear guide to how the biblical canon developed, why different Christian
+  traditions have different Old Testaments, and why the popular myths about councils
+  choosing the Bible do not really hold up."
 words: 2200
 ---
 

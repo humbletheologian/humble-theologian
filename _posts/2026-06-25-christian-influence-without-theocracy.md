@@ -5,7 +5,8 @@ date: 2026-06-12
 author: Shayne Johnston
 category: "Church and Pastoral Care"
 topic: "Public Faith"
-description: "A reflective article on Christian influence, cultural change, public life and why persuasion is different from legislating people into faith."
+description: "A reflective article on Christian influence, cultural change, public
+  life and why persuasion is different from legislating people into faith."
 permalink: /christian-influence-without-theocracy/
 words: 2190
 ---

@@ -5,7 +5,9 @@ date: 2026-02-13
 author: Shayne Johnston
 category: "Personal Reflections"
 topic: "Site Purpose"
-description: "A personal reflection on why Humble Theologian exists, what kind of resource it aims to be and why theology should lead to humility, love and faithful discipleship."
+description: "A personal reflection on why Humble Theologian exists, what kind of
+  resource it aims to be and why theology should lead to humility, love and faithful
+  discipleship."
 permalink: /why-i-started-humble-theologian/
 words: 2100
 ---
