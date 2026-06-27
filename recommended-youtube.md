@@ -61,8 +61,4 @@ This page gathers a selection of YouTube channels I follow or find useful. Inclu
 - [Southeast Online](http://www.youtube.com/channel/UCvaIItIv-QA1QAV01HDi4pQ)  
   Online ministry content connected with Southeast Christian Church.
 
-## Organisations I support
-
-I also sponsor a child in the Philippines through [Compassion Australia](https://www.compassion.com.au/). Compassion describes its mission as releasing children from poverty in Jesus’ name through child sponsorship and local church partnerships.
-
-This is included here because Christian discipleship is not only about learning ideas. It is also about love becoming practical, especially toward those who are vulnerable, unseen or disadvantaged.
+For organisations, churches and tools connected with Humble Theologian, see [Organisations and Tools]({{ '/organisations/' | relative_url }}).

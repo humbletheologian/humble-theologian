@@ -8,24 +8,27 @@ kicker: "Resources"
 
 Resources are here to help readers keep learning without making the site feel cluttered. The aim is to point people toward material that supports Bible study, theological reflection, pastoral care and Christian formation.
 
-## Recommended Reading
+## Search and site navigation
 
-- [Recommended Reading]({{ '/recommended-reading/' | relative_url }}) - a curated list of books from my library, with brief notes on why each one matters and who it may help.
-
-## Recommended YouTube Channels and Ministries
-
-- [Recommended YouTube Channels and Ministries]({{ '/recommended-youtube/' | relative_url }}) - YouTube channels and ministries I follow or find useful for theology, Bible study, apologetics, church life and Christian discipleship.
-
-## Devotional Resources
-
-- [Love as a Verb]({{ '/love-as-a-verb/' | relative_url }}) - devotional reflections on love as something lived, practised and embodied.
-- [Spurgeon Devotionals](#spurgeon-devotionals) - public-domain devotional classics with brief Humble Theologian reflections.
-
-## Site Indexes
-
+- [Search the site]({{ '/search/' | relative_url }}) - find articles, pages, devotional resources and topics by keyword.
 - [Articles]({{ '/articles/' | relative_url }}) - all articles in date order.
 - [Topics]({{ '/topics/' | relative_url }}) - articles grouped by subject.
 - [RSS Feed]({{ '/feed.xml' | relative_url }}) - subscribe to new articles.
+
+## Recommended resources
+
+- [Recommended Reading]({{ '/recommended-reading/' | relative_url }}) - a curated list of books from my library, with brief notes on why each one matters and who it may help.
+- [Recommended YouTube Channels and Ministries]({{ '/recommended-youtube/' | relative_url }}) - YouTube channels and ministries I follow or find useful for theology, Bible study, apologetics, church life and Christian discipleship.
+- [Organisations and Tools]({{ '/organisations/' | relative_url }}) - churches, organisations and tools I interact with, belong to or support.
+
+## Focus areas
+
+- [Disability and Church]({{ '/disability-and-church/' | relative_url }}) - a hub for resources on disability, dignity, belonging, accessibility, healing assumptions and church life.
+
+## Devotional resources
+
+- [Love as a Verb]({{ '/love-as-a-verb/' | relative_url }}) - devotional reflections on love as something lived, practised and embodied.
+- [Spurgeon Devotionals](#spurgeon-devotionals) - public-domain devotional classics with brief Humble Theologian reflections.
 
 ## How resources will be handled
 

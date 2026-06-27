@@ -1,0 +1,44 @@
+---
+layout: null
+permalink: /search.json
+search_exclude: true
+---
+[
+{% assign first = true %}
+{% assign love_collection = site.collections | where: "label", "love-as-a-verb" | first %}
+{% assign search_sets = site.posts | concat: site.pages | concat: site.spurgeon %}
+{% for item in search_sets %}
+  {% unless item.search_exclude or item.url == '/feed.xml' or item.url == '/search.json' or item.url == '/404.html' %}
+    {% if item.title and item.url %}
+      {% unless first %},{% endunless %}
+      {% assign first = false %}
+      {
+        "title": {{ item.title | jsonify }},
+        "url": {{ item.url | relative_url | jsonify }},
+        "category": {{ item.category | default: item.kicker | default: "Page" | jsonify }},
+        "topic": {{ item.topic | default: "" | jsonify }},
+        "description": {{ item.description | default: item.excerpt | strip_html | normalize_whitespace | jsonify }},
+        "content": {{ item.content | strip_html | normalize_whitespace | truncate: 5000 | jsonify }}
+      }
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+{% if love_collection and love_collection.docs %}
+{% for item in love_collection.docs %}
+  {% unless item.search_exclude %}
+    {% if item.title and item.url %}
+      {% unless first %},{% endunless %}
+      {% assign first = false %}
+      {
+        "title": {{ item.title | jsonify }},
+        "url": {{ item.url | relative_url | jsonify }},
+        "category": "Love as a Verb",
+        "topic": {{ item.topic | default: "Devotional" | jsonify }},
+        "description": {{ item.description | default: "A Love as a Verb devotional reflection." | jsonify }},
+        "content": {{ item.content | strip_html | normalize_whitespace | truncate: 5000 | jsonify }}
+      }
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+{% endif %}
+]

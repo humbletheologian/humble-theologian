@@ -33,6 +33,13 @@ This site is for Bible college students, thoughtful Christians and anyone who wa
 
 The aim is simple: **serious theology without the ego**. Humble Theologian is about learning, loving and living the faith. That means thinking carefully, loving God and neighbour and letting theology become faithful discipleship in ordinary life.
 
+<div class="quick-search">
+  <form action="{{ '/search/' | relative_url }}" method="get">
+    <input type="search" name="q" placeholder="Search topics such as gospel, disability, hell, canon or exegesis" aria-label="Search Humble Theologian">
+    <button type="submit">Search</button>
+  </form>
+</div>
+
 ## The best first pathway
 
 If you are new to the site, I suggest starting here:
@@ -90,6 +97,8 @@ This is one of the more personal parts of the site. It explores disability, dign
 
 The focus is not only ministry *to* disabled people, but ministry *with* and *by* disabled people.
 
+For a collected pathway through this material, visit the [Disability and Church hub]({{ '/disability-and-church/' | relative_url }}).
+
 <ul>
   {% if disability_image_post %}<li><a href="{{ disability_image_post.url | relative_url }}">Disability and the Image of God</a></li>{% endif %}
   {% if disability_church_post %}<li><a href="{{ disability_church_post.url | relative_url }}">What Churches Need to Understand About Disability</a></li>{% endif %}
@@ -122,6 +131,13 @@ Some articles explain my current theological positions. They are not a creed or 
   {% if arminian_post %}<li><a href="{{ arminian_post.url | relative_url }}">Arminian, Calvinist, Provisionist or Molinist?</a></li>{% endif %}
   {% if gender_post %}<li><a href="{{ gender_post.url | relative_url }}">Soft Complementarian, Drifting Egalitarian</a></li>{% endif %}
 </ul>
+
+## Useful next steps
+
+- [Search the site]({{ '/search/' | relative_url }}) if you are looking for a particular topic.
+- [Browse all articles]({{ '/articles/' | relative_url }}) in date order.
+- [Browse by topic]({{ '/topics/' | relative_url }}) if you want to follow a theme.
+- [Organisations and Tools]({{ '/organisations/' | relative_url }}) gives some background on communities, tools and ministries connected with the site.
 
 ## Love as a Verb
 

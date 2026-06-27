@@ -6,7 +6,7 @@ description: "Browse Humble Theologian articles by subject."
 kicker: "Library"
 ---
 
-Use this page as the main doorway into the site's article library. It is organised by subject so you can follow a thread rather than simply read whatever was published most recently.
+Use this page as the main doorway into the site's article library. It is organised by subject so you can follow a thread rather than simply read whatever was published most recently. You can also [search the site]({{ '/search/' | relative_url }}) if you are looking for something specific.
 
 <div class="topic-list">
 <a class="topic-pill" href="#core-christian-beliefs">Core Christian Beliefs</a>
@@ -77,7 +77,7 @@ More articles will be added here soon.
 ### Disability, Faith and Church
 {: id="disability-faith-and-church" }
 
-Reflections on dignity, embodiment, belonging, accessibility, pastoral care and church life with disabled Christians.
+Reflections on dignity, embodiment, belonging, accessibility, pastoral care and church life with disabled Christians. See also the [Disability and Church hub]({{ '/disability-and-church/' | relative_url }}).
 
 {% assign topic_posts = all_posts | where: "category", "Disability, Faith and Church" %}
 {% if topic_posts.size > 0 %}
