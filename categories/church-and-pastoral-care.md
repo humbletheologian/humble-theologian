@@ -1,15 +1,15 @@
 ---
-permalink: /categories/hell-judgment-and-hope/
+permalink: /categories/church-and-pastoral-care/
 layout: page
-title: "Hell, Judgment and Hope"
-description: "Articles and resources in the Hell, Judgment and Hope section."
+title: "Church and Pastoral Care"
+description: "Articles and resources in the Church and Pastoral Care section."
 kicker: "Topic"
 ---
 
-Articles on judgment, hell, annihilationism, resurrection, new creation, end-times views and Christian hope.
+Reflections on church life, leadership, pastoral care, public faith, culture and Christian community.
 
 <div class="post-list">
-{% assign topic_posts = site.posts | where: "category", "Hell, Judgment and Hope" %}
+{% assign topic_posts = site.posts | where: "category", "Church and Pastoral Care" %}
 {% assign sorted_posts = topic_posts | sort: "date" | reverse %}
 {% if sorted_posts.size > 0 %}
   {% for post in sorted_posts %}

@@ -6,14 +6,18 @@ description: "Articles and resources in the Personal Reflections section."
 kicker: "Topic"
 ---
 
-This topic page gathers related Humble Theologian articles in one place.
+More personal pieces about learning, ministry, faith and the process of thinking theologically.
 
 <div class="post-list">
-{% assign p = site.posts | where: 'slug', 'arminian-calvinist-provisionist-molinist' | first %}{% if p %}{% include post-card.html post=p %}{% endif %}
-{% assign p = site.posts | where: 'slug', 'new-creation-not-escape' | first %}{% if p %}{% include post-card.html post=p %}{% endif %}
-{% assign p = site.posts | where: 'slug', 'post-trib-premill-no-secret-rapture' | first %}{% if p %}{% include post-card.html post=p %}{% endif %}
-{% assign p = site.posts | where: 'slug', 'soft-complementarian-drifting-egalitarian' | first %}{% if p %}{% include post-card.html post=p %}{% endif %}
-{% assign p = site.posts | where: 'slug', 'soul-sleep-and-resurrection-hope' | first %}{% if p %}{% include post-card.html post=p %}{% endif %}
+{% assign topic_posts = site.posts | where: "category", "Personal Reflections" %}
+{% assign sorted_posts = topic_posts | sort: "date" | reverse %}
+{% if sorted_posts.size > 0 %}
+  {% for post in sorted_posts %}
+    {% include post-card.html post=post %}
+  {% endfor %}
+{% else %}
+  <p>More articles will be added here.</p>
+{% endif %}
 </div>
 
 <p><a href="{{ '/topics/' | relative_url }}">Back to all topics</a></p>

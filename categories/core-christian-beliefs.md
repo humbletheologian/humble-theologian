@@ -1,15 +1,15 @@
 ---
-permalink: /categories/hell-judgment-and-hope/
+permalink: /categories/core-christian-beliefs/
 layout: page
-title: "Hell, Judgment and Hope"
-description: "Articles and resources in the Hell, Judgment and Hope section."
+title: "Core Christian Beliefs"
+description: "Articles and resources in the Core Christian Beliefs section."
 kicker: "Topic"
 ---
 
-Articles on judgment, hell, annihilationism, resurrection, new creation, end-times views and Christian hope.
+Foundational articles on the gospel, the shared convictions of historic Christianity, salvation, creeds, doctrine and the core shape of Christian faith.
 
 <div class="post-list">
-{% assign topic_posts = site.posts | where: "category", "Hell, Judgment and Hope" %}
+{% assign topic_posts = site.posts | where: "category", "Core Christian Beliefs" %}
 {% assign sorted_posts = topic_posts | sort: "date" | reverse %}
 {% if sorted_posts.size > 0 %}
   {% for post in sorted_posts %}

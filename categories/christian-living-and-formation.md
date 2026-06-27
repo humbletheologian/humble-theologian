@@ -1,15 +1,15 @@
 ---
-permalink: /categories/hell-judgment-and-hope/
+permalink: /categories/christian-living-and-formation/
 layout: page
-title: "Hell, Judgment and Hope"
-description: "Articles and resources in the Hell, Judgment and Hope section."
+title: "Christian Living and Formation"
+description: "Articles and resources in the Christian Living and Formation section."
 kicker: "Topic"
 ---
 
-Articles on judgment, hell, annihilationism, resurrection, new creation, end-times views and Christian hope.
+Resources on discipleship, spiritual formation, everyday faith and learning to follow Jesus faithfully.
 
 <div class="post-list">
-{% assign topic_posts = site.posts | where: "category", "Hell, Judgment and Hope" %}
+{% assign topic_posts = site.posts | where: "category", "Christian Living and Formation" %}
 {% assign sorted_posts = topic_posts | sort: "date" | reverse %}
 {% if sorted_posts.size > 0 %}
   {% for post in sorted_posts %}
