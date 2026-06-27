@@ -11,7 +11,6 @@ Use this page as the main doorway into the site's article library. It is organis
 <div class="topic-list">
 <a class="topic-pill" href="#core-christian-beliefs">Core Christian Beliefs</a>
 <a class="topic-pill" href="#bible-and-interpretation">Bible and Interpretation</a>
-<a class="topic-pill" href="#old-testament-law-and-christian-life">Old Testament Law and Christian Life</a>
 <a class="topic-pill" href="#disability-faith-and-church">Disability, Faith and Church</a>
 <a class="topic-pill" href="#hell-judgment-and-hope">Hell, Judgment and Hope</a>
 <a class="topic-pill" href="#church-and-pastoral-care">Church and Pastoral Care</a>
@@ -35,7 +34,7 @@ Major articles normally aim for **1,800 to 2,200 words**. They are written for B
 ### Core Christian Beliefs
 {: id="core-christian-beliefs" }
 
-Foundational articles on the gospel, Christian doctrine, salvation, resurrection, Christian hope and the shared convictions of historic Christianity.
+Foundational articles on the gospel, the shared convictions of historic Christianity, salvation, creeds, doctrine and the core shape of Christian faith.
 
 {% assign topic_posts = all_posts | where: "category", "Core Christian Beliefs" %}
 {% if topic_posts.size > 0 %}
@@ -49,23 +48,9 @@ More articles will be added here soon.
 ### Bible and Interpretation
 {: id="bible-and-interpretation" }
 
-Resources for understanding Scripture, canon, context, genre, hermeneutics and faithful application today.
+Resources for understanding Scripture, canon, Bible translation, genre, context, hermeneutics, theological frameworks and faithful application today.
 
 {% assign topic_posts = all_posts | where: "category", "Bible and Interpretation" %}
-{% if topic_posts.size > 0 %}
-{% for post in topic_posts %}
-- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}
-{% endfor %}
-{% else %}
-More articles will be added here soon.
-{% endif %}
-
-### Old Testament Law and Christian Life
-{: id="old-testament-law-and-christian-life" }
-
-Articles on reading Old Testament law as Christians without either ignoring it or applying it woodenly.
-
-{% assign topic_posts = all_posts | where: "category", "Old Testament Law and Christian Life" %}
 {% if topic_posts.size > 0 %}
 {% for post in topic_posts %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}
@@ -77,7 +62,7 @@ More articles will be added here soon.
 ### Disability, Faith and Church
 {: id="disability-faith-and-church" }
 
-Reflections on dignity, embodiment, belonging, accessibility, pastoral care and church life with disabled Christians. See also the [Disability and Church hub]({{ '/disability-and-church/' | relative_url }}).
+Reflections on dignity, embodiment, belonging, accessibility, healing, pastoral care and church life with disabled Christians. See also the [Disability and Church hub]({{ '/disability-and-church/' | relative_url }}).
 
 {% assign topic_posts = all_posts | where: "category", "Disability, Faith and Church" %}
 {% if topic_posts.size > 0 %}
@@ -91,7 +76,7 @@ More articles will be added here soon.
 ### Hell, Judgment and Hope
 {: id="hell-judgment-and-hope" }
 
-Articles on judgment, hell, annihilationism, resurrection, new creation and Christian hope.
+Articles on judgment, hell, annihilationism, resurrection, new creation, end-times views and Christian hope.
 
 {% assign topic_posts = all_posts | where: "category", "Hell, Judgment and Hope" %}
 {% if topic_posts.size > 0 %}
@@ -105,7 +90,7 @@ More articles will be added here soon.
 ### Church and Pastoral Care
 {: id="church-and-pastoral-care" }
 
-Reflections on church life, leadership, pastoral care, culture and Christian community.
+Reflections on church life, leadership, pastoral care, public faith, culture and Christian community.
 
 {% assign topic_posts = all_posts | where: "category", "Church and Pastoral Care" %}
 {% if topic_posts.size > 0 %}
@@ -151,4 +136,5 @@ For books, YouTube channels and other recommended resources, visit the resources
 
 - [Recommended Reading]({{ '/recommended-reading/' | relative_url }})
 - [Recommended YouTube Channels and Ministries]({{ '/recommended-youtube/' | relative_url }})
+- [Organisations and Tools]({{ '/organisations/' | relative_url }})
 - [Resources]({{ '/resources/' | relative_url }})
