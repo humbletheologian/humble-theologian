@@ -49,6 +49,11 @@ This is likely to become one of the main focuses of the site. The aim is not sim
 More disability and church articles will be added here soon.
 {% endif %}
 
+
+## Bible study
+
+For groups that want to explore this theme through Scripture, start with [Disability, Belonging and the Church]({{ '/bible-studies/disability-belonging-and-the-church/' | relative_url }}). It is a 4-week study on dignity before usefulness, Jesus and healing assumptions, the body of Christ and resurrection hope.
+
 ## Themes I expect to keep developing
 
 - the image of God, embodiment and human dignity

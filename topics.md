@@ -8,6 +8,8 @@ kicker: "Library"
 
 Use this page as the main doorway into the site's article library. It is organised by subject so you can follow a thread rather than simply read whatever was published most recently. You can also [search the site]({{ '/search/' | relative_url }}) if you are looking for something specific.
 
+For guided group material, visit the [Bible Studies page]({{ '/bible-studies/' | relative_url }}).
+
 <div class="topic-list">
 <a class="topic-pill" href="#core-christian-beliefs">Core Christian Beliefs</a>
 <a class="topic-pill" href="#bible-and-interpretation">Bible and Interpretation</a>
@@ -19,9 +21,9 @@ Use this page as the main doorway into the site's article library. It is organis
 <a class="topic-pill" href="#book-and-resource-recommendations">Book and Resource Recommendations</a>
 </div>
 
-## Follow new articles
+## Follow new articles and studies
 
-New articles appear here automatically after they are published. You can browse everything on the [Articles page]({{ '/articles/' | relative_url }}) or [subscribe by RSS]({{ '/feed.xml' | relative_url }}).
+New articles appear here automatically after they are published. You can browse everything on the [Articles page]({{ '/articles/' | relative_url }}) or [subscribe by RSS]({{ '/feed.xml' | relative_url }}). Bible studies are gathered separately on the [Bible Studies page]({{ '/bible-studies/' | relative_url }}).
 
 ## Article standard
 
@@ -137,4 +139,5 @@ For books, YouTube channels and other recommended resources, visit the resources
 - [Recommended Reading]({{ '/recommended-reading/' | relative_url }})
 - [Recommended YouTube Channels and Ministries]({{ '/recommended-youtube/' | relative_url }})
 - [Organisations and Tools]({{ '/organisations/' | relative_url }})
+- [Bible Studies]({{ '/bible-studies/' | relative_url }})
 - [Resources]({{ '/resources/' | relative_url }})

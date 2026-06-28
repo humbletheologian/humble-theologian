@@ -72,6 +72,18 @@ Start with the gospel and the core beliefs shared across historic Christianity.
   {% if new_creation_post %}<li><a href="{{ new_creation_post.url | relative_url }}">New Creation, Not Escape</a></li>{% endif %}
 </ul>
 
+
+## Want to study Scripture with a group?
+
+The Bible Studies section is for thoughtful Christians, group leaders and readers who want guided studies rather than standalone articles. These studies are aimed at seasoned Christians, but they are written clearly enough to stretch newer Christians without discouraging them.
+
+- [Bible Studies]({{ '/bible-studies/' | relative_url }})
+- [Identity in Christ]({{ '/bible-studies/identity-in-christ/' | relative_url }})
+- [What Is the Gospel?]({{ '/bible-studies/what-is-the-gospel/' | relative_url }})
+- [Disability, Belonging and the Church]({{ '/bible-studies/disability-belonging-and-the-church/' | relative_url }})
+- [How to Read the Bible Well]({{ '/bible-studies/how-to-read-the-bible-well/' | relative_url }})
+- [Ephesians: Grace, Identity and the Church]({{ '/bible-studies/ephesians-grace-identity-and-the-church/' | relative_url }})
+
 ## Trying to understand the Bible?
 
 These articles are for readers who want to understand Scripture carefully, not just collect isolated proof texts.
@@ -136,6 +148,7 @@ Some articles explain my current theological positions. They are not a creed or 
 
 - [Search the site]({{ '/search/' | relative_url }}) if you are looking for a particular topic.
 - [Browse all articles]({{ '/articles/' | relative_url }}) in date order.
+- [Use the Bible studies]({{ '/bible-studies/' | relative_url }}) for guided group discussion and deeper engagement with Scripture.
 - [Browse by topic]({{ '/topics/' | relative_url }}) if you want to follow a theme.
 - [Organisations and Tools]({{ '/organisations/' | relative_url }}) gives some background on communities, tools and ministries connected with the site.
 

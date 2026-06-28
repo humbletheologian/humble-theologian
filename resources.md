@@ -2,18 +2,29 @@
 permalink: /resources/
 layout: page
 title: "Resources"
-description: "Reading lists, devotional material and recommended resources for thoughtful Christians."
+description: "Bible studies, reading lists, devotional material and recommended resources for thoughtful Christians."
 kicker: "Resources"
 ---
 
 Resources are here to help readers keep learning without making the site feel cluttered. The aim is to point people toward material that supports Bible study, theological reflection, pastoral care and Christian formation.
 
-## Search and site navigation
+## Site resources
 
+- [Bible Studies]({{ '/bible-studies/' | relative_url }}) - guided studies for thoughtful Christians, group leaders and readers who want Scripture to shape discussion, prayer and practice.
 - [Search the site]({{ '/search/' | relative_url }}) - find articles, pages, devotional resources and topics by keyword.
 - [Articles]({{ '/articles/' | relative_url }}) - all articles in date order.
 - [Topics]({{ '/topics/' | relative_url }}) - articles grouped by subject.
 - [RSS Feed]({{ '/feed.xml' | relative_url }}) - subscribe to new articles.
+
+## Bible studies
+
+These are the current study resources:
+
+- [Identity in Christ]({{ '/bible-studies/identity-in-christ/' | relative_url }}) - a 4-week study on image, labels, new creation, adoption and embodied discipleship.
+- [What Is the Gospel?]({{ '/bible-studies/what-is-the-gospel/' | relative_url }}) - a 4-week study on the good news of Jesus Christ, the kingdom of God, grace, repentance, faith and new life.
+- [Disability, Belonging and the Church]({{ '/bible-studies/disability-belonging-and-the-church/' | relative_url }}) - a 4-week study on dignity, belonging, weakness, healing assumptions and the body of Christ.
+- [How to Read the Bible Well]({{ '/bible-studies/how-to-read-the-bible-well/' | relative_url }}) - a 4-week study on context, genre, interpretation, application and faithful reading of Scripture.
+- [Ephesians: Grace, Identity and the Church]({{ '/bible-studies/ephesians-grace-identity-and-the-church/' | relative_url }}) - a 6-week book-based study through Ephesians.
 
 ## Recommended resources
 
@@ -32,7 +43,7 @@ Resources are here to help readers keep learning without making the site feel cl
 
 ## How resources will be handled
 
-The site will avoid uploading large files where normal web pages will work better. Devotionals and articles should be readable on phones, searchable and easy to link to directly.
+The site will avoid uploading large files where normal web pages will work better. Devotionals, Bible studies and articles should be readable on phones, searchable and easy to link to directly.
 
 Published books will not be republished here. Instead, the site will list books with short summaries, reading guidance and personal notes.
 
