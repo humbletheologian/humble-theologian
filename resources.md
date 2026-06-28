@@ -39,19 +39,10 @@ These are the current study resources:
 ## Devotional resources
 
 - [Love as a Verb]({{ '/love-as-a-verb/' | relative_url }}) - devotional reflections on love as something lived, practised and embodied.
-- [Spurgeon Devotionals](#spurgeon-devotionals) - public-domain devotional classics with brief Humble Theologian reflections.
+- [Spurgeon Devotionals]({{ '/spurgeon/' | relative_url }}) - public-domain devotional classics from Charles H. Spurgeon gathered on their own devotional index page.
 
 ## How resources will be handled
 
 The site will avoid uploading large files where normal web pages will work better. Devotionals, Bible studies and articles should be readable on phones, searchable and easy to link to directly.
 
 Published books will not be republished here. Instead, the site will list books with short summaries, reading guidance and personal notes.
-
-## Spurgeon Devotionals
-{: id="spurgeon-devotionals" }
-
-These classic devotional texts are included as devotional resources, with attribution to Charles H. Spurgeon.
-
-{% for item in site.spurgeon %}
-- [{{ item.title }}]({{ item.url | relative_url }})
-{% endfor %}
