@@ -7,22 +7,20 @@ category: "Church and Pastoral Care"
 topic: "Faith and politics"
 description: "A reflection on why no political party owns Christianity, why Christians should resist simplistic labels and how Australian politics contains both Christian and anti-Christian instincts across the spectrum."
 permalink: /christians-and-politics/
-words: 2326
+words: 2422
 ---
 
 In American Christian circles, it is not unusual to hear someone say that a Democrat cannot be a Christian. Sometimes the same accusation is made in reverse, though usually in different language. In Australia, the party names are different, but the temptation is familiar. Some assume that faithful Christians must naturally vote Coalition. Others assume that genuine concern for the poor, refugees or the environment must place Christians on the progressive side. Some are drawn to minor parties that speak more openly about family, life or religious freedom. Others feel politically homeless.
 
-I understand the instinct behind some of these concerns. Politics is not morally neutral. Laws matter. Policies affect real people. Elections shape what kind of society we become. Christians should not shrug and say, "It is only politics." If Jesus is Lord, then our discipleship cannot stop at private belief. It must also shape how we think about justice, mercy, truth, power, family, money, creation and the vulnerable.
+Politics is not morally neutral. Laws matter. Policies affect real people. Elections shape what kind of society we become. Christians should not shrug and say, "It is only politics." If Jesus is Lord, then discipleship cannot stop at private belief. It must shape how we think about justice, mercy, truth, power, family, money, creation and the vulnerable.
 
 But that is exactly why Christians should be careful about saying that no faithful Christian could vote for a particular major party. The Christian faith is bigger than any political tribe. The gospel cannot be squeezed neatly into left or right, progressive or conservative, Labor or Liberal, Greens or Nationals. Each side of politics tends to notice some biblical concerns and neglect others. Each can appeal to Christian values at one point and resist them at another.
 
-That does not mean all parties are equally good or all policies are morally equivalent. Christians should still make judgments. Some policies are closer to Christian conviction than others. Some are deeply troubling. But we need a better way to think than simply baptising our preferred side and anathematising everyone else.
+That does not mean all parties are equally good or all policies are morally equivalent. Christians should still make judgments. Some policies are closer to Christian conviction than others. Some are deeply troubling. But we need a better way to think than baptising our preferred side and anathematising everyone else.
 
-## No party owns Jesus
+## No Political Party Owns Christianity
 
-The first problem with saying, "A Christian cannot vote for that party," is that it often confuses allegiance to Christ with allegiance to a political platform.
-
-Christians have one Lord. His name is not Anthony Albanese, Sussan Ley, Adam Bandt, Pauline Hanson or anyone else who may rise or fall in Australian politics. Political leaders are temporary. Parties shift. Platforms change. Coalition agreements break and reform. Minor parties appear, disappear or reinvent themselves. The church confesses that Jesus is Lord. That confession relativises every earthly authority.
+Christians have one Lord. His name is not Anthony Albanese, Sussan Ley, Adam Bandt, Pauline Hanson or anyone else who may rise or fall in Australian politics. Political leaders are temporary. Parties shift. Platforms change. Coalition agreements form and break. Minor parties appear, disappear or reinvent themselves. The church confesses that Jesus is Lord. That confession relativises every earthly authority.
 
 This does not make Christians apolitical. It makes us politically discerning. We can participate in democracy without pretending that a party is the kingdom of God. We can vote, advocate and serve without treating political disagreement as proof that someone is not a Christian.
 
@@ -30,150 +28,108 @@ Historically, Baptists have been especially wary of fusing church and state. The
 
 The Baptist World Alliance has warned against religious nationalism and has urged positive Christian engagement in public life marked by love and sacrifice for neighbour. That balance matters. Christians should not withdraw from politics, but neither should we confuse the church's mission with the fortunes of a political movement.
 
-## What makes a policy Christian or anti-Christian?
+## Why "You Cannot Be a Christian If..." Is Dangerous
 
-The phrase "Christian policy" needs care. The Bible does not give us a full modern party platform. It does not tell us the exact tax rate, the best energy mix, the right level of migration, the ideal welfare model or the detailed structure of health funding.
+The statement "you cannot be a Christian if you vote for that party" sounds clear and courageous, but it can be spiritually dangerous. It risks adding a political test to the gospel. The New Testament calls people to repent, trust Christ, confess him as Lord and follow him in obedience. It does not say that salvation is proven by membership of a modern political tribe.
 
-But Scripture does give us moral priorities. It teaches that human beings are made in the image of God. It commands justice for the poor and vulnerable. It warns rulers against corruption and partiality. It calls God's people to welcome the stranger, protect the weak, honour marriage and family, care for creation, tell the truth, seek peace and resist idolatry. It values life from beginning to end. It values religious faithfulness, but it also condemns hypocrisy, greed and oppression.
+That does not mean political choices are irrelevant. A person's politics may reveal idols, fears, prejudices or misplaced loyalties. A Christian can vote sinfully. A Christian can excuse injustice because their preferred party benefits. A Christian can become so loyal to a political cause that they stop hearing Scripture clearly.
 
-So a Christian political conscience should ask questions like these:
+But it is one thing to challenge a Christian's political judgment. It is another thing to declare that their vote proves they are outside the faith. That kind of language should be used with extreme caution, if at all. It can divide churches, silence thoughtful Christians and train believers to judge one another by party labels instead of fruit, doctrine and discipleship.
 
-- Does this policy protect human dignity?
-- Does it care for the poor, the elderly, children, disabled people and those with little power?
-- Does it uphold life and resist unnecessary harm?
-- Does it protect freedom of conscience and religion?
-- Does it tell the truth, or manipulate fear?
-- Does it serve the common good, or mainly reward the already powerful?
-- Does it treat refugees, migrants and minorities justly?
-- Does it steward creation responsibly?
-- Does it strengthen families and communities?
+## Christian Convictions Are Bigger Than Party Platforms
 
-Once we ask those questions, the neat left-right map becomes messier.
+The Bible does not give us a modern Australian party platform. It does not tell us the exact tax rate, the ideal energy mix, the best migration level, the right welfare model or the detailed structure of health funding.
 
-## The conservative side sees some things clearly and misses others
+But Scripture does give us moral priorities. It teaches that human beings are made in the image of God. It commands justice for the poor and vulnerable. It warns rulers against corruption and partiality. It calls God's people to welcome the stranger, protect the weak, honour marriage and family, care for creation, tell the truth, seek peace and resist idolatry. It values life from beginning to end. It values religious faithfulness, but also condemns hypocrisy, greed and oppression.
 
-In Australia, many Christians have tended to feel more at home on the conservative side of politics. That is understandable in some areas.
+Those convictions do not fit neatly into one side of Australian politics. They cut across the spectrum. That is why Christians often feel tension when voting. We may agree with one party on religious freedom and life issues, but disagree with its approach to refugees, poverty or climate. We may agree with another party on social welfare or creation care, but be troubled by its approach to abortion, gender or religious institutions. That tension is not always a sign of confusion. Sometimes it is a sign that our conscience is being shaped by something larger than party loyalty.
 
-Conservative parties and movements are often more likely to defend religious freedom, faith-based schools, parental rights, freedom of speech and the importance of family. They may be more cautious about rapid social change, especially around sexuality, gender, education and bioethics. Many Christians rightly care about those matters. A society that treats religious conviction as a private embarrassment rather than a public good becomes hostile not only to Christians, but to many faith communities.
+## Where the Australian Right May Reflect Christian Concerns
 
-Conservatives also often speak strongly about personal responsibility, work, local community, small business and voluntary associations. Those are not unchristian concerns. The Bible does not treat people as passive victims of systems only. It calls people to diligence, wisdom, generosity and responsibility. Families, churches, charities and local communities matter.
+The Liberal and National parties, along with some socially conservative minor parties, often speak more naturally about religious freedom, parental responsibility, conscience protections and the importance of family and community institutions. Many Christians rightly care about these things.
 
-But the conservative side also has blind spots.
+Religious freedom is not a selfish demand for Christians to get special treatment. It protects the ability of people and communities to live according to conscience, gather for worship, teach their beliefs and serve the wider community without being forced to deny core convictions. In a plural society, religious freedom should protect others too. Christians should defend it for Muslims, Jews, atheists and people with whom we strongly disagree.
 
-It can too easily treat market freedom as though it were the highest good. Scripture is not anti-business, but it is deeply suspicious of greed, exploitation and indifference to the poor. Economic growth is good when it serves people, but it is not good when vulnerable people are crushed beneath it.
+The right side of politics can also be more alert to the dangers of state overreach. Christians should not assume that every social problem is solved by government control. Families, churches, charities, local communities and voluntary associations matter. A healthy society needs more than legislation.
 
-Conservative politics can also become harsh toward refugees, asylum seekers, First Nations people, prisoners, welfare recipients or people who do not fit a preferred cultural mould. It can speak of order while neglecting mercy. It can defend religious freedom for Christians while being less enthusiastic about religious freedom for Muslims, Jews, Hindus or secular dissenters. It can speak of family values while ignoring domestic violence, housing stress, disability care and the pressures that make family life harder.
+Some conservative voices also speak strongly about the dignity of unborn life, concern about euthanasia and the importance of stable families. These concerns should not be dismissed merely because they are unfashionable.
 
-It can also minimise environmental responsibility. A Christian doctrine of creation should not allow us to treat the earth as disposable. Creation is not God, but it is God's. Stewardship is not a left-wing add-on to Christianity. It is part of our calling as creatures made in God's image.
+## Where the Australian Right May Resist Christian Concerns
 
-## The progressive side sees some things clearly and misses others
+At the same time, the right can resist or neglect other biblical concerns. It can become too comfortable with market values, as though economic growth is always the measure of the good. It can speak about personal responsibility in ways that ignore structural injustice, disability, trauma, family breakdown, racism or poverty.
 
-Progressive politics also notices real biblical concerns.
+It can also be tempted to treat asylum seekers and refugees primarily as threats rather than people made in God's image. Borders matter and governments have responsibilities, but Christians cannot forget the Bible's repeated concern for the stranger, foreigner and vulnerable.
 
-Concern for the poor, public health, aged care, disability support, housing, workers, refugees and First Nations justice can sit very naturally alongside Christian ethics. The prophets repeatedly condemn societies where the wealthy thrive while the poor are neglected. Jesus identifies himself with the hungry, the stranger, the sick and the prisoner. The early church shared resources so that needs were met.
+Some conservative politics can slide into nationalism, fear of outsiders or suspicion of compassion when compassion is costly. It can defend religious freedom while showing little interest in the freedom or dignity of those outside its own tribe. It can speak about family values while tolerating greed, cruelty or dishonesty if those things seem politically useful.
 
-Progressive parties are also often stronger on environmental policy. For Christians who take creation care seriously, this matters. If climate change harms the poor, threatens future generations and damages the created world, then it is not merely a technical issue. It is a moral one. Christians may disagree on policy detail, but indifference is not a faithful option.
+When the right does these things, Christians should not excuse it just because it protects some issues we care about.
 
-Progressive politics can also challenge racism, exclusion and the misuse of power. These concerns should not be dismissed as secular distractions. The Bible is full of warnings against partiality, injustice and oppression.
+## Where the Australian Left May Reflect Christian Concerns
 
-But the progressive side also has blind spots.
+Labor, the Greens and other progressive voices often speak more naturally about social welfare, workers, housing, health care, First Nations justice, refugees, disability support and environmental responsibility. Christians should not dismiss those concerns as merely secular or left-wing.
 
-It can become deeply suspicious of traditional Christian convictions, especially on sexuality, gender, marriage, religious schools and the sanctity of unborn life. It may speak strongly about inclusion while struggling to make room for orthodox Christian conscience. It may defend diversity, but then treat traditional religious belief as harmful unless it is kept private and quiet.
+The Bible has much to say about the poor, the oppressed, the worker, the widow, the orphan and the foreigner. The prophets repeatedly condemn societies where worship continues while injustice is ignored. Jesus identifies himself with the hungry, thirsty, stranger, sick and imprisoned. James warns against favouring the rich over the poor.
 
-This is especially relevant in Australia, where religious schools and anti-discrimination law remain contested. Some reforms aim to protect students and staff from unjust treatment, which Christians should take seriously. But if reform removes the ability of faith-based institutions to maintain a genuine religious ethos, that is also a serious concern. A Christian school that cannot hire people who support its beliefs may eventually become Christian in name only.
+Concern for creation also fits within Christian theology. Christians do not worship the environment, but the earth belongs to the Lord. Stewardship, climate responsibility and care for future generations can be expressions of neighbour love.
 
-Progressive politics can also reduce morality to autonomy. If the highest value becomes individual self-expression, then Christian teaching about the body, sex, family and life will often sound oppressive. Christians cannot simply accept every claim made in the name of freedom or inclusion. Love must be truthful, and truth must be loving.
+Progressive politics can also remind Christians that policy affects people who are easily forgotten: renters, casual workers, people with disability, people in aged care, remote communities and those who cannot easily advocate for themselves. These concerns are not anti-Christian. Often they are deeply consistent with Christian moral priorities.
 
-## Australian examples are not simple
+## Where the Australian Left May Resist Christian Concerns
 
-The Australian political landscape does not map neatly onto the American Democrat versus Republican divide.
+At the same time, the left can resist or neglect other biblical concerns. It can treat personal autonomy as the highest good, especially around sexuality, gender, abortion and assisted dying. It can assume that traditional Christian moral convictions are simply harmful, bigoted or irrational rather than part of a coherent theological vision.
 
-Labor often emphasises Medicare, aged care, wages, unions, public services, housing affordability and climate action. Many of these concerns overlap with Christian concern for the vulnerable and the common good. But Labor has also often supported socially progressive positions that many Christians find difficult, especially around abortion, sexuality, gender and the limits of religious exemptions.
+Progressive politics can also be impatient with religious institutions that do not fit the prevailing cultural mood. Religious schools, churches and charities may be valued when they provide social services, but pressured when they teach unpopular doctrines. Christians should be concerned when pluralism is reduced to agreement with the dominant progressive consensus.
 
-The Liberal and National parties often emphasise enterprise, lower taxes, personal responsibility, regional communities, national security and sometimes religious freedom. Some of these concerns can reflect legitimate Christian convictions about work, family, stewardship, freedom and social stability. But the Coalition can also be tempted toward harshness on welfare, refugees and climate action, and toward treating economic interests as though they are morally neutral.
+The left can also fall into its own kind of moral absolutism. It may denounce conservative Christians as hateful while showing little curiosity about what they actually believe. It may speak about inclusion in ways that exclude those who dissent. It may care deeply about some vulnerable groups while ignoring unborn children, people pressured toward assisted dying or those harmed by rapid cultural change.
 
-The Greens often speak strongly about climate, refugees, renters, corporate power, inequality and First Nations justice. Christians should not dismiss those concerns. Many are close to biblical themes of justice, creation care and protection of the vulnerable. But Greens policy instincts can also be much harder for traditional Christians where religious freedom, sexuality, gender and abortion are concerned.
+When the left does these things, Christians should not excuse it just because it protects some issues we care about.
 
-Christian or socially conservative minor parties may speak more clearly on life, family and religious freedom. That can be valuable. But even there, Christians should still ask broader questions. Does the party also show wisdom on poverty, creation care, refugees, disability, economics and the common good? A party can be right about abortion and still thin on other biblical concerns. Another can be right about poverty and still wrong about life or religious freedom.
+## What About Minor Parties?
 
-No party gets a blank cheque.
+Some Christians look to minor parties because the major parties feel compromised. That is understandable. Christian or socially conservative parties may speak more clearly on life, family or religious freedom. Other minor parties may focus on the environment, justice, local representation or government accountability.
 
-## Is it wrong to vote for a party with some bad policies?
+But minor parties should be tested too. A party using Christian language is not automatically wise, humble or biblically faithful. It may still promote fear, resentment, conspiracy thinking or simplistic solutions. A party with strong moral positions in one area may be reckless in another. Christians should look not only at slogans, but at character, competence, truthfulness and the likely effects of policies.
 
-In a fallen world, every vote involves moral trade-offs. That does not mean Christians can vote carelessly. It means we should vote soberly.
+Preferential voting in Australia also means Christians need to think beyond their first preference. A vote may flow in ways that matter. That does not make voting impossible, but it does call for care.
 
-A Christian might vote for a party because they believe its policies best protect the vulnerable, even while disagreeing strongly with its position on abortion or religious schools. Another Christian might vote for a party because they believe religious freedom and the sanctity of life are urgent, even while worrying that the party lacks compassion toward refugees or the poor. Another might vote for an independent because neither major party seems trustworthy. Another might number minor parties first as a protest or as a principled preference.
+## How Christians Can Vote with Conviction and Humility
 
-Those choices can be morally serious without being identical.
+Christian voting should be morally serious but spiritually humble. We should ask which policies protect life, promote justice, care for the vulnerable, preserve freedom of conscience, strengthen families, steward creation, restrain evil and allow communities to flourish. We should also ask which trade-offs are being made and who will bear the cost.
 
-Of course, some limits remain. If a party's platform is built on racism, cruelty, corruption, deliberate falsehood or contempt for human dignity, Christians should not hide behind "lesser evil" language too easily. There are lines. But most ordinary Christian voters are not choosing between perfect righteousness and obvious evil. They are weighing imperfect options in a complex democracy.
+Single issues can be morally weighty. Some issues are so serious that they may rightly shape a Christian's vote more than others. But single-issue voting can also become lazy if it allows us to ignore every other biblical concern. The question is not whether one issue can matter more. It is whether we have allowed one issue to excuse everything else.
 
-That calls for humility.
+Christians should also be honest about prudential judgment. Two believers may share the same biblical values but disagree about which policy best serves them. One may think a particular welfare policy helps the poor. Another may think it traps people in dependency. One may support a particular climate policy. Another may think it harms low-income families. Not every disagreement is proof that one person hates justice or rejects Scripture.
 
-## The danger of single-issue voting
+## The Church Must Not Become a Party Branch
 
-Some Christians vote almost entirely on abortion. Others vote almost entirely on climate. Others vote almost entirely on religious freedom, refugees, economics or sexuality. I understand why. Some issues are so serious that they rightly weigh heavily.
+The church's task is to proclaim Christ, make disciples, worship God, love one another and bear witness to the kingdom. When a church becomes a party branch, it loses its prophetic voice. It can no longer challenge its preferred side because it has become dependent on that side for identity.
 
-But single-issue voting can shrink Christian moral vision.
+Pastors and leaders should teach biblical ethics. They should help Christians think about life, justice, sexuality, money, power, race, creation and truth. But they should be very careful about binding consciences where Scripture allows room for judgment.
 
-The Bible does not give us permission to care about unborn children but not poor children. It does not let us defend religious freedom while ignoring refugees. It does not let us care about climate while dismissing the family. It does not let us speak about compassion while treating Christian conscience as bigotry. It does not let us fight for workers while ignoring the dignity of life. It does not let us talk about freedom while worshipping money.
+A politically mature church is not one where everyone votes the same way. It is one where believers are formed deeply enough by Scripture that they can discuss politics with conviction, humility and love.
 
-A Christian conscience should be whole-Bible shaped. Some issues may weigh more heavily at particular times, but we should resist becoming predictable servants of one political tribe.
+## Conclusion: Christ Above Party
 
-## The church must not become a party branch
+Can a Christian be Labor, Liberal, National, Greens, independent or something else? In many cases, yes. But no Christian should belong to any political side uncritically. Every party platform needs to be examined under the lordship of Jesus.
 
-The church should teach biblical ethics. It should form consciences. It should speak about justice, life, truth, mercy, sexuality, creation, religious freedom and care for the vulnerable. But the church should be very slow to imply that one party is the Christian party.
+The question is not whether my party can be made to look Christian. The question is whether my politics are being discipled by Christ. Am I defending the vulnerable only when it suits my side? Am I excusing cruelty because my side is right on another issue? Am I more offended by attacks on my party than by attacks on truth, mercy and holiness? Am I willing to criticise my preferred side when it resists the way of Jesus?
 
-Once a church becomes functionally aligned with a party, several things happen.
-
-First, the church becomes less able to challenge that party's sins. Second, Christians who vote differently may feel treated as spiritually suspect. Third, outsiders may think becoming Christian requires adopting a political identity. Fourth, the gospel gets confused with a culture war.
-
-That is too high a price.
-
-A church can say, "This policy is unjust," or, "This law threatens religious freedom," or, "This proposal neglects the poor," or, "This platform fails to protect unborn life." But it should be careful about saying, "No Christian could vote for them." That final step often goes beyond biblical authority.
-
-## So can a Christian be Labor, Liberal, Greens or something else?
-
-The better answer is this: a Christian may belong to, vote for or work within different political parties, but no Christian should belong to any party uncritically.
-
-A Labor Christian should be willing to challenge Labor on life, religious freedom and the temptation to treat traditional Christian belief as merely harmful. A Liberal or National Christian should be willing to challenge the Coalition on refugees, poverty, climate responsibility and economic policies that favour the comfortable over the vulnerable. A Greens Christian should be willing to challenge the Greens on religious freedom, unborn life and the meaning of human embodiment. A Christian in a minor conservative party should be willing to ask whether the party's concern for family and freedom is matched by concern for the poor, creation, refugees and the marginalised.
-
-The question is not, "Which party can I baptise?" The question is, "How can I follow Jesus faithfully in the public square?"
-
-For some Christians, that will mean joining a party and trying to be a faithful presence within it. For others, it will mean voting reluctantly, advocating for particular issues, supporting community organisations or serving locally. Politics matters, but politics is not the only way Christians love their neighbours.
-
-## A more Christian political posture
-
-A Christian approach to politics should be convictional, but not tribal. It should be morally serious, but not self-righteous. It should care about truth, not just winning. It should resist fear, contempt and lazy slogans.
-
-Christians should be able to say:
-
-- I can affirm this policy without endorsing the whole party.
-- I can criticise this party without demonising every voter.
-- I can vote differently from another Christian without declaring them faithless.
-- I can care about life, poverty, religious freedom, refugees, creation, family and justice at the same time.
-- I can belong to Australia without making Australia my religion.
-
-That may make us politically inconvenient. Good. Christians should be inconvenient to every party. We should support what is good, resist what is evil and refuse to hand our conscience to any political machine.
-
-So no, it is not true that a Democrat cannot be a Christian. And in Australia, it is not true that a Christian must automatically be Labor, Liberal, National, Greens, One Nation, Family First or anything else. The real question is whether our politics is being discipled by Jesus, or whether our Jesus has quietly been remade in the image of our politics.
-
-The church does not need more baptised partisanship. It needs Christians whose public life is shaped by the cross, the kingdom of God and love of neighbour.
+No party owns Christianity. No party perfectly represents the kingdom of God. Christians may vote differently, but we must not let party loyalty become a rival gospel. Our first allegiance is to Christ. Every vote, policy and political identity must bow before him.
 
 ## Sources and Further Reading
 
-- Australian Electoral Commission, 2025 Federal Election Tally Room and Register of Political Parties.
-- Australian Labor Party, current policy platform and policy pages.
-- Liberal Party of Australia, current policy platform and policy pages.
-- Australian Greens, 2025 election platform and policy pages.
-- Family First Party Australia, policy and core values pages.
-- Australian Human Rights Commission, material on religious schools and anti-discrimination law.
-- Australian Law Reform Commission, report and statements on religious educational institutions and anti-discrimination laws.
-- Baptist World Alliance, 2024 resolution on religious nationalism.
-- Baptist World Alliance, resolution on the Paris Agreement and climate change.
-- Catholic Social Services Australia, public reflections on the common good and preferential option for the poor.
-- Australian Catholic Bishops Conference, Election Statement 2025.
-- Climate Council, 2025 election climate policy scorecard.
-- Amnesty International Australia, 2025 election human rights scorecard.
+- Australian Electoral Commission, 2025 federal election results and party information.
+- Australian Labor Party, national platform and policy material.
+- Liberal Party of Australia, federal platform and policy material.
+- The Nationals, federal platform and policy material.
+- Australian Greens, federal platform and policy material.
+- Baptist World Alliance, statements and resources on religious freedom, public witness and religious nationalism.
+- Australian Human Rights Commission, resources on freedom of religion and belief.
+- Micah Australia, resources on Christian advocacy, aid, poverty and justice.
+- The Centre for Public Christianity, articles and resources on Christianity in public life.
+- Jonathan Leeman, *Political Church: The Local Assembly as Embassy of Christ's Rule*.
+- Oliver O'Donovan, *The Desire of the Nations*.
+- James K. A. Smith, *Awaiting the King: Reforming Public Theology*.
+- Matthew 5-7; Matthew 22:15-22; Romans 13:1-7; 1 Peter 2:11-17; Revelation 13.
 
-**Word Count:** 2326
+**Word count:** 2422

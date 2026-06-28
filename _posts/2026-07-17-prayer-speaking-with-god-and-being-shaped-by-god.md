@@ -5,127 +5,130 @@ date: 2026-07-17
 author: Shayne Johnston
 category: "Christian Living and Formation"
 topic: "Prayer and spiritual formation"
-description: "A practical and theological guide to prayer, including what prayer is, why it matters, how and when to pray, types of prayer, prayer journals, praise reports, posture and praying to the Triune God."
+description: "A practical and theological guide to prayer, including what prayer is, why it matters, praying to the Triune God, types of prayer, posture, journals and praise reports."
 permalink: /prayer-speaking-with-god/
-words: 2342
+words: 2311
 ---
 
-Prayer is one of the most familiar parts of Christian life, but it can also be one of the most confusing. Many Christians know they should pray, believe prayer matters and have heard countless sermons about it, yet still feel unsure about what they are doing. Am I praying correctly? Am I using the right words? Should I pray to the Father, Jesus or the Holy Spirit? Why should I pray if God already knows what I need? What if my mind wanders? What if I do not feel anything?
+Prayer is one of the most familiar parts of Christian life, but it can also be one of the most confusing. Most Christians know they should pray. Many believe prayer matters. Yet many of us still wonder whether we are doing it properly. Am I using the right words? Should I pray to the Father, to Jesus or to the Holy Spirit? Why pray if God already knows everything? What if my mind wanders? What if I do not feel spiritual?
 
 Those questions matter because prayer is not merely a religious technique. It is not a way of manipulating God, earning favour or proving spiritual maturity. At its heart, prayer is communion with God. It is speaking with God, listening before God and being shaped by God. It includes asking, but it is much more than asking. It is one of the ways God draws us into relationship with himself.
 
-## What is prayer?
+## Prayer Is More Than Asking God for Things
 
-Prayer is personal communication with the living God. That simple definition is helpful, but it needs filling out. Christian prayer is not speaking into the air. It is not positive thinking. It is not self-expression with religious language. It is the creature addressing the Creator, the child approaching the Father, the redeemed person coming to God through Christ, by the Spirit.
+For many of us, prayer becomes most urgent when we need something. We pray when we are sick, worried, confused, guilty or desperate. There is nothing wrong with that. Scripture invites us to bring our needs to God. Jesus tells his disciples to ask for daily bread. Paul tells believers to present their requests to God. The Psalms are full of cries for help.
 
-The Bible presents prayer as honest, relational and covenantal. Abraham pleads with God. Moses intercedes for Israel. Hannah pours out her grief. David praises, laments, confesses and questions. Daniel prays faithfully in exile. Jesus withdraws to pray, teaches his disciples to pray and prays in agony in Gethsemane. The early church prays for boldness, guidance, healing, mission and perseverance.
+But if prayer is only asking for things, our view of God becomes too small. God becomes like a spiritual emergency service, useful when something goes wrong but pushed aside when life feels manageable. Biblical prayer is wider and deeper. It includes praise, confession, thanksgiving, lament, intercession, silence, surrender and worship. It is not only about getting help from God. It is about living before God.
 
-Prayer is therefore not a narrow activity limited to formal religious moments. It includes the Lord's Prayer, but also the cry of desperation, the whispered thank you, the silent groan, the confession after failure, the praise that rises unexpectedly and the disciplined intercession offered when we feel nothing dramatic at all.
+That means prayer is relational before it is practical. We do not pray because God needs information. We pray because God invites fellowship. A child does not speak to a loving parent only because the parent lacks data. The conversation itself belongs to the relationship. Prayer is part of life with God.
 
-Paul can even tell Christians to "pray without ceasing" (1 Thess 5:17). That does not mean we do nothing except pray in a formal sense. It means prayer becomes part of the atmosphere of the Christian life. We live before God, with God and toward God.
+## What Is Prayer?
 
-## Why is prayer important?
+Prayer is personal communication with the living God. It is the creature addressing the Creator, the child approaching the Father, the redeemed person coming to God through Christ, by the Spirit.
 
-Prayer matters first because God invites it. The importance of prayer does not begin with our need, but with God's gracious welcome. Jesus teaches his disciples to pray, "Our Father in heaven" (Matt 6:9). That first phrase is astonishing. We do not approach God as strangers trying to force our way into his attention. We come as children invited by the Father.
+The Bible presents prayer as honest and covenantal. Abraham pleads with God. Moses intercedes for Israel. Hannah pours out her grief. David praises, laments, confesses and questions. Daniel prays faithfully in exile. Jesus withdraws to pray, teaches his disciples to pray and prays in agony in Gethsemane. The early church prays for boldness, guidance, healing, mission and perseverance.
 
-Prayer also matters because it expresses dependence. To pray is to admit that we are not self-sufficient. We need wisdom, mercy, forgiveness, courage, provision and grace. Prayer pushes back against the illusion that we can manage life on our own.
+Prayer is therefore not limited to formal religious moments. It includes the Lord's Prayer, but also the cry of desperation, the whispered thank you, the silent groan, the confession after failure, the praise that rises unexpectedly and the disciplined intercession offered when we feel nothing dramatic at all.
 
-Prayer matters because it forms us. We often think of prayer mainly as something that changes circumstances. Sometimes it does. Scripture gives us no permission to reduce prayer to merely psychological comfort. God hears and answers prayer. Yet prayer also changes us. It reorders our loves. It exposes our motives. It teaches us patience. It brings hidden fears into God's presence. It trains us to desire God's kingdom, not merely our own preferred outcomes.
+Paul can tell Christians to "pray without ceasing" (1 Thess 5:17). That does not mean we do nothing except pray in a formal sense. It means prayer becomes part of the atmosphere of Christian life. We learn to live before God, with God and toward God.
 
-Prayer also matters because it is part of Christian mission and pastoral care. Churches do not become spiritually healthy by strategy alone. Good planning, wise leadership and faithful teaching all matter, but prayer reminds us that the church belongs to Christ. When we pray for one another, for guests, for those who are suffering, for leaders, for the lost and for the wider world, we are participating in God's care for his people and his mission in the world.
+## Who Are We Praying To?
 
-## How should we pray?
+This question is more important than it first appears. Christian prayer is Trinitarian because Christian faith is Trinitarian. We pray to the one God who is Father, Son and Holy Spirit.
 
-Many Christians are helped by simple patterns. One common model is ACTS:
+The usual pattern in the New Testament is prayer to the Father, through the Son, by the Holy Spirit. Jesus teaches his disciples to pray, "Our Father in heaven" (Matt 6:9). We come to the Father because the Son has opened the way. We do not approach God on the basis of our own worthiness. We come through Christ, our mediator and great high priest. The Spirit helps us in our weakness, bears witness that we are God's children and intercedes when we do not know how to pray as we ought (Rom 8:15-27).
 
-- **Adoration:** praising God for who he is.
-- **Confession:** naming sin honestly before God.
-- **Thanksgiving:** giving thanks for God's gifts and faithfulness.
-- **Supplication:** asking God for help, provision, guidance and mercy.
+That does not mean it is wrong to pray to Jesus. Stephen prays, "Lord Jesus, receive my spirit" (Acts 7:59). Paul pleads with the Lord about his thorn in the flesh, and the answer comes, "My grace is sufficient for you" (2 Cor 12:8-9). The church calls on the name of the Lord Jesus. Prayer to Christ has a biblical basis because Jesus is fully divine.
 
-This is not a rule, but it is useful because it stops prayer from becoming only a list of requests. It reminds us that prayer begins with God, includes honesty about ourselves, cultivates gratitude and brings our needs before him.
+What about praying to the Holy Spirit? Scripture more often describes the Spirit helping us pray than being directly addressed in prayer. Even so, since the Spirit is fully God, Christian worship and prayer can rightly honour him. The safest summary is this: Christian prayer is normally to the Father, through the Son, by the Spirit, but because Father, Son and Spirit are one God, prayer is not invalid when addressed to Jesus or when we ask the Spirit to help, fill, guide or strengthen us.
 
-Another helpful guide is the Lord's Prayer (Matt 6:9-13). Jesus does not teach prayer as a performance. In fact, he warns against praying to impress others. He gives his disciples a prayer that begins with God's name, kingdom and will before moving to daily bread, forgiveness, temptation and deliverance. That order matters. Christian prayer is personal, but it is not self-centred.
+The point is not to create anxiety about using the right divine name. The point is to see the beauty of Christian prayer. We are welcomed by the Father, represented by the Son and helped by the Spirit.
 
-Good prayer does not require impressive language. God is not more likely to hear us because we sound eloquent. Some of the best prayers are simple: "Lord, have mercy." "Help me." "Thank you." "I believe; help my unbelief." The issue is not the beauty of the words, but the honesty and trust of the heart.
+## Why Prayer Matters
 
-At the same time, mature prayer should grow beyond vague phrases. We can learn to pray Scripture, to name specific needs, to confess specific sins, to intercede thoughtfully and to align our desires with God's purposes. Prayer can be simple without being shallow.
+Prayer matters first because God invites it. We do not force our way into God's attention. Jesus teaches us to come as children to a Father who knows what we need before we ask.
 
-## When should we pray?
+Prayer matters because it expresses dependence. To pray is to admit that we are not self-sufficient. We need wisdom, mercy, forgiveness, courage, provision and grace. Prayer pushes back against the illusion that we can manage life on our own.
 
-The short answer is: regularly and freely.
+Prayer also matters because it forms us. We often think of prayer mainly as something that changes circumstances. Sometimes it does. Scripture gives us no permission to reduce prayer to psychological comfort. God hears and answers prayer. Yet prayer also changes us. It reorders our loves. It exposes our motives. It teaches patience. It brings hidden fears into God's presence. It trains us to desire God's kingdom, not merely our own preferred outcomes.
 
-Regular prayer gives structure to the Christian life. Some people pray in the morning before the day begins. Others pray at night, during lunch, while commuting, before meetings or after reading Scripture. The Bible does not command one universal schedule for every Christian, but it does present prayer as a normal rhythm of faithfulness.
+Prayer matters for the church. Churches do not become spiritually healthy by strategy alone. Planning, leadership and faithful teaching all matter, but prayer reminds us that the church belongs to Christ. When we pray for one another, for guests, for the suffering, for leaders, for the lost and for the wider world, we participate in God's care for his people and his mission in the world.
 
-Free prayer means we can also pray in the moment. When we hear difficult news, we can pray. When someone asks for help, we can pray. When we are tempted, we can pray. When we notice beauty, we can praise. When we are anxious, we can bring that anxiety to God. Prayer is not limited to quiet rooms, church services or devotional notebooks.
+## The Different Types of Prayer
 
-A good practice is to have both a rhythm and a reflex. Rhythm means we set aside time to pray even when we do not feel like it. Reflex means prayer becomes our instinctive response to life before God.
+Christians sometimes feel stuck because they think prayer means one thing. The Bible gives us a much richer vocabulary.
 
-## Different types of prayer
+Praise is prayer that delights in who God is. It focuses on God's holiness, goodness, power, wisdom, mercy and love. Praise is not flattery. It is truthful attention to God's glory.
 
-Christian prayer includes many kinds of speech before God.
+Thanksgiving is prayer that remembers what God has done. It resists forgetfulness. It teaches us to notice grace in ordinary life.
 
-**Praise** focuses on who God is: his holiness, goodness, wisdom, power, mercy and love. Praise is not flattery. It is the truthful recognition of God's worth.
+Confession is prayer that tells the truth about sin. It is not self-hatred. It is bringing our failure into the mercy of God rather than hiding, excusing or minimising it.
 
-**Thanksgiving** recognises what God has done. It helps us notice grace rather than only problems. Gratitude is spiritually important because forgetfulness often feeds discontent.
+Petition is asking God for our own needs. This may include wisdom, provision, healing, strength, guidance, forgiveness or perseverance.
 
-**Confession** brings sin into the light. Confession is not informing God of something he does not know. It is agreeing with God about what is true and receiving mercy rather than hiding.
+Intercession is praying for others. It may include family, friends, church members, leaders, neighbours, enemies, missionaries, the suffering and the world.
 
-**Lament** is faithful sorrow before God. Many Christians neglect lament because they think mature faith should always sound positive. The Psalms teach otherwise. Lament gives grief, anger, confusion and pain a place in the presence of God.
+Lament is honest prayer from grief, confusion or pain. The Psalms give us permission to bring sorrow to God without pretending everything is fine.
 
-**Intercession** is praying for others. It might include family, friends, church members, leaders, enemies, missionaries, nations, the sick, the suffering and those who do not yet know Christ.
+Surrender is prayer that yields our will to God. Jesus' prayer in Gethsemane is the clearest example: "Yet not what I want but what you want" (Mark 14:36).
 
-**Petition** is asking God for our own needs. This is not selfish when rightly ordered. Jesus tells us to ask for daily bread.
+A healthy prayer life does not need every type of prayer in equal measure every day, but over time it should become broader than requests alone.
 
-**Guidance** seeks God's wisdom and direction. This should be joined with Scripture, wise counsel and humility rather than treated as a way to bypass careful thought.
+## How Should We Pray?
 
-**Silence and listening** are also part of prayer, though they need care. Listening prayer does not mean every thought that enters my mind is God's voice. It means becoming attentive before God, allowing Scripture to search us and making space for the Spirit to convict, comfort and direct.
+Many Christians are helped by simple patterns. One common model is ACTS: adoration, confession, thanksgiving and supplication. It is not a law, but it can stop prayer from becoming only a list of requests.
 
-## Prayer journals and praise reports
+The Lord's Prayer gives an even better pattern. It begins with God's name, kingdom and will before turning to daily bread, forgiveness and deliverance. That order matters. Jesus teaches us to bring our needs to God, but within a larger desire for God's kingdom.
 
-A prayer journal can be a helpful tool, especially for people whose minds wander or who forget what they intended to pray for. It can include requests, Scriptures, names, reflections, answered prayers, unresolved burdens and patterns God seems to be addressing over time.
+We should pray honestly. God is not fooled by religious language. The Psalms show that faithful prayer can include tears, frustration, fear and questions. Reverence does not require pretending.
 
-A journal does not need to be elaborate. Some people use a notebook. Others use a spreadsheet, notes app or simple list. The point is not to create another spiritual burden. The point is to help us pray with attention and remember God's faithfulness.
+We should pray humbly. Prayer is not instructing God as though we know better. It is bringing our desires before the Father who is wiser and better than we are.
 
-Praise reports are closely related. Churches often share prayer requests, but we sometimes forget to share what God has done. Praise reports encourage faith, build community and remind us that prayer is not just about bringing needs to God, but also noticing his grace.
+We should pray persistently. Jesus encourages his disciples not to lose heart. Persistence does not twist God's arm. It keeps us dependent and attentive.
 
-However, praise reports should be handled wisely. Not every story needs public detail. Privacy matters. Some answers are partial. Some prayers remain unanswered in the way we hoped. A mature prayer culture can celebrate answered prayer without making those still waiting feel forgotten, inferior or faithless.
+We should pray in faith, but faith is not confidence that God will do exactly what we prefer. Faith is trust in God's character, even when the answer is delayed, different or painful.
 
-## Mindset and posture in prayer
+## When Should We Pray?
 
-The physical posture of prayer can vary. The Bible shows people standing, kneeling, lifting hands, lying face down, looking toward heaven and praying silently. No single posture is required for all prayer. The body can help express the heart, but the heart is the deeper issue.
+There is no bad time to pray. Scripture includes regular patterns of prayer as well as spontaneous prayer. Daniel prays at set times. Jesus withdraws to lonely places. The early church gathers for prayer. Paul encourages continual prayer.
 
-A posture of humility matters more than the position of the knees. We come before God as dependent people. A posture of trust matters because we come to a Father who is good. A posture of reverence matters because the Father is also holy. A posture of surrender matters because prayer is not an attempt to bend God to our will, but to seek his will and entrust ourselves to him.
+Set times can be helpful because habits carry us when feelings do not. Morning prayer begins the day in dependence. Evening prayer reviews the day in gratitude and confession. Prayer before meals acknowledges provision. Prayer before meetings, ministry, study or difficult conversations reminds us that we need wisdom.
 
-This does not mean we pray without boldness. Hebrews says we can approach the throne of grace with confidence (Heb 4:16). Christian prayer holds reverence and confidence together. We do not swagger into God's presence, but neither do we crawl in as if Christ has not opened the way.
+Spontaneous prayer is also important. We can pray while driving, waiting, working, studying, exercising or sitting quietly. We can pray when a person comes to mind. We can pray before sending a difficult message. We can pray when we hear bad news.
 
-## Which member of the Trinity do we pray to?
+The goal is not to become anxious about praying enough. The goal is to become increasingly aware that every part of life is lived in God's presence.
 
-Most Christian prayer follows the pattern of praying to the Father, through the Son, by the Holy Spirit. This pattern reflects the shape of the gospel. The Father sends the Son. The Son reconciles us to God. The Spirit brings us into the life of Christ and helps us cry, "Abba! Father!" (Rom 8:15).
+## Mindset and Posture in Prayer
 
-That is why many prayers end with words such as, "through Jesus Christ our Lord" or "in Jesus' name." This is not a magic formula tacked onto the end of a request. It means we come to God on the basis of Christ, not our worthiness.
+Physical posture can help, but it is not magic. Scripture includes standing, kneeling, lifted hands, bowed heads, faces to the ground and eyes lifted to heaven. Different postures can express different things: reverence, surrender, dependence, grief, openness or joy.
 
-But Christians may also pray to Jesus. The New Testament gives examples of believers calling on the name of the Lord Jesus. Stephen prays, "Lord Jesus, receive my spirit" (Acts 7:59). The final prayer of the Bible is, "Come, Lord Jesus!" (Rev 22:20). Since Jesus is fully God, prayer to Jesus is proper Christian worship.
+For people with disability, chronic pain, fatigue or limited mobility, it is especially important not to turn posture into a spiritual performance. God is not more impressed by kneeling than by praying from a wheelchair, hospital bed, desk chair or couch. The posture of the heart matters more than the position of the body.
 
-Prayer to the Holy Spirit is also theologically appropriate because the Spirit is fully God. Many Christians pray, "Come, Holy Spirit" or ask the Spirit to fill, guide, convict and empower them. The Bible most commonly presents the Spirit as the one who helps us pray, intercedes for us and draws us to the Father through the Son, but that does not make prayer to the Spirit wrong.
+The mindset of prayer should be reverent and confident. Hebrews invites us to approach the throne of grace with boldness because of Christ. That is not casual arrogance. It is humble confidence. We come as loved children, not as spiritual employees presenting a performance review.
 
-So the safest summary is this: the normal pattern is prayer to the Father, through the Son, by the Spirit, but because God is Trinity, Christian prayer may rightly address the Father, the Son or the Holy Spirit. We do not pray to three gods. We pray to the one God who is Father, Son and Holy Spirit.
+## Prayer Journals and Praise Reports
 
-## Prayer and unanswered prayer
+Prayer journals can be useful because they slow us down and help us remember. A journal may include requests, Scripture reflections, written prayers, names of people we are praying for, difficult questions, answered prayers and patterns we notice over time.
 
-No serious article on prayer should pretend that prayer is easy. Many Christians carry disappointment. They prayed for healing and the person died. They prayed for reconciliation and the relationship fractured. They prayed for relief and the suffering continued.
+The danger is turning a journal into a guilt ledger. A prayer journal is a tool, not a measure of spiritual worth. Some people will use one daily. Others will use one occasionally. Some will prefer a digital note, a spreadsheet, a notebook or a simple list.
 
-The Bible does not give us a simplistic formula. It teaches us to ask boldly, trust deeply and lament honestly. Even Jesus prayed in Gethsemane, "My Father, if it is possible, let this cup pass from me; yet not what I want but what you want" (Matt 26:39). That prayer was not faithless. It was perfect trust expressed through anguish.
+Praise reports are also valuable. Churches often share prayer requests more easily than answered prayers. Recording and sharing praise reports helps a community remember that God is active. It encourages faith, gratitude and perseverance. It also teaches us to notice small mercies, not only dramatic breakthroughs.
 
-Unanswered prayer does not mean prayer failed. It may mean we are living in the tension of the already and not yet, where God's kingdom has come in Christ and yet creation still groans. Prayer does not remove all mystery, but it does bring us into the presence of the God who meets us within it.
+## When Prayer Feels Difficult
 
-## Learning to pray by praying
+Prayer will not always feel easy. Sometimes we are distracted. Sometimes we are tired. Sometimes we are disappointed because a prayer was not answered as we hoped. Sometimes guilt keeps us away from God. Sometimes suffering leaves us with groans rather than words.
 
-In the end, we learn to pray by praying. Books and teaching can help. Models can help. Prayer journals can help. Church prayer meetings can help. But prayer is finally learned in relationship with God.
+Romans 8 is deeply comforting here. The Spirit helps us in our weakness. That means weakness does not disqualify us from prayer. It may be the very place where the Spirit meets us.
 
-Start simply. Pray the Lord's Prayer slowly. Pray through a Psalm. Keep a short list of people to pray for. Pause during the day and thank God for one thing. Confess quickly when convicted. Ask for wisdom before difficult conversations. Share praise reports when appropriate. Sit quietly before God when words are hard.
+When prayer is difficult, keep it simple. Pray a Psalm. Pray the Lord's Prayer. Pray one honest sentence. Sit quietly before God. Ask someone else to pray with you. Do not despise small prayers. A weak prayer offered to a strong Saviour is still prayer.
 
-Prayer is not a performance for spiritual experts. It is the ordinary breath of Christian faith. We speak with God because he has spoken first. We come because Christ has opened the way. We pray because the Spirit helps us. We continue because the Father is good.
+## Conclusion: Prayer as Relationship, Dependence and Formation
+
+Prayer is not a religious performance for impressive Christians. It is the ordinary breath of life with God. We pray because the Father welcomes us, the Son has opened the way and the Spirit helps us.
+
+Prayer includes requests, but it is more than asking. It is praise, confession, thanksgiving, lament, intercession, surrender and listening. It can be structured or spontaneous, spoken or silent, joyful or tearful. It can happen in church, at home, at work, in hospital, in the car or in the middle of a difficult day.
+
+The point is not to master a technique. The point is to live in communion with God. Prayer teaches us to depend, remember, trust, repent, hope and love. It forms us because it brings us again and again into the presence of the God who already knows us and still invites us to come.
 
 ## Sources and Further Reading
 
@@ -140,4 +143,4 @@ Prayer is not a performance for spiritual experts. It is the ordinary breath of 
 - The Psalms, especially Psalms 13, 23, 51, 63, 103 and 139.
 - Matthew 6:5-13; Luke 11:1-13; Romans 8:15-27; Philippians 4:4-7; Hebrews 4:14-16; James 5:13-18.
 
-**Word count:** 2342
+**Word count:** 2311
