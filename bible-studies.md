@@ -22,6 +22,12 @@ They are designed to stretch without discouraging. Each study includes context, 
   </article>
 
   <article class="resource-card">
+    <h2><a href="{{ '/bible-studies/prayer/' | relative_url }}">Prayer</a></h2>
+    <p>A 4-week Bible study on prayer, the Trinity, praise, confession, lament, intercession, persistence, prayer journals and praise reports.</p>
+    <p><strong>Level:</strong> practical and theologically grounded, suitable for mature groups and stretching for newer Christians.</p>
+  </article>
+
+  <article class="resource-card">
     <h2><a href="{{ '/bible-studies/what-is-the-gospel/' | relative_url }}">What Is the Gospel?</a></h2>
     <p>A 4-week Bible study on the good news of Jesus Christ, the kingdom of God, grace, repentance, faith and new life.</p>
     <p><strong>Level:</strong> clear enough for newer Christians, but designed to deepen seasoned believers.</p>
