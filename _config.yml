@@ -20,7 +20,7 @@ collections:
 plugins:
   - jekyll-feed
   
-  feed:
+feed:
   posts_limit: 50
   
   - jekyll-seo-tag
