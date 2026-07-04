@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Salvation, Rewards and Faithfulness in the Kingdom"
-date: 2026-08-28
+date: 2026-07-04
 author: Shayne Johnston
 category: "Core Christian Beliefs"
 topic: "Salvation, reward and judgment"
