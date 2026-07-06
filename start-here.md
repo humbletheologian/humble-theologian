@@ -79,8 +79,10 @@ The Bible Studies section is for thoughtful Christians, group leaders and reader
 
 - [Bible Studies]({{ '/bible-studies/' | relative_url }})
 - [Identity in Christ]({{ '/bible-studies/identity-in-christ/' | relative_url }})
+- [Prayer]({{ '/bible-studies/prayer/' | relative_url }})
 - [What Is the Gospel?]({{ '/bible-studies/what-is-the-gospel/' | relative_url }})
 - [Disability, Belonging and the Church]({{ '/bible-studies/disability-belonging-and-the-church/' | relative_url }})
+- [Suffering, Healing and Hope]({{ '/bible-studies/suffering-healing-and-hope/' | relative_url }})
 - [How to Read the Bible Well]({{ '/bible-studies/how-to-read-the-bible-well/' | relative_url }})
 - [Ephesians: Grace, Identity and the Church]({{ '/bible-studies/ephesians-grace-identity-and-the-church/' | relative_url }})
 

@@ -54,6 +54,8 @@ More disability and church articles will be added here soon.
 
 For groups that want to explore this theme through Scripture, start with [Disability, Belonging and the Church]({{ '/bible-studies/disability-belonging-and-the-church/' | relative_url }}). It is a 4-week study on dignity before usefulness, Jesus and healing assumptions, the body of Christ and resurrection hope.
 
+A second study, [Suffering, Healing and Hope]({{ '/bible-studies/suffering-healing-and-hope/' | relative_url }}), gives groups space to explore healing, lament, unanswered prayer, disability and resurrection hope with pastoral care.
+
 ## Themes I expect to keep developing
 
 - the image of God, embodiment and human dignity

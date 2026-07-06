@@ -27,6 +27,14 @@ They are designed to stretch without discouraging. Each study includes context, 
     <p><strong>Level:</strong> practical and theologically grounded, suitable for mature groups and stretching for newer Christians.</p>
   </article>
 
+
+
+  <article class="resource-card">
+    <h2><a href="{{ '/bible-studies/suffering-healing-and-hope/' | relative_url }}">Suffering, Healing and Hope</a></h2>
+    <p>A 4-week Bible study on suffering, healing, lament, disability, prayer and resurrection hope.</p>
+    <p><strong>Level:</strong> pastoral and theologically stretching, suitable for seasoned Christians and accessible for newer Christians willing to wrestle honestly.</p>
+  </article>
+
   <article class="resource-card">
     <h2><a href="{{ '/bible-studies/what-is-the-gospel/' | relative_url }}">What Is the Gospel?</a></h2>
     <p>A 4-week Bible study on the good news of Jesus Christ, the kingdom of God, grace, repentance, faith and new life.</p>

@@ -21,8 +21,10 @@ Resources are here to help readers keep learning without making the site feel cl
 These are the current study resources:
 
 - [Identity in Christ]({{ '/bible-studies/identity-in-christ/' | relative_url }}) - a 4-week study on image, labels, new creation, adoption and embodied discipleship.
+- [Prayer]({{ '/bible-studies/prayer/' | relative_url }}) - a 4-week study on prayer, the Trinity, praise, confession, lament, intercession, persistence, prayer journals and praise reports.
 - [What Is the Gospel?]({{ '/bible-studies/what-is-the-gospel/' | relative_url }}) - a 4-week study on the good news of Jesus Christ, the kingdom of God, grace, repentance, faith and new life.
 - [Disability, Belonging and the Church]({{ '/bible-studies/disability-belonging-and-the-church/' | relative_url }}) - a 4-week study on dignity, belonging, weakness, healing assumptions and the body of Christ.
+- [Suffering, Healing and Hope]({{ '/bible-studies/suffering-healing-and-hope/' | relative_url }}) - a 4-week study on suffering, healing, lament, disability, prayer and resurrection hope.
 - [How to Read the Bible Well]({{ '/bible-studies/how-to-read-the-bible-well/' | relative_url }}) - a 4-week study on context, genre, interpretation, application and faithful reading of Scripture.
 - [Ephesians: Grace, Identity and the Church]({{ '/bible-studies/ephesians-grace-identity-and-the-church/' | relative_url }}) - a 6-week book-based study through Ephesians.
 
