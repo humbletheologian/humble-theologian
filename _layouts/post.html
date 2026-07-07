@@ -19,6 +19,24 @@ layout: default
     {{ content }}
   </div>
 
+
+  {% assign related_posts = site.posts | where_exp: "post", "post.url != page.url" | where: "category", page.category %}
+  {% if related_posts.size > 0 %}
+  <section class="related-articles wrap narrow" aria-labelledby="related-articles-heading">
+    <h2 id="related-articles-heading">Related articles</h2>
+    <div class="related-article-list">
+      {% for related in related_posts limit:3 %}
+        <article class="related-article-card">
+          <p class="eyebrow">{{ related.category }}</p>
+          <h3><a href="{{ related.url | relative_url }}">{{ related.title }}</a></h3>
+          {% if related.description %}<p>{{ related.description }}</p>{% endif %}
+          <p class="meta">{{ related.date | date: "%d %B %Y" }}{% if related.topic %} · {{ related.topic }}{% endif %}</p>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
   <section class="article-share wrap narrow" aria-labelledby="share-this-article">
     <style>
       .article-share .share-icon-row {
