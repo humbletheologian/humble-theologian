@@ -1,15 +1,21 @@
 ---
 layout: default
 ---
+{% assign wide_hub_pages = "/start-here/|/articles/|/topics/|/resources/|/bible-studies/|/disability-and-church/|/organisations/|/search/|/recommended-youtube/|/spurgeon/|/love-as-a-verb/" | split: "|" %}
+{% assign is_wide_page = false %}
+{% if page.wide == true or wide_hub_pages contains page.permalink %}
+  {% assign is_wide_page = true %}
+{% endif %}
+
 <section class="page-hero subtle-hero">
-  <div class="wrap narrow">
+  <div class="wrap{% unless is_wide_page %} narrow{% else %} wide-page{% endunless %}">
     <p class="eyebrow">{{ page.kicker | default: site.title }}</p>
     <h1>{{ page.title }}</h1>
     {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
   </div>
 </section>
 <section class="page-content">
-  <div class="wrap narrow prose">
+  <div class="wrap{% unless is_wide_page %} narrow{% else %} wide-page{% endunless %} prose">
     {{ content }}
   </div>
 </section>
