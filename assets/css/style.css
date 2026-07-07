@@ -42,3 +42,38 @@ a{color:var(--green);text-decoration-thickness:1px;text-underline-offset:3px}a:h
 .wide-page .topic-list{grid-template-columns:repeat(3,minmax(0,1fr))}
 @media (max-width:1050px){.wide-page .resource-grid,.wide-page .hub-grid,.wide-page .organisation-grid,.wide-page .topic-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:800px){.wide-page .resource-grid,.wide-page .hub-grid,.wide-page .organisation-grid,.wide-page .topic-list{grid-template-columns:1fr}.wide-page.prose>p,.wide-page.prose>ul:not(.topic-list){max-width:none}}
+
+
+/* Related articles */
+.related-articles{border-top:1px solid var(--line);padding:34px 0 20px;margin-top:8px}
+.related-articles h2{font-family:Georgia,serif;font-size:28px;margin:0 0 16px}
+.related-article-list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.related-article-card{background:var(--paper);border:1px solid var(--line);border-radius:20px;padding:18px;box-shadow:0 10px 22px rgba(17,24,39,.05)}
+.related-article-card h3{font-family:Georgia,serif;font-size:20px;line-height:1.25;margin:.2em 0 .35em}
+.related-article-card h3 a{text-decoration:none;color:var(--space)}
+.related-article-card p{font-size:16px;margin:.4em 0}
+@media (max-width:900px){.related-article-list{grid-template-columns:1fr}}
+
+/* Bible study session navigation */
+.session-nav{background:var(--paper);border:1px solid var(--line);border-radius:22px;padding:20px 22px;margin:0 0 28px;box-shadow:0 12px 26px rgba(17,24,39,.05)}
+.session-nav h2{font-family:Georgia,serif;font-size:24px;margin:0 0 10px}
+.session-nav ol{margin:.25rem 0 0;padding-left:1.4rem;display:grid;gap:.35rem}
+.session-nav a{text-decoration:none;font-weight:700}.session-nav a:hover{text-decoration:underline}
+
+/* Glossary */
+.glossary-list{display:grid;gap:18px;margin:28px 0}.glossary-entry{background:var(--paper);border:1px solid var(--line);border-radius:20px;padding:20px;box-shadow:0 10px 22px rgba(17,24,39,.05)}
+.glossary-entry h2{font-size:24px;margin:.1em 0 .35em}.glossary-entry p{margin:.45em 0}.glossary-entry .see-also{font-size:16px;color:var(--muted)}
+
+/* Print-friendly pages, especially Bible studies */
+@media print{
+  body{background:#fff;color:#000;font-size:12pt;line-height:1.45}
+  .site-header,.site-footer,.button-row,.quick-search,.article-share,.article-footer,.session-nav{display:none!important}
+  .wrap,.narrow,.wrap.wide-page{width:100%!important;max-width:none!important;margin:0!important}
+  .page-hero,.article-header{background:#fff!important;border:0!important;padding:0 0 12pt!important}
+  .page-content,.article-body{padding:0!important;background:#fff!important}
+  .card,.resource-card,.hub-card,.organisation-card,.related-article-card,.glossary-entry{box-shadow:none!important;border:1px solid #bbb!important;background:#fff!important}
+  a{color:#000;text-decoration:underline}
+  h1,h2,h3{page-break-after:avoid;break-after:avoid}
+  p,li{orphans:3;widows:3}
+  .page-content .prose h1[id^="session-"],.page-content .prose h2[id^="session-"]{break-before:page;page-break-before:always}
+}
