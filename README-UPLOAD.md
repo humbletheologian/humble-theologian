@@ -1,24 +1,40 @@
-# Suffering, Healing and Hope Bible Study Patch
+# Functionality enhancement patch
 
-Upload these files to add the new Bible study and surface it across the site.
+Upload these files to add:
 
-## Root/main level
+1. A Glossary page
+2. A Privacy page
+3. Related articles below article pages
+4. Automatic session navigation on individual Bible study pages
+5. Print-friendly styling for Bible studies and reading pages
 
-- `bible-studies.md`
-- `index.html`
-- `start-here.md`
-- `resources.md`
-- `disability-and-church.md`
+## Upload to root/main level
 
-## `bible-studies` folder
+- glossary.md
+- privacy.md
+- resources.md
 
-- `suffering-healing-and-hope.md`
+## Upload to _layouts
 
-Commit the changes, wait for the green tick under Actions and test:
+- _layouts/post.html
+- _layouts/page.html
 
-- `/bible-studies/`
-- `/bible-studies/suffering-healing-and-hope/`
-- `/`
-- `/start-here/`
-- `/resources/`
-- `/disability-and-church/`
+## Upload to _includes
+
+- _includes/footer.html
+
+## Upload to assets/css
+
+- assets/css/style.css
+
+## Upload to assets/js
+
+- assets/js/bible-study-nav.js
+
+Commit, wait for the green tick under Actions, then test:
+
+- /glossary/
+- /privacy/
+- any article page
+- /bible-studies/prayer/
+- print preview on a Bible study page
