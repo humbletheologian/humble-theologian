@@ -88,14 +88,9 @@ The Bible Studies section is for thoughtful Christians, group leaders and reader
 
 ## Looking for devotional resources?
 
-These pages are designed for prayer, reflection and ordinary discipleship.
+Start with the [Devotions hub]({{ '/devotions/' | relative_url }}).
 
-<ul>
-  <li><a href="{{ '/devotions/' | relative_url }}">Devotions</a> - a hub for all devotional resources on the site.</li>
-  <li><a href="{{ '/ordinary-faithfulness-devotions/' | relative_url }}">Ordinary Faithfulness</a> - fourteen short devotions with Scripture, reflection, prayer and a practical response.</li>
-  <li><a href="{{ '/love-as-a-verb/' | relative_url }}">Love as a Verb</a> - a longer devotional pathway on love as something lived and practised.</li>
-  <li><a href="{{ '/spurgeon/' | relative_url }}">Spurgeon Devotionals</a> - classic public-domain devotional readings.</li>
-</ul>
+That page gathers the devotional resources on the site, including original Humble Theologian devotions, Love as a Verb and classic public-domain devotional readings.
 
 ## Trying to understand the Bible?
 

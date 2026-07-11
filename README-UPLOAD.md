@@ -1,35 +1,39 @@
-# Devotions Site Integration Patch
+# Hub Navigation Cleanup Patch
 
-This patch makes the new `Ordinary Faithfulness` devotions findable across the site.
+This patch makes the navigation hierarchy more consistent.
+
+Principle used:
+
+- Broad pages point to hub pages.
+- Hub pages list individual resources.
+
+What this changes:
+
+- `Start Here` now points to the Devotions hub instead of listing Devotions plus individual devotional collections.
+- `Start Here` now points to the Bible Studies hub instead of listing Bible Studies plus individual Bible studies.
+- `Resources` now points to the Devotions hub and Bible Studies hub instead of duplicating the individual entries.
+- `Home` now promotes the Devotions hub and Bible Studies hub rather than duplicating individual collection/study links.
+- `Devotions` remains the page where Ordinary Faithfulness, Love as a Verb and Spurgeon are listed.
+- The Bible Studies hub remains the place where individual Bible studies are listed.
 
 Upload these files to the root:
 
-- `devotions.md`
 - `index.html`
 - `start-here.md`
-- `topics.md`
 - `resources.md`
+- `topics.md`
+- `devotions.md`
 
-Upload these to `_includes`:
+Upload these files to `_includes`:
 
 - `_includes/header.html`
 - `_includes/footer.html`
 
-What changes:
+Test after upload:
 
-- Adds a new `/devotions/` hub page.
-- Adds `Devotions` to the main menu.
-- Keeps `Love as a Verb` and `Spurgeon` reachable through the new devotions hub.
-- Adds devotions to the homepage.
-- Adds devotions to Start Here.
-- Adds a devotions pointer on Topics.
-- Adds Ordinary Faithfulness and the Devotions hub to Resources.
-
-Test these URLs after upload and rebuild:
-
-- `/devotions/`
-- `/ordinary-faithfulness-devotions/`
 - `/`
 - `/start-here/`
-- `/topics/`
 - `/resources/`
+- `/topics/`
+- `/devotions/`
+- `/bible-studies/`
