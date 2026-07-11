@@ -11,6 +11,7 @@ Resources are here to help readers keep learning without making the site feel cl
 ## Site resources
 
 - [Bible Studies]({{ '/bible-studies/' | relative_url }}) - guided studies for thoughtful Christians, group leaders and readers who want Scripture to shape discussion, prayer and practice.
+- [Devotions]({{ '/devotions/' | relative_url }}) - devotional resources for prayer, reflection and ordinary discipleship.
 - [Search the site]({{ '/search/' | relative_url }}) - find articles, pages, devotional resources and topics by keyword.
 - [Glossary]({{ '/glossary/' | relative_url }}) - short definitions of theological, biblical and church terms used across the site.
 - [Articles]({{ '/articles/' | relative_url }}) - all articles in date order.
@@ -42,8 +43,10 @@ These are the current study resources:
 
 ## Devotional resources
 
+- [Devotions]({{ '/devotions/' | relative_url }}) - the main devotional hub.
+- [Ordinary Faithfulness]({{ '/ordinary-faithfulness-devotions/' | relative_url }}) - fourteen short original devotions with Scripture, reflection, prayer and a practical response.
 - [Love as a Verb]({{ '/love-as-a-verb/' | relative_url }}) - devotional reflections on love as something lived, practised and embodied.
-- [Spurgeon Devotionals](#spurgeon-devotionals) - public-domain devotional classics with brief Humble Theologian reflections.
+- [Spurgeon Devotionals]({{ '/spurgeon/' | relative_url }}) - public-domain devotional classics with brief Humble Theologian reflections.
 
 ## How resources will be handled
 

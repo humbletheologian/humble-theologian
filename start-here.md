@@ -86,6 +86,17 @@ The Bible Studies section is for thoughtful Christians, group leaders and reader
 - [How to Read the Bible Well]({{ '/bible-studies/how-to-read-the-bible-well/' | relative_url }})
 - [Ephesians: Grace, Identity and the Church]({{ '/bible-studies/ephesians-grace-identity-and-the-church/' | relative_url }})
 
+## Looking for devotional resources?
+
+These pages are designed for prayer, reflection and ordinary discipleship.
+
+<ul>
+  <li><a href="{{ '/devotions/' | relative_url }}">Devotions</a> - a hub for all devotional resources on the site.</li>
+  <li><a href="{{ '/ordinary-faithfulness-devotions/' | relative_url }}">Ordinary Faithfulness</a> - fourteen short devotions with Scripture, reflection, prayer and a practical response.</li>
+  <li><a href="{{ '/love-as-a-verb/' | relative_url }}">Love as a Verb</a> - a longer devotional pathway on love as something lived and practised.</li>
+  <li><a href="{{ '/spurgeon/' | relative_url }}">Spurgeon Devotionals</a> - classic public-domain devotional readings.</li>
+</ul>
+
 ## Trying to understand the Bible?
 
 These articles are for readers who want to understand Scripture carefully, not just collect isolated proof texts.

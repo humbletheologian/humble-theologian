@@ -1,40 +1,35 @@
-# Functionality enhancement patch
+# Devotions Site Integration Patch
 
-Upload these files to add:
+This patch makes the new `Ordinary Faithfulness` devotions findable across the site.
 
-1. A Glossary page
-2. A Privacy page
-3. Related articles below article pages
-4. Automatic session navigation on individual Bible study pages
-5. Print-friendly styling for Bible studies and reading pages
+Upload these files to the root:
 
-## Upload to root/main level
+- `devotions.md`
+- `index.html`
+- `start-here.md`
+- `topics.md`
+- `resources.md`
 
-- glossary.md
-- privacy.md
-- resources.md
+Upload these to `_includes`:
 
-## Upload to _layouts
+- `_includes/header.html`
+- `_includes/footer.html`
 
-- _layouts/post.html
-- _layouts/page.html
+What changes:
 
-## Upload to _includes
+- Adds a new `/devotions/` hub page.
+- Adds `Devotions` to the main menu.
+- Keeps `Love as a Verb` and `Spurgeon` reachable through the new devotions hub.
+- Adds devotions to the homepage.
+- Adds devotions to Start Here.
+- Adds a devotions pointer on Topics.
+- Adds Ordinary Faithfulness and the Devotions hub to Resources.
 
-- _includes/footer.html
+Test these URLs after upload and rebuild:
 
-## Upload to assets/css
-
-- assets/css/style.css
-
-## Upload to assets/js
-
-- assets/js/bible-study-nav.js
-
-Commit, wait for the green tick under Actions, then test:
-
-- /glossary/
-- /privacy/
-- any article page
-- /bible-studies/prayer/
-- print preview on a Bible study page
+- `/devotions/`
+- `/ordinary-faithfulness-devotions/`
+- `/`
+- `/start-here/`
+- `/topics/`
+- `/resources/`
