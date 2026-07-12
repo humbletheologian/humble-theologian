@@ -6,21 +6,14 @@
     </div>
     <div>
       <p>Serious theology without the ego. A personal resource for Bible college students and thoughtful Christians.</p>
-      <nav class="footer-nav" aria-label="Footer navigation">
-        <a href="{{ '/' | relative_url }}">Home</a> ·
-        <a href="{{ '/start-here/' | relative_url }}">Start Here</a> ·
+      <p>
         <a href="{{ '/articles/' | relative_url }}">Articles</a> ·
-        <a href="{{ '/bible-studies/' | relative_url }}">Bible Studies</a> ·
         <a href="{{ '/topics/' | relative_url }}">Topics</a> ·
-        <a href="{{ '/devotions/' | relative_url }}">Devotions</a> ·
-        <a href="{{ '/search/' | relative_url }}">Search</a> ·
         <a href="{{ '/resources/' | relative_url }}">Resources</a> ·
         <a href="{{ '/glossary/' | relative_url }}">Glossary</a> ·
-        <a href="{{ '/about/' | relative_url }}">About</a> ·
         <a href="{{ '/contact/' | relative_url }}">Contact</a> ·
-        <a href="{{ '/privacy/' | relative_url }}">Privacy</a> ·
         {% if site.feed.path %}<a href="{{ site.feed.path | relative_url }}">RSS feed</a>{% else %}<a href="{{ '/feed.xml' | relative_url }}">RSS feed</a>{% endif %}
-      </nav>
+      </p>
       <p>
         Questions, comments or suggested topics?
         <a href="mailto:{{ site.email | default: 'shayne.johnston@humbletheologian.com' }}">Email me</a>.
