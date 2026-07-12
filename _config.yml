@@ -21,12 +21,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-feed:
-  posts_limit: 50
-
 exclude:
   - README.md
   - CONTENT-GUIDE.md
   - GITHUB-PAGES-SETUP.md
   - LOCAL-PREVIEW-INSTRUCTIONS.md
   - LAUNCH-AUDIT.md
+  - STYLE-GUIDE.md

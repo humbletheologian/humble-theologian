@@ -17,7 +17,7 @@ You can also [subscribe by RSS]({{ '/feed.xml' | relative_url }}) to follow new 
 {% assign posts = year.items | sort: "date" | reverse %}
 {% for post in posts %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}  
-  <span class="meta">{{ post.date | date: "%d %B %Y" }}{% if post.category %} · {{ post.category }}{% endif %}{% if post.topic %} · {{ post.topic }}{% endif %}</span>
+  <span class="meta">{{ post.date | date: "%d %B %Y" }}{% if post.category %} · {{ post.category }}{% endif %}{% if post.topic %} · {{ post.topic }}{% endif %}{% if post.words %} · Approx. {{ post.words }} words{% endif %}</span>
 {% endfor %}
 
 {% endfor %}

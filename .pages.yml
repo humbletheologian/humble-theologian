@@ -13,31 +13,63 @@ content:
       - { name: title, label: Title, type: string }
       - { name: date, label: Date, type: date }
       - { name: author, label: Author, type: string, default: Shayne Johnston }
-      - { name: category, label: Category, type: string }
-      - { name: topic, label: Topic, type: string }
-      - { name: tags, label: Tags, type: string, list: true }
+      - name: category
+        label: Category
+        type: select
+        options:
+          values:
+            - Core Christian Beliefs
+            - Bible and Interpretation
+            - Old Testament Law and Christian Life
+            - Disability, Faith and Church
+            - Hell, Judgment and Hope
+            - Church and Pastoral Care
+            - Christian Living and Formation
+            - Personal Reflections
+      - { name: topic, label: Topic, type: string, required: false }
+      - { name: permalink, label: Clean URL/permalink, type: string, required: false }
+      - name: tags
+        label: Tags
+        type: select
+        options:
+          multiple: true
+          values:
+            - apologetics
+            - Bible college
+            - Bible study
+            - canon
+            - church
+            - culture
+            - disability
+            - discipleship
+            - eschatology
+            - gospel
+            - hell
+            - hermeneutics
+            - image of God
+            - ministry
+            - pastoral care
+            - resurrection
+            - theology
       - { name: description, label: Description, type: text }
-      - { name: words, label: Approx word count, type: number }
+      - { name: words, label: Approx word count, type: number, required: false }
       - { name: body, label: Body, type: rich-text }
+
   - name: pages
-    label: Pages
+    label: Main pages
     path: .
     type: collection
     include: "*.md"
-    exclude: [README.md, CONTENT-GUIDE.md, GITHUB-PAGES-SETUP.md]
+    exclude:
+      - README.md
+      - CONTENT-GUIDE.md
+      - GITHUB-PAGES-SETUP.md
+      - LOCAL-PREVIEW-INSTRUCTIONS.md
+      - LAUNCH-AUDIT.md
+      - STYLE-GUIDE.md
     fields:
       - { name: layout, type: string, default: page }
       - { name: title, label: Title, type: string }
-      - { name: description, label: Description, type: text }
-      - { name: kicker, label: Kicker, type: string }
-      - { name: body, label: Body, type: rich-text }
-  - name: love-as-a-verb
-    label: Love as a Verb
-    path: _love-as-a-verb
-    type: collection
-    fields:
-      - { name: layout, type: string, default: page }
-      - { name: title, label: Title, type: string }
-      - { name: description, label: Description, type: text }
-      - { name: day, label: Day, type: number }
+      - { name: description, label: Description, type: text, required: false }
+      - { name: kicker, label: Kicker, type: string, required: false }
       - { name: body, label: Body, type: rich-text }
