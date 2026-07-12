@@ -18,8 +18,10 @@ Resources are here to help readers keep learning without making the site feel cl
 
 ## Devotional Resources
 
-- [Love as a Verb]({{ '/love-as-a-verb/' | relative_url }}) - a devotional archive about love as something lived, practised and embodied.
-- [Spurgeon Devotionals](#spurgeon-devotionals) - public-domain devotional classics with brief Humble Theologian reflections.
+These devotional resources are treated as companion archives. Resources links to the hubs, and the hubs list the individual devotional entries.
+
+- [Love as a Verb]({{ '/love-as-a-verb/' | relative_url }}) - a devotional archive about Christian love as something lived, practised and embodied.
+- [Spurgeon Devotionals]({{ '/spurgeon/' | relative_url }}) - public-domain devotional classics with brief Humble Theologian reflections.
 
 ## Site Tools
 
@@ -37,12 +39,3 @@ I sponsor a child in the Philippines through [Compassion Australia](https://www.
 The site will avoid uploading large files where normal web pages will work better. Devotionals and articles should be readable on phones, searchable and easy to link to directly.
 
 Published books will not be republished here. Instead, the site will list books with short summaries, reading guidance and personal notes.
-
-## Spurgeon Devotionals
-{: id="spurgeon-devotionals" }
-
-These classic devotional texts are included as devotional resources, with attribution to Charles H. Spurgeon.
-
-{% for item in site.spurgeon %}
-- [{{ item.title }}]({{ item.url | relative_url }})
-{% endfor %}

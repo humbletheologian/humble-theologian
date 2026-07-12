@@ -92,11 +92,14 @@ Some articles explain my current theological positions. They are not a creed or 
   {% if gender_post %}<li><a href="{{ gender_post.url | relative_url }}">Soft Complementarian, Drifting Egalitarian</a></li>{% endif %}
 </ul>
 
-## Love as a Verb
+## For devotional reading
 
-This is the devotional side of Humble Theologian. The original site included a 365-day devotional series called **Love as a Verb**. The relaunch preserves that material and makes it available as part of the wider site.
+The main Start Here pathway focuses on core theology and Bible interpretation. If you are looking for devotional reading, these two archives sit alongside the articles as reflective resources for prayer, discipleship and daily Christian life.
 
-The central idea is that Christian love is not merely a feeling. Love becomes visible in action, service, sacrifice, patience, forgiveness and faithfulness.
+<ul>
+  <li><a href="{{ '/love-as-a-verb/' | relative_url }}">Love as a Verb</a> - a devotional archive about Christian love as something lived, practised and embodied.</li>
+  <li><a href="{{ '/spurgeon/' | relative_url }}">Spurgeon Devotionals</a> - public-domain devotional classics with brief Humble Theologian reflections.</li>
+</ul>
 
 ## How I write
 

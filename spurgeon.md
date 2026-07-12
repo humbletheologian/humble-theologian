@@ -2,26 +2,25 @@
 permalink: /spurgeon/
 layout: page
 title: "Spurgeon Devotionals"
-description: "Public-domain devotional reflections from Charles H. Spurgeon, gathered as a devotional resource for thoughtful Christian reading."
-kicker: "Devotionals"
+description: "Public-domain devotional classics from Charles H. Spurgeon with brief Humble Theologian reflections."
+kicker: "Devotional archive"
 ---
 
-Charles H. Spurgeon remains one of the most widely read Baptist preachers in church history. These public-domain devotional pieces are included as classic devotional material for reflection, encouragement and theological formation.
+These classic devotional texts are included as devotional resources, with attribution to Charles H. Spurgeon. They sit alongside **Love as a Verb** as part of the devotional side of Humble Theologian.
 
-They are not here because every sentence needs to be copied into modern church life without thought. They are here because older Christian voices can help us slow down, think deeply, repent honestly and worship more fully.
+{% if site.spurgeon.size > 0 %}
+<ul>
+  {% assign spurgeon_items = site.spurgeon | sort: "title" %}
+  {% for item in spurgeon_items %}
+    <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+  {% endfor %}
+</ul>
+{% else %}
+<p>Spurgeon devotional entries will appear here once they are available.</p>
+{% endif %}
 
-## How to use these devotionals
+## Where to next?
 
-You may want to read them slowly, with a Bible open, asking:
-
-- What truth about God is being emphasised?
-- What does this expose in me?
-- Where does this point me to Christ?
-- How should this shape prayer, worship or obedience?
-
-## Devotionals
-
-{% assign spurgeon_items = site.spurgeon | sort: 'title' %}
-{% for item in spurgeon_items %}
-- [{{ item.title }}]({{ item.url | relative_url }}){% if item.description %} - {{ item.description }}{% endif %}
-{% endfor %}
+- [Love as a Verb]({{ '/love-as-a-verb/' | relative_url }})
+- [Resources]({{ '/resources/' | relative_url }})
+- [Start Here]({{ '/start-here/' | relative_url }})
