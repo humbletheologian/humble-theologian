@@ -19,15 +19,43 @@ layout: default
     {{ content }}
   </div>
 
+  <style>
+    .article-share .share-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+      margin-top: 0.75rem;
+    }
+
+    .article-share .share-link {
+      display: inline-block;
+      padding: 0.45rem 0.75rem;
+      border: 1px solid currentColor;
+      border-radius: 999px;
+      background: transparent;
+      color: inherit;
+      font: inherit;
+      line-height: 1.2;
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    .article-share .share-link:hover,
+    .article-share .share-link:focus {
+      text-decoration: underline;
+    }
+  </style>
+
   <section class="article-share wrap narrow" aria-labelledby="share-this-article">
     <h2 id="share-this-article">Share this article</h2>
     <p>If this article was helpful, you are welcome to share it with others.</p>
     <p class="share-links">
-      <button type="button" class="share-copy" onclick="copyArticleLink(this)">Copy link</button>
-      <a href="mailto:?subject={{ page.title | uri_escape }}&amp;body={{ page.title | uri_escape }}%0A{{ page.url | absolute_url | uri_escape }}">Email</a>
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | uri_escape }}" target="_blank" rel="noopener noreferrer">Facebook</a>
-      <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | uri_escape }}&amp;text={{ page.title | uri_escape }}" target="_blank" rel="noopener noreferrer">X</a>
-      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ page.url | absolute_url | uri_escape }}&amp;title={{ page.title | uri_escape }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      <button type="button" class="share-link" onclick="copyArticleLink(this)">Copy link</button>
+      <a class="share-link" href="mailto:?subject={{ page.title | uri_escape }}&amp;body={{ page.title | uri_escape }}%0A{{ page.url | absolute_url | uri_escape }}">Email</a>
+      <a class="share-link" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url | uri_escape }}" target="_blank" rel="noopener noreferrer">Facebook</a>
+      <a class="share-link" href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | uri_escape }}&amp;text={{ page.title | uri_escape }}" target="_blank" rel="noopener noreferrer">X</a>
+      <a class="share-link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ page.url | absolute_url | uri_escape }}&amp;title={{ page.title | uri_escape }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
     </p>
   </section>
 
