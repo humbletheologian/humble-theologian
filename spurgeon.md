@@ -6,7 +6,7 @@ description: "Public-domain devotional classics from Charles H. Spurgeon with br
 kicker: "Devotional archive"
 ---
 
-These classic devotional texts are included as devotional resources, with attribution to Charles H. Spurgeon. They sit alongside **Love as a Verb** as part of the devotional side of Humble Theologian.
+These classic devotional texts are included as devotional resources, with attribution to Charles H. Spurgeon. They sit within the wider **Devotions** section alongside Love as a Verb and Ordinary Faithfulness.
 
 {% if site.spurgeon.size > 0 %}
 <ul>
@@ -21,6 +21,6 @@ These classic devotional texts are included as devotional resources, with attrib
 
 ## Where to next?
 
-- [Love as a Verb]({{ '/love-as-a-verb/' | relative_url }})
+- [Devotions]({{ '/devotions/' | relative_url }})
 - [Resources]({{ '/resources/' | relative_url }})
 - [Start Here]({{ '/start-here/' | relative_url }})

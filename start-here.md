@@ -94,12 +94,9 @@ Some articles explain my current theological positions. They are not a creed or 
 
 ## For devotional reading
 
-The main Start Here pathway focuses on core theology and Bible interpretation. If you are looking for devotional reading, these two archives sit alongside the articles as reflective resources for prayer, discipleship and daily Christian life.
+The main Start Here pathway focuses on core theology and Bible interpretation. If you are looking for devotional reading, the devotional collections are gathered together in one place.
 
-<ul>
-  <li><a href="{{ '/love-as-a-verb/' | relative_url }}">Love as a Verb</a> - a devotional archive about Christian love as something lived, practised and embodied.</li>
-  <li><a href="{{ '/spurgeon/' | relative_url }}">Spurgeon Devotionals</a> - public-domain devotional classics with brief Humble Theologian reflections.</li>
-</ul>
+- [Devotions]({{ '/devotions/' | relative_url }}) - Love as a Verb, Ordinary Faithfulness and Spurgeon Devotionals.
 
 ## How I write
 

@@ -18,10 +18,7 @@ Resources are here to help readers keep learning without making the site feel cl
 
 ## Devotional Resources
 
-These devotional resources are treated as companion archives. Resources links to the hubs, and the hubs list the individual devotional entries.
-
-- [Love as a Verb]({{ '/love-as-a-verb/' | relative_url }}) - a devotional archive about Christian love as something lived, practised and embodied.
-- [Spurgeon Devotionals]({{ '/spurgeon/' | relative_url }}) - public-domain devotional classics with brief Humble Theologian reflections.
+- [Devotions]({{ '/devotions/' | relative_url }}) - a single hub for the devotional collections on Humble Theologian, including Love as a Verb, Ordinary Faithfulness and Spurgeon Devotionals.
 
 ## Site Tools
 
