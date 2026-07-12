@@ -1,30 +1,28 @@
 ---
 layout: default
 ---
-{% assign wide_hub_pages = "/start-here/|/articles/|/topics/|/resources/|/bible-studies/|/disability-and-church/|/organisations/|/search/|/recommended-youtube/|/spurgeon/|/love-as-a-verb/|/glossary/" | split: "|" %}
-{% assign is_wide_page = false %}
-{% if page.wide == true or wide_hub_pages contains page.permalink %}
-  {% assign is_wide_page = true %}
-{% endif %}
-
 <section class="page-hero subtle-hero">
-  <div class="wrap{% unless is_wide_page %} narrow{% else %} wide-page{% endunless %}">
+  <div class="wrap narrow">
     <p class="eyebrow">{{ page.kicker | default: site.title }}</p>
     <h1>{{ page.title }}</h1>
     {% if page.description %}<p class="lede">{{ page.description }}</p>{% endif %}
   </div>
 </section>
 <section class="page-content">
-  <div class="wrap{% unless is_wide_page %} narrow{% else %} wide-page{% endunless %} prose">
-    {% if page.url contains '/bible-studies/' and page.url != '/bible-studies/' %}
-      <nav class="session-nav" aria-labelledby="session-nav-heading" data-bible-study-sessions>
-        <h2 id="session-nav-heading">Study sessions</h2>
-        <ol></ol>
-      </nav>
-    {% endif %}
+  <div class="wrap narrow prose">
     {{ content }}
   </div>
-  {% if page.url contains '/bible-studies/' and page.url != '/bible-studies/' %}
-    <script src="{{ '/assets/js/bible-study-nav.js' | relative_url }}"></script>
-  {% endif %}
 </section>
+{% unless page.hide_where_next %}
+<section class="section where-next">
+  <div class="wrap narrow">
+    <h2>Where to next?</h2>
+    <ul>
+      <li><a href="{{ '/start-here/' | relative_url }}">Start Here</a> - follow a guided pathway through the site.</li>
+      <li><a href="{{ '/articles/' | relative_url }}">Articles</a> - browse the full article archive.</li>
+      <li><a href="{{ '/topics/' | relative_url }}">Topics</a> - explore articles by subject.</li>
+      <li><a href="{{ '/contact/' | relative_url }}">Contact</a> - send a question, comment or suggested topic.</li>
+    </ul>
+  </div>
+</section>
+{% endunless %}
