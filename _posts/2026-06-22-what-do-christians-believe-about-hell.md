@@ -1,15 +1,19 @@
 ---
-layout: post
+layout: "post"
 title: "What Do Christians Believe About Hell?"
-date: 2026-04-24
+date: 2026-06-22
 author: "Shayne Johnston"
 category: "Hell, Judgment and Hope"
 topic: "Views of hell"
+description: "A fair introduction to the main Christian views of hell, including eternal conscious torment, annihilationism and universal reconciliation."
 permalink: "/what-do-christians-believe-about-hell/"
-tags: ["judgment", "eschatology", "annihilationism", "eternal conscious torment",
-  "universal reconciliation", "theology guides"]
-description: "A fair introduction to the main Christian views of hell, including eternal
-  conscious torment, annihilationism and universal reconciliation."
+tags:
+  - judgment
+  - eschatology
+  - annihilationism
+  - eternal conscious torment
+  - universal reconciliation
+  - theology guides
 words: 1960
 ---
 

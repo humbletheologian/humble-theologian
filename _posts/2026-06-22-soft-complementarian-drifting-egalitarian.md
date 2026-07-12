@@ -1,15 +1,18 @@
 ---
-layout: post
+layout: "post"
 title: "Soft Complementarian, Drifting Egalitarian"
-date: 2026-06-05
-description: "A personal reflection on women, men, church leadership and why I am
-  trying to move carefully rather than defensively."
+date: 2026-06-22
+author: "Shayne Johnston"
 category: "Church and Pastoral Care"
 topic: "Women, men and church leadership"
+description: "A personal reflection on women, men, church leadership and why I am trying to move carefully rather than defensively."
 permalink: "/soft-complementarian-drifting-egalitarian/"
-tags: ["women in ministry", "complementarian", "egalitarian", "church"]
+tags:
+  - women in ministry
+  - complementarian
+  - egalitarian
+  - church
 words: 2000
-author: Shayne Johnston
 ---
 
 

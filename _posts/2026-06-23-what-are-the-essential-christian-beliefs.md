@@ -1,19 +1,18 @@
 ---
-layout: post
+layout: "post"
 title: "What Are the Essential Christian Beliefs?"
-date: 2026-03-06
-author: Shayne Johnston
+date: 2026-06-23
+author: "Shayne Johnston"
 category: "Core Christian Beliefs"
 topic: "Essentials and secondary doctrines"
-tags:
-- theology guides
-- Christian beliefs
-- doctrine
-- discipleship
-- church
-description: "A plain-language guide to the core Christian beliefs shared across historic
-  Christianity, and how to distinguish essentials from important secondary disagreements."
+description: "A plain-language guide to the core Christian beliefs shared across historic Christianity, and how to distinguish essentials from important secondary disagreements."
 permalink: "/essential-christian-beliefs/"
+tags:
+  - theology guides
+  - Christian beliefs
+  - doctrine
+  - discipleship
+  - church
 words: 2300
 ---
 

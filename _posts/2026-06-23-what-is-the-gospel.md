@@ -1,19 +1,18 @@
 ---
-layout: post
+layout: "post"
 title: "What Is the Gospel?"
-date: 2026-02-27
-author: Shayne Johnston
+date: 2026-06-23
+author: "Shayne Johnston"
 category: "Core Christian Beliefs"
 topic: "Gospel and salvation"
-tags:
-- gospel
-- Jesus
-- salvation
-- theology guides
-- discipleship
+description: "A plain-language explanation of the good news of Jesus, why it matters and what it means to respond."
 permalink: "/what-is-the-gospel/"
-description: "A plain-language explanation of the good news of Jesus, why it matters
-  and what it means to respond."
+tags:
+  - gospel
+  - Jesus
+  - salvation
+  - theology guides
+  - discipleship
 words: 2100
 ---
 

@@ -1,19 +1,18 @@
 ---
-layout: post
+layout: "post"
 title: "What Churches Need to Understand About Disability"
-date: 2026-04-17
-author: Shayne Johnston
+date: 2026-06-23
+author: "Shayne Johnston"
 category: "Disability, Faith and Church"
 topic: "Accessibility and belonging"
+description: "A practical guide for churches on welcome, belonging, accessibility, pastoral care and moving beyond pity toward genuine participation."
 permalink: "/what-churches-need-to-understand-about-disability/"
 tags:
-- disability
-- church
-- pastoral care
-- inclusion
-- theology
-description: "A practical guide for churches on welcome, belonging, accessibility,
-  pastoral care and moving beyond pity toward genuine participation."
+  - disability
+  - church
+  - pastoral care
+  - inclusion
+  - theology
 words: 2100
 ---
 

@@ -1,15 +1,19 @@
 ---
-layout: post
+layout: "post"
 title: "How Should Christians Read Old Testament Law?"
-date: 2026-04-03
+date: 2026-06-23
 author: "Shayne Johnston"
-category: "Bible and Interpretation"
-topic: "Old Testament Law"
+category: "Old Testament Law and Christian Life"
+topic: "Law and covenant"
+description: "A plain-language guide to reading Old Testament law as Christians, without either ignoring it or applying it woodenly."
 permalink: "/how-should-christians-read-old-testament-law/"
-tags: ["Old Testament", "law", "Pentateuch", "Bible study", "Christian ethics", "theology
-    guides"]
-description: "A plain-language guide to reading Old Testament law as Christians, without
-  either ignoring it or applying it woodenly."
+tags:
+  - Old Testament
+  - law
+  - Pentateuch
+  - Bible study
+  - Christian ethics
+  - theology guides
 words: 2100
 ---
 

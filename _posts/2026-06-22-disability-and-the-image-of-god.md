@@ -1,14 +1,18 @@
 ---
-layout: post
+layout: "post"
 title: "Disability and the Image of God"
-date: 2026-04-10
+date: 2026-06-22
 author: "Shayne Johnston"
 category: "Disability, Faith and Church"
 topic: "Image of God and human dignity"
+description: "A theological reflection on disability, human dignity, embodiment and why every person bears God’s image before they achieve, contribute or appear whole."
 permalink: "/disability-and-the-image-of-god/"
-tags: ["image of God", "human dignity", "church", "pastoral care", "theology guides"]
-description: "A theological reflection on disability, human dignity, embodiment and
-  why every person bears God’s image before they achieve, contribute or appear whole."
+tags:
+  - image of God
+  - human dignity
+  - church
+  - pastoral care
+  - theology guides
 words: 1545
 ---
 

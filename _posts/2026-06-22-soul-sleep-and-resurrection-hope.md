@@ -1,15 +1,18 @@
 ---
-layout: post
+layout: "post"
 title: "Soul Sleep and the Hope of Resurrection"
-date: 2026-05-01
-description: "Why I currently find soul sleep more coherent than the popular idea
-  of a conscious intermediate state, while still holding the question humbly."
-category: "Hell, Judgment and Hope"
+date: 2026-06-22
+author: "Shayne Johnston"
+category: "Core Christian Beliefs"
 topic: "Resurrection and the intermediate state"
+description: "Why I currently find soul sleep more coherent than the popular idea of a conscious intermediate state, while still holding the question humbly."
 permalink: "/soul-sleep-and-resurrection-hope/"
-tags: ["soul sleep", "intermediate state", "resurrection", "eschatology"]
+tags:
+  - soul sleep
+  - intermediate state
+  - resurrection
+  - eschatology
 words: 2000
-author: Shayne Johnston
 ---
 
 

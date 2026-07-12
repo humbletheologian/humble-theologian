@@ -1,15 +1,19 @@
 ---
-layout: post
+layout: "post"
 title: "Why I Currently Lean Toward Annihilationism"
-date: 2026-04-24
+date: 2026-06-22
 author: "Shayne Johnston"
 category: "Hell, Judgment and Hope"
 topic: "Annihilationism and conditional immortality"
+description: "A personal and biblical explanation of why I currently find annihilationism, or conditional immortality, more persuasive than eternal conscious torment."
 permalink: "/why-i-currently-lean-toward-annihilationism/"
-tags: ["judgment", "eschatology", "annihilationism", "conditional immortality", "eternal
-    conscious torment", "theology guides"]
-description: "A personal and biblical explanation of why I currently find annihilationism,
-  or conditional immortality, more persuasive than eternal conscious torment."
+tags:
+  - judgment
+  - eschatology
+  - annihilationism
+  - conditional immortality
+  - eternal conscious torment
+  - theology guides
 words: 1683
 ---
 

@@ -1,15 +1,18 @@
 ---
-layout: post
+layout: "post"
 title: "Science and Faith: Is There Really a Conflict?"
-date: 2026-05-29
-description: "A reflection on creation, Scripture, science and whether Christians
-  need to fear honest inquiry into the world God made."
+date: 2026-06-22
+author: "Shayne Johnston"
 category: "Bible and Interpretation"
 topic: "Creation, Scripture and science"
+description: "A reflection on creation, Scripture, science and whether Christians need to fear honest inquiry into the world God made."
 permalink: "/science-and-faith/"
-tags: ["science", "faith", "creation", "Bible"]
+tags:
+  - science
+  - faith
+  - creation
+  - Bible
 words: 2000
-author: Shayne Johnston
 ---
 
 

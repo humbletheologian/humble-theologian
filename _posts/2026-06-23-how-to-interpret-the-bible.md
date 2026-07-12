@@ -1,20 +1,18 @@
 ---
-layout: post
+layout: "post"
 title: "How to Interpret the Bible"
-date: 2026-03-20
-author: Shayne Johnston
+date: 2026-06-23
+author: "Shayne Johnston"
 category: "Bible and Interpretation"
 topic: "Hermeneutics and application"
-tags:
-- Bible study
-- hermeneutics
-- interpretation
-- Bible college help
-- discipleship
-description: "A practical guide to reading the Bible carefully, with attention to
-  genre, context, culture, hermeneutics, original audience and faithful application
-  today."
+description: "A practical guide to reading the Bible carefully, with attention to genre, context, culture, hermeneutics, original audience and faithful application today."
 permalink: "/how-to-interpret-the-bible/"
+tags:
+  - Bible study
+  - hermeneutics
+  - interpretation
+  - Bible college help
+  - discipleship
 words: 2200
 ---
 
