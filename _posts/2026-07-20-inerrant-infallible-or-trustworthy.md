@@ -5,12 +5,6 @@ date: 2026-07-20
 author: Shayne Johnston
 category: Theology Guides
 topic: Bible and interpretation
-tags:
-  - Bible study
-  - theology guides
-  - biblical interpretation
-  - Scripture
-  - apologetics
 description: "A clear guide to what Christians mean when they describe the Bible as inerrant, infallible, inspired, authoritative or trustworthy, including denominational and regional differences."
 words: 2185
 ---
