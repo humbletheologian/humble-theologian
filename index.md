@@ -17,6 +17,19 @@ description: "Humble Theologian is a free theology and Bible study resource for 
 
   .verse-card {
     max-width: 760px;
+    margin: 1rem auto;
+    background: rgba(43, 62, 91, 0.14);
+    border-color: rgba(43, 62, 91, 0.34);
+  }
+
+  .topic-card {
+    background: rgba(114, 128, 82, 0.16);
+    border-color: rgba(114, 128, 82, 0.36);
+  }
+
+  .home-grid .topic-card {
+    height: 100%;
+    box-sizing: border-box;
   }
 
   .verse-card blockquote {
@@ -40,7 +53,8 @@ description: "Humble Theologian is a free theology and Bible study resource for 
     max-width: 760px;
     font-size: 0.62rem;
     line-height: 1.35;
-    margin: 0.5rem 0 0;
+    margin: 0.5rem auto 0;
+    text-align: center;
     opacity: 0.62;
   }
 
@@ -165,19 +179,19 @@ description: "Humble Theologian is a free theology and Bible study resource for 
   <p>The site is designed as a small theology library: organised enough to be useful, personal enough to remain honest and humble.</p>
 
   <div class="home-grid">
-    <article>
+    <article class="home-card topic-card">
       <p class="kicker">Core Christian Beliefs</p>
       <h3>Gospel, doctrine and Christian hope</h3>
       <p>Foundational guides to the gospel, Christian doctrine, salvation, resurrection, new creation and the shape of historic Christian faith.</p>
     </article>
 
-    <article>
+    <article class="home-card topic-card">
       <p class="kicker">Bible and Interpretation</p>
       <h3>Reading Scripture carefully</h3>
       <p>Resources on Scripture, canon, context, genre, hermeneutics and faithful application without flattening the Bible into isolated proof texts.</p>
     </article>
 
-    <article>
+    <article class="home-card topic-card">
       <p class="kicker">Disability, Faith and Church</p>
       <h3>Dignity, belonging and participation</h3>
       <p>Reflections on image of God, embodiment, access, healing assumptions, pastoral care and church life with disabled Christians.</p>
