@@ -17,17 +17,24 @@ description: "Humble Theologian is a free theology and Bible study resource for 
   </p>
 </section>
 
-<section class="home-section verse-feature" aria-labelledby="verse-heading">
-  <p class="kicker">Pause with Scripture</p>
-  <h2 id="verse-heading">A verse for today</h2>
+<section class="home-section" aria-labelledby="verse-heading">
+  <div class="home-grid">
+    <article class="verse-card">
+      <p class="kicker">Pause with Scripture</p>
+      <h2 id="verse-heading">A verse for today</h2>
 
-  <blockquote class="daily-verse">
-    <p id="daily-verse-text">Your word is a lamp for my feet, a light on my path.</p>
-    <footer id="daily-verse-reference">Psalm 119:105 (NIV)</footer>
-  </blockquote>
+      <blockquote class="daily-verse" style="margin: 1rem 0 0.75rem;">
+        <p id="daily-verse-text">Your word is a lamp for my feet, a light on my path.</p>
+        <footer id="daily-verse-reference">Psalm 119:105 (NIV)</footer>
+      </blockquote>
 
-  <p class="small-text">A different verse is selected whenever this page is refreshed.</p>
-  <p class="scripture-copyright">Scripture taken from the Holy Bible, NEW INTERNATIONAL VERSION®, NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide.</p>
+      <p class="small-text">Refresh the page for another verse.</p>
+    </article>
+  </div>
+
+  <p class="scripture-copyright" style="font-size: 0.62rem; line-height: 1.35; margin-top: 0.65rem; opacity: 0.68;">
+    Scripture quotations taken from the Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide.
+  </p>
 </section>
 
 <script>
