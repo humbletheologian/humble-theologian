@@ -46,10 +46,3 @@ There is no single correct way to use a devotional. You might:
 - return to a devotion that speaks into a particular season
 
 A devotion is not a replacement for reading Scripture. It is a companion that can help us listen, reflect, pray and respond.
-
-## Where to next?
-
-- [Start Here](/start-here/) - follow a guided pathway through the site.
-- [Articles](/articles/) - browse the full article archive.
-- [Topics](/topics/) - explore articles by subject.
-- [Contact](/contact/) - send a question, comment or suggested topic.
