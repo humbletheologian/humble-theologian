@@ -15,13 +15,17 @@ description: A personal theology and Bible study resource for Bible college stud
         <a class="btn secondary" href="{{ '/topics/' | relative_url }}">Browse Topics</a>
       </div>
     </div>
-    <aside class="creation-card">
-      <p class="eyebrow">A content-first reading space</p>
-      <h2>Grounded in earth. Open to wonder.</h2>
-      <p>This site is shaped by creation: soil, trees, sky, starlight and deep space. The design should support the writing, not compete with it.</p>
-      <div class="palette-dots" aria-hidden="true">
-        <span class="dot" style="background:#111827"></span><span class="dot" style="background:#3f5f4a"></span><span class="dot" style="background:#7a5c3e"></span><span class="dot" style="background:#c9a646"></span><span class="dot" style="background:#d7e3ea"></span>
-      </div>
+    <aside class="creation-card" aria-labelledby="verse-heading">
+      <p class="eyebrow">Pause with Scripture</p>
+      <h2 id="verse-heading">A verse for today</h2>
+      <blockquote style="margin:1rem 0 0.75rem; padding:0; border:0;">
+        <p id="daily-verse-text" style="font-size:1.2rem; line-height:1.6; margin-bottom:0.6rem;">Your word is a lamp for my feet, a light on my path.</p>
+        <footer id="daily-verse-reference" style="font-weight:600;">Psalm 119:105 (NIV)</footer>
+      </blockquote>
+      <p style="font-size:0.85rem; margin-bottom:0;">Refresh the page for another verse.</p>
+      <p style="font-size:0.58rem; line-height:1.3; margin-top:0.75rem; opacity:0.65;">
+        Scripture quotations taken from the Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide.
+      </p>
     </aside>
   </div>
 </section>
@@ -81,3 +85,31 @@ description: A personal theology and Bible study resource for Bible college stud
     <p><a href="{{ '/articles/' | relative_url }}">Browse all articles</a></p>
   </div>
 </section>
+
+<script>
+(function () {
+  const verses = [
+    ["Your word is a lamp for my feet, a light on my path.", "Psalm 119:105 (NIV)"],
+    ["Be still, and know that I am God.", "Psalm 46:10 (NIV)"],
+    ["The Lord is my shepherd, I lack nothing.", "Psalm 23:1 (NIV)"],
+    ["When I am afraid, I put my trust in you.", "Psalm 56:3 (NIV)"],
+    ["The Lord is good to all; he has compassion on all he has made.", "Psalm 145:9 (NIV)"],
+    ["Rejoice in hope, be patient in affliction, faithful in prayer.", "Romans 12:12 (NIV)"],
+    ["We love because he first loved us.", "1 John 4:19 (NIV)"],
+    ["Cast all your anxiety on him because he cares for you.", "1 Peter 5:7 (NIV)"],
+    ["Let all that you do be done in love.", "1 Corinthians 16:14 (NIV)"],
+    ["The Lord is near to all who call on him.", "Psalm 145:18 (NIV)"],
+    ["He must become greater; I must become less.", "John 3:30 (NIV)"],
+    ["The fruit of the righteous is a tree of life.", "Proverbs 11:30 (NIV)"]
+  ];
+
+  const selected = verses[Math.floor(Math.random() * verses.length)];
+  const verseText = document.getElementById("daily-verse-text");
+  const verseReference = document.getElementById("daily-verse-reference");
+
+  if (verseText && verseReference) {
+    verseText.textContent = selected[0];
+    verseReference.textContent = selected[1];
+  }
+})();
+</script>
