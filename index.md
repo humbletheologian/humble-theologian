@@ -5,6 +5,60 @@ permalink: /
 description: "Humble Theologian is a free theology and Bible study resource for Bible college students and thoughtful Christians."
 ---
 
+<style>
+  .home-card {
+    border: 1px solid var(--border-color, #d6d1c7);
+    border-radius: 12px;
+    padding: 1.5rem;
+    margin: 1rem 0;
+    background: var(--card-background, rgba(255, 255, 255, 0.04));
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  }
+
+  .verse-card {
+    max-width: 760px;
+  }
+
+  .verse-card blockquote {
+    margin: 1.1rem 0 0.8rem;
+    padding: 0;
+    border-left: 0;
+  }
+
+  .verse-card blockquote p {
+    font-size: 1.35rem;
+    line-height: 1.6;
+    margin-bottom: 0.75rem;
+  }
+
+  .verse-card blockquote footer {
+    font-size: 1rem;
+    font-weight: 600;
+  }
+
+  .scripture-copyright {
+    max-width: 760px;
+    font-size: 0.62rem;
+    line-height: 1.35;
+    margin: 0.5rem 0 0;
+    opacity: 0.62;
+  }
+
+  .latest-articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+    margin: 1rem 0 1.25rem;
+  }
+
+  .latest-articles-grid .home-card {
+    margin: 0;
+    height: 100%;
+    box-sizing: border-box;
+  }
+</style>
+
+
 <section class="hero">
   <p class="kicker">Learning, loving and living the faith.</p>
   <h1>Serious theology without the ego.</h1>
@@ -18,21 +72,19 @@ description: "Humble Theologian is a free theology and Bible study resource for 
 </section>
 
 <section class="home-section" aria-labelledby="verse-heading">
-  <div class="home-grid">
-    <article class="verse-card">
-      <p class="kicker">Pause with Scripture</p>
-      <h2 id="verse-heading">A verse for today</h2>
+  <article class="home-card verse-card">
+    <p class="kicker">Pause with Scripture</p>
+    <h2 id="verse-heading">A verse for today</h2>
 
-      <blockquote class="daily-verse" style="margin: 1rem 0 0.75rem;">
-        <p id="daily-verse-text">Your word is a lamp for my feet, a light on my path.</p>
-        <footer id="daily-verse-reference">Psalm 119:105 (NIV)</footer>
-      </blockquote>
+    <blockquote>
+      <p id="daily-verse-text">Your word is a lamp for my feet, a light on my path.</p>
+      <footer id="daily-verse-reference">Psalm 119:105 (NIV)</footer>
+    </blockquote>
 
-      <p class="small-text">Refresh the page for another verse.</p>
-    </article>
-  </div>
+    <p class="small-text">Refresh the page for another verse.</p>
+  </article>
 
-  <p class="scripture-copyright" style="font-size: 0.62rem; line-height: 1.35; margin-top: 0.65rem; opacity: 0.68;">
+  <p class="scripture-copyright">
     Scripture quotations taken from the Holy Bible, New International Version®, NIV®. Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by permission. All rights reserved worldwide.
   </p>
 </section>
@@ -144,25 +196,27 @@ description: "Humble Theologian is a free theology and Bible study resource for 
   <h2>Latest articles</h2>
 
   {% assign visible_posts = site.posts | where_exp: "post", "post.date <= site.time" %}
-  {% for post in visible_posts limit:3 %}
-  <article class="post-preview">
-    {% if post.category %}
-    <p class="kicker">{{ post.category }}</p>
-    {% endif %}
+  <div class="latest-articles-grid">
+    {% for post in visible_posts limit:3 %}
+    <article class="home-card post-preview">
+      {% if post.category %}
+      <p class="kicker">{{ post.category }}</p>
+      {% endif %}
 
-    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
 
-    {% if post.description %}
-    <p>{{ post.description }}</p>
-    {% endif %}
+      {% if post.description %}
+      <p>{{ post.description }}</p>
+      {% endif %}
 
-    <p class="post-meta">
-      {{ post.date | date: "%d %b %Y" }}
-      {% if post.topic %} · {{ post.topic }}{% endif %}
-      {% if post.words %} · Approx. {{ post.words }} words{% endif %}
-    </p>
-  </article>
-  {% endfor %}
+      <p class="post-meta">
+        {{ post.date | date: "%d %b %Y" }}
+        {% if post.topic %} · {{ post.topic }}{% endif %}
+        {% if post.words %} · Approx. {{ post.words }} words{% endif %}
+      </p>
+    </article>
+    {% endfor %}
+  </div>
 
   <p><a href="/articles/">Browse all articles</a></p>
 </section>
