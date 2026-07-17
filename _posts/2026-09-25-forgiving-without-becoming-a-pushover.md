@@ -6,12 +6,6 @@ author: Shayne Johnston
 category: "Christian Living and Formation"
 topic: "Forgiveness, boundaries and relationships"
 article_type: "Ministry Guide"
-tags:
-  - forgiveness
-  - boundaries
-  - relationships
-  - fruit of the Spirit
-  - Christian living
 description: "A practical Christian guide to forgiveness, reconciliation, trust and boundaries, and how to remain gracious without enabling manipulation or mistreatment."
 permalink: /forgiving-without-becoming-a-pushover/
 words: 2200
