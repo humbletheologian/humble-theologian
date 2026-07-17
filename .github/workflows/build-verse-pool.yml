@@ -1,0 +1,34 @@
+name: Build local WEB verse pool
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate 1,000 local WEB verses
+        run: python scripts/build_verse_pool.py
+
+      - name: Commit generated verse pool
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/data/verse-pool.json
+          if git diff --cached --quiet; then
+            echo "Verse pool is already current."
+          else
+            git commit -m "Build local 1000-verse WEB pool"
+            git push
+          fi
