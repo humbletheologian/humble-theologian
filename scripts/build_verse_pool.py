@@ -14,6 +14,7 @@ from pathlib import Path
 
 SOURCE_URL = "https://ebible.org/Scriptures/engwebp_usfm.zip"
 OUTPUT = Path("assets/data/verse-pool.json")
+JS_OUTPUT = Path("assets/js/verse-pool.js")
 POOL_SIZE = 1000
 SEED = 20260717
 
@@ -206,7 +207,9 @@ def main() -> None:
 
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Wrote {len(output)} verses to {OUTPUT}")
+    JS_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    JS_OUTPUT.write_text("window.HUMBLE_THEOLOGIAN_VERSES = " + json.dumps(output, ensure_ascii=False) + ";\n", encoding="utf-8")
+    print(f"Wrote {len(output)} verses to {OUTPUT} and {JS_OUTPUT}")
 
 
 if __name__ == "__main__":

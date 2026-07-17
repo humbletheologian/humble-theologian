@@ -3,26 +3,27 @@
   const verseReference = document.getElementById("daily-verse-reference");
   if (!verseText || !verseReference) return;
 
-  const today = new Date();
-  const key = String(today.getMonth() + 1).padStart(2, "0") + "-" +
-              String(today.getDate()).padStart(2, "0");
+  const verses = Array.isArray(window.HUMBLE_THEOLOGIAN_VERSES)
+    ? window.HUMBLE_THEOLOGIAN_VERSES.filter(function (item) {
+        return item && item.reference && item.text;
+      })
+    : [];
 
-  fetch("/assets/data/verse-of-the-day.json")
-    .then(function (response) {
-      if (!response.ok) throw new Error("Unable to load verse schedule.");
-      return response.json();
-    })
-    .then(function (verses) {
-      const selected = verses.find(function (item) { return item.date === key; });
-      if (!selected) throw new Error("No verse assigned for today.");
+  if (!verses.length) {
+    verseText.textContent = "Your word is a lamp to my feet, and a light for my path.";
+    verseReference.textContent = "Psalm 119:105 (WEB)";
+    return;
+  }
 
-      verseReference.textContent = selected.reference + " (NIV)";
-      verseText.textContent = selected.text && selected.text.trim()
-        ? selected.text
-        : "Read today’s selected verse in your NIV Bible.";
-    })
-    .catch(function () {
-      verseText.textContent = "Read today’s selected verse in your NIV Bible.";
-      verseReference.textContent = "Psalm 119:105 (NIV)";
-    });
+  let index = Math.floor(Math.random() * verses.length);
+  const previousReference = sessionStorage.getItem("humbleTheologianLastVerseReference");
+
+  if (verses.length > 1 && verses[index].reference === previousReference) {
+    index = (index + 1 + Math.floor(Math.random() * (verses.length - 1))) % verses.length;
+  }
+
+  const selected = verses[index];
+  sessionStorage.setItem("humbleTheologianLastVerseReference", selected.reference);
+  verseText.textContent = selected.text;
+  verseReference.textContent = selected.reference + " (WEB)";
 })();
