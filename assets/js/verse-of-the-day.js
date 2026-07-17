@@ -1,29 +1,61 @@
 (function () {
-  const verseText = document.getElementById("daily-verse-text");
-  const verseReference = document.getElementById("daily-verse-reference");
-  if (!verseText || !verseReference) return;
+  function chooseRandomIndex(length) {
+    if (length <= 1) return 0;
 
-  const verses = Array.isArray(window.HUMBLE_THEOLOGIAN_VERSES)
-    ? window.HUMBLE_THEOLOGIAN_VERSES.filter(function (item) {
-        return item && item.reference && item.text;
-      })
-    : [];
+    if (window.crypto && window.crypto.getRandomValues) {
+      const values = new Uint32Array(1);
+      window.crypto.getRandomValues(values);
+      return values[0] % length;
+    }
 
-  if (!verses.length) {
-    verseText.textContent = "Your word is a lamp to my feet, and a light for my path.";
-    verseReference.textContent = "Psalm 119:105 (WEB)";
-    return;
+    return Math.floor(Math.random() * length);
   }
 
-  let index = Math.floor(Math.random() * verses.length);
-  const previousReference = sessionStorage.getItem("humbleTheologianLastVerseReference");
+  function displayRandomVerse() {
+    const verseText = document.getElementById("daily-verse-text");
+    const verseReference = document.getElementById("daily-verse-reference");
 
-  if (verses.length > 1 && verses[index].reference === previousReference) {
-    index = (index + 1 + Math.floor(Math.random() * (verses.length - 1))) % verses.length;
+    if (!verseText || !verseReference) return;
+
+    const verses = Array.isArray(window.HUMBLE_THEOLOGIAN_VERSES)
+      ? window.HUMBLE_THEOLOGIAN_VERSES.filter(function (item) {
+          return item &&
+                 typeof item.reference === "string" &&
+                 item.reference.trim() &&
+                 typeof item.text === "string" &&
+                 item.text.trim();
+        })
+      : [];
+
+    if (!verses.length) {
+      verseText.textContent =
+        "Your word is a lamp to my feet, and a light for my path.";
+      verseReference.textContent = "Psalm 119:105 (WEB)";
+      return;
+    }
+
+    let index = chooseRandomIndex(verses.length);
+    const currentReference = verseReference.dataset.selectedReference || "";
+
+    if (verses.length > 1 && verses[index].reference === currentReference) {
+      index = (index + 1 + chooseRandomIndex(verses.length - 1)) % verses.length;
+    }
+
+    const selected = verses[index];
+    verseText.textContent = selected.text;
+    verseReference.textContent = selected.reference + " (WEB)";
+    verseReference.dataset.selectedReference = selected.reference;
   }
 
-  const selected = verses[index];
-  sessionStorage.setItem("humbleTheologianLastVerseReference", selected.reference);
-  verseText.textContent = selected.text;
-  verseReference.textContent = selected.reference + " (WEB)";
+  window.addEventListener("DOMContentLoaded", displayRandomVerse);
+
+  window.addEventListener("pageshow", function (event) {
+    if (event.persisted) {
+      displayRandomVerse();
+    }
+  });
+
+  if (document.readyState !== "loading") {
+    displayRandomVerse();
+  }
 })();
