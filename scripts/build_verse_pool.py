@@ -14,7 +14,7 @@ from pathlib import Path
 
 SOURCE_URL = "https://ebible.org/Scriptures/engwebp_usfm.zip"
 OUTPUT = Path("assets/data/verse-pool.json")
-JS_OUTPUT = Path("assets/js/verse-pool.js")
+JS_OUTPUT = Path("assets/js/random-verse.js")
 POOL_SIZE = 1000
 SEED = 20260717
 
@@ -208,7 +208,59 @@ def main() -> None:
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps(output, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     JS_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    JS_OUTPUT.write_text("window.HUMBLE_THEOLOGIAN_VERSES = " + json.dumps(output, ensure_ascii=False) + ";\n", encoding="utf-8")
+    javascript = """window.HUMBLE_THEOLOGIAN_VERSES = """ + json.dumps(output, ensure_ascii=False) + """;
+
+(function () {
+  function randomIndex(length) {
+    if (length <= 1) return 0;
+
+    if (window.crypto && window.crypto.getRandomValues) {
+      const values = new Uint32Array(1);
+      window.crypto.getRandomValues(values);
+      return values[0] % length;
+    }
+
+    return Math.floor(Math.random() * length);
+  }
+
+  function showRandomVerse() {
+    const textElement = document.getElementById("daily-verse-text");
+    const referenceElement = document.getElementById("daily-verse-reference");
+    const verses = window.HUMBLE_THEOLOGIAN_VERSES;
+
+    if (!textElement || !referenceElement || !Array.isArray(verses) || !verses.length) {
+      return;
+    }
+
+    let nextIndex = randomIndex(verses.length);
+    const previousIndex = Number(sessionStorage.getItem("humbleVerseIndex"));
+
+    if (
+      verses.length > 1 &&
+      Number.isInteger(previousIndex) &&
+      nextIndex === previousIndex
+    ) {
+      nextIndex = (nextIndex + 1 + randomIndex(verses.length - 1)) % verses.length;
+    }
+
+    const selected = verses[nextIndex];
+    textElement.textContent = selected.text;
+    referenceElement.textContent = selected.reference + " (WEB)";
+    sessionStorage.setItem("humbleVerseIndex", String(nextIndex));
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", showRandomVerse, { once: true });
+  } else {
+    showRandomVerse();
+  }
+
+  window.addEventListener("pageshow", function (event) {
+    if (event.persisted) showRandomVerse();
+  });
+})();
+"""
+    JS_OUTPUT.write_text(javascript, encoding="utf-8")
     print(f"Wrote {len(output)} verses to {OUTPUT} and {JS_OUTPUT}")
 
 
