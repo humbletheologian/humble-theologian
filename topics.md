@@ -14,7 +14,6 @@ Use this page when you want to browse by subject rather than date. For a guided 
   <ul>
     <li><a href="#core-christian-beliefs">Core Christian Beliefs</a></li>
     <li><a href="#bible-and-interpretation">Bible and Interpretation</a></li>
-    <li><a href="#old-testament-law-and-christian-life">Old Testament Law and Christian Life</a></li>
     <li><a href="#disability-faith-and-church">Disability, Faith and Church</a></li>
     <li><a href="#hell-judgment-and-hope">Hell, Judgment and Hope</a></li>
     <li><a href="#church-and-pastoral-care">Church and Pastoral Care</a></li>
@@ -44,20 +43,6 @@ More articles will be added here soon.
 Resources on Scripture, canon, context, genre, hermeneutics and faithful application.
 
 {% assign topic_posts = all_posts | where: "category", "Bible and Interpretation" %}
-{% if topic_posts.size > 0 %}
-{% for post in topic_posts %}
-- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}
-{% endfor %}
-{% else %}
-More articles will be added here soon.
-{% endif %}
-
-## Old Testament Law and Christian Life
-{: id="old-testament-law-and-christian-life" }
-
-Articles on Old Testament law, covenant, wisdom, ethics and how Christians read Israel’s Scriptures through Christ.
-
-{% assign topic_posts = all_posts | where: "category", "Old Testament Law and Christian Life" %}
 {% if topic_posts.size > 0 %}
 {% for post in topic_posts %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.description }}
