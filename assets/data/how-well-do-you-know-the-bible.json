@@ -13,15 +13,22 @@
       "answer": 1,
       "explanation": "The Bible is a collection of writings produced in different historical settings and literary genres. Christians read these diverse books as a unified story of God’s work in creation, Israel, Christ and new creation.",
       "link": "/how-we-got-the-bible/",
-      "link_text": "Read How We Got the Bible"
+      "link_text": "Read How We Got the Bible",
+      "id": "bible-01"
     },
     {
       "question": "Which Gospel begins with the words, ‘In the beginning was the Word’?",
-      "options": ["Matthew", "Mark", "Luke", "John"],
+      "options": [
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John"
+      ],
       "answer": 3,
       "explanation": "John begins by identifying Jesus as the eternal Word who was with God and was God. This opening connects Jesus with creation and prepares for John’s emphasis on his divine identity.",
       "link": "/what-is-the-gospel/",
-      "link_text": "Read What Is the Gospel?"
+      "link_text": "Read What Is the Gospel?",
+      "id": "bible-02"
     },
     {
       "question": "Why does recognising biblical genre matter?",
@@ -34,7 +41,8 @@
       "answer": 1,
       "explanation": "Genre helps us understand how a passage communicates truth. Poetry uses imagery differently from narrative, while proverbs, letters and apocalyptic visions each require appropriate reading strategies.",
       "link": "/how-to-interpret-the-bible/",
-      "link_text": "Read How to Interpret the Bible"
+      "link_text": "Read How to Interpret the Bible",
+      "id": "bible-03"
     },
     {
       "question": "What is the central announcement of the Christian gospel?",
@@ -47,7 +55,8 @@
       "answer": 1,
       "explanation": "The gospel centres on what God has done through Jesus: his life, death for sins, resurrection and lordship. It calls people to repentance, faith and participation in God’s renewed creation.",
       "link": "/what-is-the-gospel/",
-      "link_text": "Read What Is the Gospel?"
+      "link_text": "Read What Is the Gospel?",
+      "id": "bible-04"
     },
     {
       "question": "Which statement best explains the biblical canon?",
@@ -60,7 +69,8 @@
       "answer": 0,
       "explanation": "Canon refers to the recognised collection of writings received as Scripture. Christian traditions agree on the New Testament but differ somewhat over the extent of the Old Testament canon.",
       "link": "/how-we-got-the-bible/",
-      "link_text": "Explore the development of the canon"
+      "link_text": "Explore the development of the canon",
+      "id": "bible-05"
     },
     {
       "question": "When reading an Old Testament law, what should Christians consider first?",
@@ -73,7 +83,8 @@
       "answer": 1,
       "explanation": "Old Testament laws belonged to Israel’s covenant life. Christians should consider their historical setting and purpose, how they fit the wider biblical story and how their moral wisdom is fulfilled and reframed through Christ.",
       "link": "/how-should-christians-read-old-testament-law/",
-      "link_text": "Read How Should Christians Read Old Testament Law?"
+      "link_text": "Read How Should Christians Read Old Testament Law?",
+      "id": "bible-06"
     },
     {
       "question": "What is the primary Christian hope presented at the end of the biblical story?",
@@ -86,7 +97,8 @@
       "answer": 2,
       "explanation": "The biblical story moves towards resurrection, judgement and new creation. Revelation ends with God dwelling with humanity as creation is renewed, not with creation being permanently abandoned.",
       "link": "/where-i-stand/",
-      "link_text": "See the site’s current position on Christian hope"
+      "link_text": "See the site’s current position on Christian hope",
+      "id": "bible-07"
     },
     {
       "question": "Which statement best describes a parable of Jesus?",
@@ -99,7 +111,8 @@
       "answer": 2,
       "explanation": "Jesus’ parables use familiar scenes, stories and comparisons to reveal the kingdom, confront assumptions and call hearers to respond. They should not be flattened into allegories in which every detail has a hidden meaning.",
       "link": "/how-to-interpret-the-bible/",
-      "link_text": "Learn more about reading biblical genres"
+      "link_text": "Learn more about reading biblical genres",
+      "id": "bible-08"
     },
     {
       "question": "What does it mean to read a passage in context?",
@@ -112,7 +125,8 @@
       "answer": 1,
       "explanation": "Context includes the sentences around a verse, the argument or story of the book, the original audience and the passage’s place within Scripture. Context guards against using isolated verses to support conclusions they were not intended to teach.",
       "link": "/how-to-interpret-the-bible/",
-      "link_text": "Read the guide to biblical interpretation"
+      "link_text": "Read the guide to biblical interpretation",
+      "id": "bible-09"
     },
     {
       "question": "According to 2 Timothy 3:16–17, what is Scripture intended to do?",
@@ -125,7 +139,288 @@
       "answer": 1,
       "explanation": "Paul describes Scripture as God-breathed and useful for teaching, correction and training in righteousness so that God’s servant may be equipped for every good work. Its purpose is formative as well as informative.",
       "link": "/inerrant-infallible-or-trustworthy/",
-      "link_text": "Read how Christians describe the Bible"
+      "link_text": "Read how Christians describe the Bible",
+      "id": "bible-10"
+    },
+    {
+      "id": "bible-11",
+      "question": "Which section of the Bible contains the books of Joshua, Judges, Samuel and Kings?",
+      "options": [
+        "The Wisdom Literature",
+        "The Historical Books",
+        "The Major Prophets",
+        "The General Epistles"
+      ],
+      "answer": 1,
+      "explanation": "These books narrate Israel’s life in the land, the period of the judges, the monarchy and the exile. Their history is also theological, showing the consequences of covenant faithfulness and unfaithfulness.",
+      "link": "/how-we-got-the-bible/",
+      "link_text": "Read How We Got the Bible"
+    },
+    {
+      "id": "bible-12",
+      "question": "Who led Israel out of slavery in Egypt?",
+      "options": [
+        "Abraham",
+        "Joseph",
+        "Moses",
+        "Joshua"
+      ],
+      "answer": 2,
+      "explanation": "God called Moses to confront Pharaoh and lead Israel out of Egypt. The exodus became one of the Bible’s central pictures of deliverance and redemption.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
+    },
+    {
+      "id": "bible-13",
+      "question": "Which covenant sign was given to Noah after the flood?",
+      "options": [
+        "Circumcision",
+        "The rainbow",
+        "The Sabbath",
+        "The Passover meal"
+      ],
+      "answer": 1,
+      "explanation": "The rainbow was given as the sign of God’s covenant with Noah, his descendants and every living creature.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
+    },
+    {
+      "id": "bible-14",
+      "question": "What is the first book of the New Testament?",
+      "options": [
+        "Mark",
+        "Luke",
+        "Matthew",
+        "Acts"
+      ],
+      "answer": 2,
+      "explanation": "Matthew is the first book in the New Testament’s canonical order, although many scholars consider Mark to have been written earlier.",
+      "link": "/how-we-got-the-bible/",
+      "link_text": "Read How We Got the Bible"
+    },
+    {
+      "id": "bible-15",
+      "question": "Which book tells the story of the early church after Jesus’ ascension?",
+      "options": [
+        "Romans",
+        "Acts",
+        "Hebrews",
+        "Revelation"
+      ],
+      "answer": 1,
+      "explanation": "Acts continues Luke’s Gospel and describes the Spirit-empowered spread of the gospel from Jerusalem towards the wider Roman world.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    },
+    {
+      "id": "bible-16",
+      "question": "Which apostle wrote many of the New Testament letters?",
+      "options": [
+        "Peter",
+        "John",
+        "Paul",
+        "James"
+      ],
+      "answer": 2,
+      "explanation": "Paul wrote letters to churches and individuals addressing theology, discipleship, church life and pastoral concerns.",
+      "link": "/what-does-paul-mean-by-my-gospel/",
+      "link_text": "Read What Does Paul Mean by ‘My Gospel’?"
+    },
+    {
+      "id": "bible-17",
+      "question": "What does the word ‘gospel’ most directly mean?",
+      "options": [
+        "Religious law",
+        "Good news",
+        "Secret wisdom",
+        "Moral instruction"
+      ],
+      "answer": 1,
+      "explanation": "The gospel is good news, especially the announcement that God’s saving reign has come through the life, death and resurrection of Jesus Christ.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    },
+    {
+      "id": "bible-18",
+      "question": "Which event stands at the centre of Christian hope?",
+      "options": [
+        "The rebuilding of Jerusalem",
+        "The resurrection of Jesus",
+        "The translation of Scripture",
+        "The founding of the Roman Empire"
+      ],
+      "answer": 1,
+      "explanation": "Jesus’ resurrection is the decisive victory over sin and death and the beginning of the new creation Christians await in fullness.",
+      "link": "/new-creation-not-escape/",
+      "link_text": "Read New Creation, Not Escape"
+    },
+    {
+      "id": "bible-19",
+      "question": "Which book contains many prayers, songs and laments?",
+      "options": [
+        "Leviticus",
+        "Psalms",
+        "Acts",
+        "Revelation"
+      ],
+      "answer": 1,
+      "explanation": "Psalms gathers prayers and songs of praise, lament, thanksgiving, wisdom and trust. Its poetic language should be read as poetry.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
+    },
+    {
+      "id": "bible-20",
+      "question": "Which statement best describes biblical prophecy?",
+      "options": [
+        "It is only prediction of distant future events",
+        "It communicates God’s message, often calling people back to covenant faithfulness",
+        "It is always written in symbolic visions",
+        "It replaces the need to read the rest of Scripture"
+      ],
+      "answer": 1,
+      "explanation": "Biblical prophets sometimes spoke about the future, but they also confronted injustice, idolatry and covenant unfaithfulness in their own time.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
+    },
+    {
+      "id": "bible-21",
+      "question": "Why can comparing several Bible translations be helpful?",
+      "options": [
+        "It guarantees that every difficult passage becomes simple",
+        "It reveals where translators have made different legitimate choices",
+        "It proves that the original languages are unnecessary",
+        "It allows readers to select whichever wording supports their opinion"
+      ],
+      "answer": 1,
+      "explanation": "Translations balance accuracy, clarity and style in different ways. Comparing them can highlight interpretive choices and prompt closer study.",
+      "link": "/bible-translations/",
+      "link_text": "Read Bible Translations"
+    },
+    {
+      "id": "bible-22",
+      "question": "What is a covenant in the biblical story?",
+      "options": [
+        "A private spiritual feeling",
+        "A binding relationship established with promises and responsibilities",
+        "A collection of unrelated laws",
+        "A prediction that cannot be changed"
+      ],
+      "answer": 1,
+      "explanation": "Biblical covenants establish relationships involving God’s promises, human responsibilities and signs. They help organise the Bible’s unfolding story.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
+    },
+    {
+      "id": "bible-23",
+      "question": "What was the purpose of the tabernacle in Israel’s wilderness journey?",
+      "options": [
+        "It was Israel’s royal palace",
+        "It represented God dwelling among his people",
+        "It stored the nation’s military weapons",
+        "It replaced the covenant"
+      ],
+      "answer": 1,
+      "explanation": "The tabernacle was the portable sanctuary where God’s presence was represented among Israel and where covenant worship took place.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
+    },
+    {
+      "id": "bible-24",
+      "question": "Which command did Jesus identify as the greatest?",
+      "options": [
+        "Build the largest possible congregation",
+        "Love God with all your being",
+        "Avoid all contact with sinners",
+        "Master every detail of biblical chronology"
+      ],
+      "answer": 1,
+      "explanation": "Jesus identified wholehearted love for God as the greatest command and joined it with love for one’s neighbour.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    },
+    {
+      "id": "bible-25",
+      "question": "What does repentance involve in the New Testament?",
+      "options": [
+        "Feeling embarrassed without changing direction",
+        "Turning towards God with a changed mind and life",
+        "Earning forgiveness through punishment",
+        "Learning religious vocabulary"
+      ],
+      "answer": 1,
+      "explanation": "Repentance is a reorientation towards God that includes changed thinking, allegiance and behaviour. It is more than regret alone.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    },
+    {
+      "id": "bible-26",
+      "question": "Which statement best describes the kingdom of God in Jesus’ teaching?",
+      "options": [
+        "Only a place people enter after death",
+        "God’s saving reign breaking into the world through Jesus",
+        "A political territory governed by the church",
+        "A synonym for the Roman Empire"
+      ],
+      "answer": 1,
+      "explanation": "Jesus announced God’s reign as present in his ministry while also teaching believers to await its future fullness.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    },
+    {
+      "id": "bible-27",
+      "question": "Why is it risky to build a doctrine from one isolated verse?",
+      "options": [
+        "Individual verses are never inspired",
+        "The verse may be misunderstood apart from its literary and biblical context",
+        "Only church leaders may interpret Scripture",
+        "Doctrine should never use biblical texts"
+      ],
+      "answer": 1,
+      "explanation": "Sound doctrine should arise from careful reading of passages in context and from the broader witness of Scripture, not from detached phrases.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
+    },
+    {
+      "id": "bible-28",
+      "question": "What is the relationship between the Old and New Testaments?",
+      "options": [
+        "They tell unrelated stories",
+        "The New Testament continues and fulfils the story begun in the Old Testament",
+        "The Old Testament has no value for Christians",
+        "The New Testament simply repeats every Old Testament law"
+      ],
+      "answer": 1,
+      "explanation": "The New Testament presents Jesus within Israel’s story and draws deeply on the Old Testament’s creation, covenant, promise, prophecy and hope.",
+      "link": "/how-we-got-the-bible/",
+      "link_text": "Read How We Got the Bible"
+    },
+    {
+      "id": "bible-29",
+      "question": "Which phrase best summarises the Bible’s final vision in Revelation 21–22?",
+      "options": [
+        "Humanity permanently escaping creation",
+        "God dwelling with humanity in a renewed creation",
+        "The abandonment of the earth",
+        "A return to the garden without resurrection"
+      ],
+      "answer": 1,
+      "explanation": "The Bible ends with heaven and earth united, creation renewed and God dwelling with resurrected humanity.",
+      "link": "/new-creation-not-escape/",
+      "link_text": "Read New Creation, Not Escape"
+    },
+    {
+      "id": "bible-30",
+      "question": "What is a responsible response when a Bible passage is difficult or unclear?",
+      "options": [
+        "Ignore the passage",
+        "Read its context, compare translations and consult reliable resources",
+        "Assume the first interpretation you hear must be correct",
+        "Choose the meaning that feels most comfortable"
+      ],
+      "answer": 1,
+      "explanation": "Difficult passages call for patience, context, comparison and humility. Good interpretation welcomes careful study rather than forced certainty.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
     }
   ]
 }

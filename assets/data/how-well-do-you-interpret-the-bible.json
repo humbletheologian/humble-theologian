@@ -13,7 +13,8 @@
       "answer": 1,
       "explanation": "A verse belongs within a paragraph, chapter and book. Reading the surrounding passage helps us follow the author’s argument and prevents isolated proof-texting.",
       "link": "/how-to-interpret-the-bible/",
-      "link_text": "Read How to Interpret the Bible"
+      "link_text": "Read How to Interpret the Bible",
+      "id": "interpret-01"
     },
     {
       "question": "Why is the original audience important?",
@@ -26,7 +27,8 @@
       "answer": 1,
       "explanation": "Biblical authors wrote to real people facing particular questions, pressures and cultural circumstances. Understanding that setting helps us distinguish the original message from its faithful application today.",
       "link": "/how-to-interpret-the-bible/",
-      "link_text": "Explore audience and historical context"
+      "link_text": "Explore audience and historical context",
+      "id": "interpret-02"
     },
     {
       "question": "Which statement best explains the difference between descriptive and prescriptive passages?",
@@ -39,7 +41,8 @@
       "answer": 1,
       "explanation": "A narrative may accurately describe behaviour without approving or commanding it. Readers must ask whether Scripture is reporting an event, evaluating it or presenting it as a pattern to follow.",
       "link": "/how-to-interpret-the-bible/",
-      "link_text": "Read about description and prescription"
+      "link_text": "Read about description and prescription",
+      "id": "interpret-03"
     },
     {
       "question": "How should biblical poetry normally be read?",
@@ -52,7 +55,8 @@
       "answer": 1,
       "explanation": "Poetry communicates truth through imagery, metaphor, repetition and parallel lines. Recognising these features prevents figurative language from being forced into literal scientific claims.",
       "link": "/how-to-interpret-the-bible/",
-      "link_text": "Learn more about biblical genre"
+      "link_text": "Learn more about biblical genre",
+      "id": "interpret-04"
     },
     {
       "question": "What is a common danger in biblical word studies?",
@@ -65,7 +69,8 @@
       "answer": 1,
       "explanation": "Words take their particular meaning from context. Importing every possible definition or a word’s full history into one occurrence can produce meanings the author never intended.",
       "link": "/bible-translations-word-for-word-to-thought-for-thought/",
-      "link_text": "Read about Bible translation"
+      "link_text": "Read about Bible translation",
+      "id": "interpret-05"
     },
     {
       "question": "When interpreting an Old Testament law, which question is most helpful?",
@@ -78,7 +83,8 @@
       "answer": 1,
       "explanation": "Old Testament laws belonged to Israel’s covenant life. Christians should consider their purpose, the kind of law involved and how its moral wisdom is fulfilled and reframed through Christ.",
       "link": "/how-should-christians-read-old-testament-law/",
-      "link_text": "Read How Should Christians Read Old Testament Law?"
+      "link_text": "Read How Should Christians Read Old Testament Law?",
+      "id": "interpret-06"
     },
     {
       "question": "Which approach is most helpful when reading a parable of Jesus?",
@@ -91,7 +97,8 @@
       "answer": 1,
       "explanation": "Parables use memorable stories and comparisons to reveal the kingdom, confront assumptions and call hearers to respond. Details support the central point but should not automatically become an elaborate hidden code.",
       "link": "/how-to-interpret-the-bible/",
-      "link_text": "Explore how to read parables"
+      "link_text": "Explore how to read parables",
+      "id": "interpret-07"
     },
     {
       "question": "What should readers expect when approaching apocalyptic literature such as parts of Daniel or Revelation?",
@@ -104,7 +111,8 @@
       "answer": 1,
       "explanation": "Apocalyptic literature communicates through vivid symbols, visions and echoes of earlier Scripture. Its first hearers were encouraged to remain faithful under pressure, even as it points towards God’s final victory.",
       "link": "/where-i-stand/",
-      "link_text": "See the site’s current end-times position"
+      "link_text": "See the site’s current end-times position",
+      "id": "interpret-08"
     },
     {
       "question": "What does it mean to read Scripture canonically?",
@@ -117,7 +125,8 @@
       "answer": 1,
       "explanation": "A canonical reading respects each passage in its own setting while also considering its place within the complete scriptural story of creation, covenant, Christ, church and new creation.",
       "link": "/how-we-got-the-bible/",
-      "link_text": "Read How We Got the Bible"
+      "link_text": "Read How We Got the Bible",
+      "id": "interpret-09"
     },
     {
       "question": "Which statement best describes faithful application?",
@@ -130,7 +139,288 @@
       "answer": 1,
       "explanation": "Faithful application begins with what the text communicated in its original context, identifies the enduring theological or moral principle and considers how obedience should take shape in the present setting.",
       "link": "/how-to-interpret-the-bible/",
-      "link_text": "Read the full interpretation guide"
+      "link_text": "Read the full interpretation guide",
+      "id": "interpret-10"
+    },
+    {
+      "id": "interpret-11",
+      "question": "What does literary context refer to?",
+      "options": [
+        "The political views of the modern reader",
+        "The verses, paragraphs and argument surrounding a passage",
+        "The history of every English translation",
+        "The personal experience of the preacher"
+      ],
+      "answer": 1,
+      "explanation": "Literary context includes the sentences, paragraphs, sections and whole book surrounding a passage. It helps determine how the author’s thought develops.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
+    },
+    {
+      "id": "interpret-12",
+      "question": "What is proof-texting?",
+      "options": [
+        "Checking whether a quotation is accurate",
+        "Using an isolated verse to support a claim without respecting its context",
+        "Comparing several related passages",
+        "Studying the manuscript evidence for a reading"
+      ],
+      "answer": 1,
+      "explanation": "Proof-texting detaches a verse from its literary and historical setting and uses it to support a conclusion the passage may not actually teach.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about context and proof-texting"
+    },
+    {
+      "id": "interpret-13",
+      "question": "Why should readers identify a passage’s genre?",
+      "options": [
+        "Genre determines whether the passage is inspired",
+        "Different kinds of writing communicate in different ways",
+        "Only poetry requires interpretation",
+        "Genre tells readers which passages may be ignored"
+      ],
+      "answer": 1,
+      "explanation": "Narrative, poetry, law, prophecy, wisdom, letters and apocalyptic visions use different conventions. Genre helps readers ask the right questions of the text.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Learn more about biblical genres"
+    },
+    {
+      "id": "interpret-14",
+      "question": "Which approach is most responsible when a proverb appears to have exceptions?",
+      "options": [
+        "Reject the proverb as false",
+        "Read it as a general observation about wise living rather than an unconditional promise",
+        "Assume every exception proves a lack of faith",
+        "Treat it as a legal command"
+      ],
+      "answer": 1,
+      "explanation": "Biblical proverbs normally express general patterns of wisdom. They are not always absolute guarantees about what will happen in every circumstance.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about wisdom literature"
+    },
+    {
+      "id": "interpret-15",
+      "question": "What is the main purpose of consulting the historical setting of a passage?",
+      "options": [
+        "To replace the biblical text with archaeology",
+        "To understand the circumstances, customs and issues addressed by the author",
+        "To prove modern culture is superior",
+        "To make every passage apply only to the ancient world"
+      ],
+      "answer": 1,
+      "explanation": "Historical background can clarify customs, conflicts and assumptions known to the first audience. It should illuminate the text rather than replace it.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about historical context"
+    },
+    {
+      "id": "interpret-16",
+      "question": "When a New Testament letter says 'you', what should readers remember?",
+      "options": [
+        "It is always addressed to one modern individual",
+        "It may address a whole congregation rather than one person",
+        "It never applies beyond the first century",
+        "It must be translated as a command"
+      ],
+      "answer": 1,
+      "explanation": "Many New Testament letters were written to churches. The plural form of 'you' can shape how commands and promises are understood communally.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about original audiences"
+    },
+    {
+      "id": "interpret-17",
+      "question": "What is the danger of reading modern meanings back into an ancient word?",
+      "options": [
+        "It makes the passage too easy",
+        "The word may not have carried that modern meaning in the author’s setting",
+        "Ancient words never change meaning",
+        "Modern dictionaries are always more accurate than context"
+      ],
+      "answer": 1,
+      "explanation": "Words change over time. Responsible interpretation asks how a word was used in its sentence, book and historical setting rather than assuming its modern meaning.",
+      "link": "/bible-translations/",
+      "link_text": "Read Bible Translations"
+    },
+    {
+      "id": "interpret-18",
+      "question": "What should guide the interpretation of a biblical symbol?",
+      "options": [
+        "Whatever association first comes to mind",
+        "How the symbol functions in its passage and elsewhere in Scripture",
+        "A fixed modern chart",
+        "The numerical value of every letter"
+      ],
+      "answer": 1,
+      "explanation": "Biblical symbols should be interpreted from their immediate context, historical background and scriptural usage rather than from imaginative associations alone.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about symbolism"
+    },
+    {
+      "id": "interpret-19",
+      "question": "How should readers approach apparent tensions between Bible passages?",
+      "options": [
+        "Ignore whichever passage is less familiar",
+        "Study each passage in context before deciding whether a real contradiction exists",
+        "Assume one author must be mistaken",
+        "Combine the wording immediately without respecting either author"
+      ],
+      "answer": 1,
+      "explanation": "Passages may address different settings, questions or aspects of a subject. Careful comparison begins by understanding each text on its own terms.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read the interpretation guide"
+    },
+    {
+      "id": "interpret-20",
+      "question": "What is biblical theology?",
+      "options": [
+        "Arranging every doctrine alphabetically",
+        "Tracing themes and God’s unfolding work across the biblical story",
+        "Studying only the books written before Jesus",
+        "Replacing exegesis with church tradition"
+      ],
+      "answer": 1,
+      "explanation": "Biblical theology traces themes such as creation, covenant, kingdom, temple, exile and new creation through Scripture’s unfolding story.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about the wider biblical story"
+    },
+    {
+      "id": "interpret-21",
+      "question": "What is exegesis?",
+      "options": [
+        "Drawing meaning out of the text through careful study",
+        "Reading a preferred idea into the text",
+        "Memorising a passage without interpretation",
+        "Translating only from English"
+      ],
+      "answer": 0,
+      "explanation": "Exegesis seeks to draw out the meaning communicated by the text. Its opposite, eisegesis, reads ideas into the passage.",
+      "link": "/glossary/",
+      "link_text": "See the Glossary"
+    },
+    {
+      "id": "interpret-22",
+      "question": "Which question is most useful when reading a New Testament letter?",
+      "options": [
+        "What situation or problem prompted the author to write?",
+        "Which modern political party would the author support?",
+        "How can every sentence be turned into a promise?",
+        "Which verses can be separated from the argument?"
+      ],
+      "answer": 0,
+      "explanation": "Letters address particular communities and concerns. Reconstructing the issue being addressed helps readers follow the author’s reasoning.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about interpreting letters"
+    },
+    {
+      "id": "interpret-23",
+      "question": "What does it mean that the Bible was written for us but not directly to us?",
+      "options": [
+        "The Bible has no present authority",
+        "Its message matters today, but its books first addressed ancient audiences",
+        "Only scholars can understand Scripture",
+        "Modern readers should imitate every cultural detail"
+      ],
+      "answer": 1,
+      "explanation": "Scripture is for the church across time, yet each book was written to particular people. Application begins by respecting that original communication.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about written to and written for"
+    },
+    {
+      "id": "interpret-24",
+      "question": "How should narrative characters normally be treated?",
+      "options": [
+        "Everything they do should be copied",
+        "Their actions should be evaluated through the narrator and wider Scripture",
+        "Every character represents a hidden doctrine",
+        "Only their spoken words matter"
+      ],
+      "answer": 1,
+      "explanation": "Biblical narratives often describe flawed people. The story’s evaluation, consequences and wider scriptural teaching help determine whether conduct is exemplary.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about biblical narrative"
+    },
+    {
+      "id": "interpret-25",
+      "question": "What is a sound way to use a study Bible or commentary?",
+      "options": [
+        "Read it before examining the passage yourself",
+        "Use it after initial observation to test and deepen your understanding",
+        "Treat its notes as inspired Scripture",
+        "Choose only resources that confirm your first opinion"
+      ],
+      "answer": 1,
+      "explanation": "Helpful resources can supply background and alternative readings, but they should support rather than replace careful engagement with the biblical text.",
+      "link": "/resources/",
+      "link_text": "Browse Resources"
+    },
+    {
+      "id": "interpret-26",
+      "question": "What should readers do when responsible interpreters disagree?",
+      "options": [
+        "Assume disagreement proves the Bible is meaningless",
+        "Compare the evidence, remain humble and distinguish central claims from uncertain details",
+        "Select the view held by the most popular speaker",
+        "Avoid reaching any conclusion"
+      ],
+      "answer": 1,
+      "explanation": "Interpretive humility recognises that faithful readers can disagree. Evidence, context and theological importance should shape how confidently a conclusion is held.",
+      "link": "/about/",
+      "link_text": "Read about the Humble Theologian approach"
+    },
+    {
+      "id": "interpret-27",
+      "question": "Which statement best describes typology?",
+      "options": [
+        "Finding arbitrary secret codes in every detail",
+        "Recognising patterns in earlier Scripture that reach fuller expression in Christ and the biblical story",
+        "Treating the Old Testament as irrelevant",
+        "Replacing historical events with allegory"
+      ],
+      "answer": 1,
+      "explanation": "Typology recognises divinely shaped patterns such as Adam, exodus, sacrifice, temple and kingship that develop across Scripture and find fuller expression in Christ.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about the whole biblical story"
+    },
+    {
+      "id": "interpret-28",
+      "question": "How should a modern application relate to the passage’s original meaning?",
+      "options": [
+        "It may contradict the original meaning if it is helpful",
+        "It should grow from the passage’s meaning and enduring theological principle",
+        "It should repeat the ancient practice without adjustment",
+        "It should depend only on personal feelings"
+      ],
+      "answer": 1,
+      "explanation": "Application may take a different cultural form, but it should remain faithful to the truth, purpose and moral direction of the passage.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about faithful application"
+    },
+    {
+      "id": "interpret-29",
+      "question": "Why is repeated reading useful in interpretation?",
+      "options": [
+        "It removes the need for context",
+        "It helps readers notice structure, repeated words, contrasts and connections",
+        "It guarantees agreement with every commentator",
+        "It turns every passage into poetry"
+      ],
+      "answer": 1,
+      "explanation": "Repeated reading slows us down and reveals features that are easily missed, including structure, emphasis, transitions and recurring themes.",
+      "link": "/bible-studies/",
+      "link_text": "Explore Bible Studies"
+    },
+    {
+      "id": "interpret-30",
+      "question": "What is the best posture for interpreting Scripture?",
+      "options": [
+        "Confidence that personal assumptions are always correct",
+        "Prayerful attention, humility, careful study and willingness to be corrected",
+        "Suspicion of every translation",
+        "Dependence on isolated impressions"
+      ],
+      "answer": 1,
+      "explanation": "Faithful interpretation involves both disciplined study and a humble readiness to hear and obey God’s word within the community of faith.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
     }
   ]
 }

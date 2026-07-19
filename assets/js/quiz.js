@@ -12,6 +12,73 @@
   let answered = false;
   const missedLinks = new Map();
 
+
+  function shuffle(items) {
+    const copy = items.slice();
+    for (let i = copy.length - 1; i > 0; i -= 1) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [copy[i], copy[j]] = [copy[j], copy[i]];
+    }
+    return copy;
+  }
+
+  function questionKey(item, index) {
+    return item.id || item.question || String(index);
+  }
+
+  function storageKey() {
+    return "humble-theologian-quiz-last-set:" + dataUrl;
+  }
+
+  function readPreviousQuestionKeys() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(storageKey()) || "[]");
+      return Array.isArray(saved) ? saved : [];
+    } catch (error) {
+      return [];
+    }
+  }
+
+  function saveQuestionKeys(items) {
+    try {
+      localStorage.setItem(
+        storageKey(),
+        JSON.stringify(items.map(function (item, index) {
+          return questionKey(item, index);
+        }))
+      );
+    } catch (error) {
+      // The quiz still works when browser storage is unavailable.
+    }
+  }
+
+  function chooseQuestions(questionBank, numberToChoose) {
+    const previous = new Set(readPreviousQuestionKeys());
+    const newToReader = [];
+    const recentlySeen = [];
+
+    questionBank.forEach(function (item, index) {
+      const key = questionKey(item, index);
+      if (previous.has(key)) {
+        recentlySeen.push(item);
+      } else {
+        newToReader.push(item);
+      }
+    });
+
+    let selected = shuffle(newToReader).slice(0, numberToChoose);
+
+    if (selected.length < numberToChoose) {
+      selected = selected.concat(
+        shuffle(recentlySeen).slice(0, numberToChoose - selected.length)
+      );
+    }
+
+    selected = shuffle(selected);
+    saveQuestionKeys(selected);
+    return selected;
+  }
+
   function escapeHtml(value) {
     return String(value)
       .replace(/&/g, "&amp;")
@@ -175,10 +242,13 @@
       return response.json();
     })
     .then(function (data) {
-      if (!data || !Array.isArray(data.questions) || data.questions.length !== 10) {
-        throw new Error("The quiz must contain exactly ten questions");
+      if (!data || !Array.isArray(data.questions) || data.questions.length < 10) {
+        throw new Error("The quiz must contain at least ten questions");
       }
-      quiz = data;
+
+      quiz = Object.assign({}, data, {
+        questions: chooseQuestions(data.questions, 10)
+      });
       renderQuestion();
     })
     .catch(showError);

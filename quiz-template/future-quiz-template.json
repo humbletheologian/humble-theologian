@@ -1,0 +1,20 @@
+{
+  "title": "Replace with quiz title",
+  "description": "Replace with quiz description",
+  "questions": [
+    {
+      "id": "topic-01",
+      "question": "Replace with question text",
+      "options": [
+        "First answer",
+        "Second answer",
+        "Third answer",
+        "Fourth answer"
+      ],
+      "answer": 0,
+      "explanation": "Explain why the correct answer is best.",
+      "link": "/relevant-page/",
+      "link_text": "Read the relevant article"
+    }
+  ]
+}
