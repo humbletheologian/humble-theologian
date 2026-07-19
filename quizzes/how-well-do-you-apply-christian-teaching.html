@@ -1,0 +1,76 @@
+---
+layout: default
+title: "How Well Do You Apply Christian Teaching?"
+description: "Thirty questions about prayer, forgiveness, relationships, service, wisdom and everyday discipleship."
+permalink: /quizzes/how-well-do-you-apply-christian-teaching/
+---
+<style>
+  .quiz-shell{padding:56px 0}
+  .quiz-intro{max-width:820px;margin:0 auto 28px}
+  .quiz-panel{max-width:820px;margin:0 auto;background:var(--paper);border:1px solid var(--line);border-radius:22px;padding:28px;box-shadow:0 12px 26px rgba(17,24,39,.05)}
+  .quiz-status{display:flex;justify-content:space-between;gap:16px;align-items:center;margin-bottom:18px;font-size:15px;color:var(--muted)}
+  .quiz-progress{height:10px;background:var(--sand);border-radius:999px;overflow:hidden;margin-bottom:26px}
+  .quiz-progress-bar{height:100%;width:0;background:var(--green);transition:width .25s ease}
+  .quiz-question{font-family:Georgia,serif;font-size:28px;line-height:1.25;margin:.2em 0 .8em}
+  .quiz-options{display:grid;gap:12px;margin:20px 0}
+  .quiz-option{display:flex;align-items:flex-start;gap:12px;width:100%;text-align:left;background:#fff;border:1px solid var(--line);border-radius:16px;padding:15px 16px;font:inherit;color:var(--space);cursor:pointer}
+  .quiz-option:hover,.quiz-option:focus-visible{border-color:var(--green);outline:3px solid rgba(63,95,74,.16)}
+  .quiz-option[disabled]{cursor:default;opacity:1}
+  .quiz-option.correct{border-color:var(--green);background:#edf5ef}
+  .quiz-option.incorrect{border-color:#9a493e;background:#fff1ef}
+  .quiz-letter{flex:0 0 30px;height:30px;border-radius:50%;display:grid;place-items:center;background:var(--sky);font-weight:700}
+  .quiz-feedback{border-left:4px solid var(--gold);background:#fff8e8;padding:16px 18px;margin:20px 0;border-radius:0 14px 14px 0}
+  .quiz-feedback h3{font-family:Georgia,serif;font-size:21px;margin:0 0 .35em}
+  .quiz-feedback p{margin:.4em 0}
+  .quiz-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:22px}
+  .quiz-button{border-radius:999px;padding:12px 18px;border:1px solid var(--green);background:var(--green);color:#fff;font:inherit;font-weight:700;cursor:pointer}
+  .quiz-button.secondary{background:transparent;color:var(--green)}
+  .quiz-button:focus-visible{outline:3px solid rgba(201,166,70,.45);outline-offset:2px}
+  .quiz-result{text-align:center;padding:12px 0}
+  .quiz-score{font-family:Georgia,serif;font-size:48px;line-height:1;margin:.25em 0}
+  .quiz-result-links{display:grid;gap:12px;text-align:left;margin:24px 0}
+  .quiz-result-link{display:block;background:#fff;border:1px solid var(--line);border-radius:16px;padding:15px 16px;text-decoration:none;color:var(--space)}
+  .quiz-result-link:hover{border-color:var(--green)}
+  .quiz-error{background:#fff1ef;border:1px solid #c98d84;border-radius:16px;padding:16px}
+  @media(max-width:800px){.quiz-shell{padding:36px 0}.quiz-panel{padding:20px}.quiz-question{font-size:24px}.quiz-status{align-items:flex-start;flex-direction:column;gap:4px}.quiz-option{padding:14px}.quiz-score{font-size:42px}}
+</style>
+
+<section class="page-hero subtle-hero">
+  <div class="wrap narrow">
+    <p class="eyebrow">Christian living</p>
+    <h1>How Well Do You Apply Christian Teaching?</h1>
+    <p class="lede">Test how Christian teaching shapes prayer, relationships, work, forgiveness, service and everyday decisions.</p>
+  </div>
+</section>
+
+<section class="quiz-shell">
+  <div class="wrap">
+    <div class="quiz-intro">
+      <div class="card">
+        <p class="eyebrow">How this quiz works</p>
+        <h2>Ten questions from a pool of thirty.</h2>
+        <p>Each attempt draws a different selection where possible. Immediate feedback and a short explanation appear after every answer.</p>
+        <p>There is no timer and no score or personal information is sent to the website.</p>
+      </div>
+    </div>
+
+    <div id="bible-quiz" class="quiz-panel"
+      data-quiz-url="{{ '/assets/data/how-well-do-you-apply-christian-teaching.json' | relative_url }}"
+      aria-live="polite">
+      <p>Loading the quiz…</p>
+    </div>
+  </div>
+</section>
+
+<section class="section where-next">
+  <div class="wrap narrow">
+    <h2>Where to next?</h2>
+    <ul>
+      <li><a href="{{ '/quizzes/' | relative_url }}">Bible Quizzes</a> - choose another quiz.</li>
+      <li><a href="{{ '/articles/' | relative_url }}">Articles</a> - explore the subjects in more depth.</li>
+      <li><a href="{{ '/glossary/' | relative_url }}">Glossary</a> - check unfamiliar theological terms.</li>
+    </ul>
+  </div>
+</section>
+
+<script src="{{ '/assets/js/quiz.js' | relative_url }}?v=2"></script>

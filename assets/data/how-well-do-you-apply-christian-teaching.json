@@ -1,0 +1,426 @@
+{
+  "title": "How Well Do You Apply Christian Teaching?",
+  "description": "Thirty questions about prayer, forgiveness, relationships, service, wisdom and everyday discipleship.",
+  "questions": [
+    {
+      "id": "living-01",
+      "question": "What does Jesus identify as the greatest commandment?",
+      "options": [
+        "Love God with all your being",
+        "Avoid all non-Christians",
+        "Master every doctrine first",
+        "Gain influence"
+      ],
+      "answer": 0,
+      "explanation": "Jesus names wholehearted love for God and then love for neighbour.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-02",
+      "question": "What is a healthy Christian understanding of forgiveness?",
+      "options": [
+        "Pretending no harm occurred",
+        "Releasing vengeance while still pursuing truth, safety and accountability",
+        "Restoring trust immediately",
+        "Avoiding all consequences"
+      ],
+      "answer": 1,
+      "explanation": "Forgiveness and trust are related but not identical.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-03",
+      "question": "What is one purpose of prayer?",
+      "options": [
+        "To control God",
+        "To commune with God and align ourselves with his will",
+        "To avoid practical action",
+        "To impress others"
+      ],
+      "answer": 1,
+      "explanation": "Prayer includes worship, confession, thanksgiving, lament and request.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-04",
+      "question": "What does self-control involve?",
+      "options": [
+        "Suppressing every emotion",
+        "Directing desires and responses wisely under the Spirit’s influence",
+        "Avoiding responsibility",
+        "Never disagreeing"
+      ],
+      "answer": 1,
+      "explanation": "Self-control is not emotional denial but disciplined, Spirit-shaped action.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-05",
+      "question": "What is Christian hospitality?",
+      "options": [
+        "Entertaining only close friends",
+        "Welcoming and caring for others, including strangers",
+        "Providing expensive meals",
+        "Avoiding difficult guests"
+      ],
+      "answer": 1,
+      "explanation": "Hospitality is generous welcome, not performance.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-06",
+      "question": "What is a wise boundary?",
+      "options": [
+        "A way to punish someone",
+        "A clear statement of what you will and will not accept or do",
+        "An attempt to control another person’s feelings",
+        "A refusal to forgive"
+      ],
+      "answer": 1,
+      "explanation": "Boundaries clarify responsibility and protect healthy relationships.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-07",
+      "question": "What is lament?",
+      "options": [
+        "Faithless complaining",
+        "Honest prayer that brings grief and protest before God",
+        "Avoiding hope",
+        "A substitute for community"
+      ],
+      "answer": 1,
+      "explanation": "Biblical lament combines honesty, sorrow and continued turning towards God.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-08",
+      "question": "How should Christians respond to conflict?",
+      "options": [
+        "Avoid every difficult conversation",
+        "Speak truthfully, listen carefully and pursue peace where possible",
+        "Always surrender",
+        "Win publicly"
+      ],
+      "answer": 1,
+      "explanation": "Christian peacemaking combines truth, humility, courage and a desire for restoration.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-09",
+      "question": "What is generosity?",
+      "options": [
+        "Giving only when recognised",
+        "Freely sharing time, attention and resources for others’ good",
+        "Ignoring personal responsibilities",
+        "Funding every request"
+      ],
+      "answer": 1,
+      "explanation": "Generosity is willing and wise self-giving rather than careless enabling.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-10",
+      "question": "What is Sabbath rest meant to remind believers?",
+      "options": [
+        "Human worth depends on productivity",
+        "Life is sustained by God, not endless work",
+        "Work is always sinful",
+        "Only clergy need rest"
+      ],
+      "answer": 1,
+      "explanation": "Sabbath principles challenge the belief that value comes only through output.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-11",
+      "question": "What is discernment?",
+      "options": [
+        "Suspicion of everyone",
+        "Wise judgement shaped by Scripture, prayer, experience and community",
+        "Avoiding all decisions",
+        "Following the strongest personality"
+      ],
+      "answer": 1,
+      "explanation": "Discernment tests motives, options and consequences in the light of Christian wisdom.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-12",
+      "question": "What is spiritual maturity?",
+      "options": [
+        "Knowing many facts while remaining unchanged",
+        "Growing in Christlike love, wisdom, holiness and service",
+        "Holding a leadership title",
+        "Never asking questions"
+      ],
+      "answer": 1,
+      "explanation": "Maturity includes character, understanding, relationships and faithful practice.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-13",
+      "question": "What does it mean to bear one another’s burdens?",
+      "options": [
+        "Take over everyone’s responsibilities",
+        "Support others in hardship while respecting appropriate responsibility",
+        "Prevent all consequences",
+        "Solve every problem"
+      ],
+      "answer": 1,
+      "explanation": "Christian support combines compassion with wisdom.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-14",
+      "question": "What is a healthy response to personal failure?",
+      "options": [
+        "Hide it",
+        "Confess, receive grace, make amends where needed and learn",
+        "Blame others",
+        "Assume change is impossible"
+      ],
+      "answer": 1,
+      "explanation": "Christian repentance is honest, hopeful and practical.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-15",
+      "question": "How should Christians use speech?",
+      "options": [
+        "To win every argument",
+        "To communicate truth with grace and build others up",
+        "To avoid all disagreement",
+        "To expose every private failure"
+      ],
+      "answer": 1,
+      "explanation": "Christian speech should be truthful, timely, gracious and constructive.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-16",
+      "question": "What is service?",
+      "options": [
+        "Doing visible tasks for recognition",
+        "Using one’s gifts and opportunities for others’ good",
+        "Never saying no",
+        "Replacing prayer"
+      ],
+      "answer": 1,
+      "explanation": "Service is love expressed through practical action.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-17",
+      "question": "What is humility?",
+      "options": [
+        "Thinking you have no value",
+        "Seeing yourself truthfully before God and serving without self-exaltation",
+        "Avoiding leadership",
+        "Never acknowledging strengths"
+      ],
+      "answer": 1,
+      "explanation": "Humility rejects both pride and false self-denigration.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-18",
+      "question": "What should shape Christian use of money?",
+      "options": [
+        "Status and comparison",
+        "Stewardship, generosity, justice and responsibility",
+        "Fear alone",
+        "The belief that wealth proves faith"
+      ],
+      "answer": 1,
+      "explanation": "Money is a trust to be handled with wisdom and concern for others.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-19",
+      "question": "What is Christian contentment?",
+      "options": [
+        "Lack of ambition in every area",
+        "Grateful trust that is not controlled by comparison or possessions",
+        "Refusal to improve circumstances",
+        "Denial of hardship"
+      ],
+      "answer": 1,
+      "explanation": "Contentment can coexist with grief, work and hope for change.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-20",
+      "question": "How should Christians approach work?",
+      "options": [
+        "Only church work matters",
+        "Work can be service to God and neighbour when done faithfully",
+        "Success is the same as calling",
+        "Rest is unnecessary"
+      ],
+      "answer": 1,
+      "explanation": "Ordinary work can participate in God’s care for creation and people.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-21",
+      "question": "What is wise Christian friendship?",
+      "options": [
+        "Agreement about everything",
+        "Mutual care, honesty, encouragement and appropriate challenge",
+        "Dependence without boundaries",
+        "Contact only in crisis"
+      ],
+      "answer": 1,
+      "explanation": "Healthy friendship combines affection, truth and faithfulness.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-22",
+      "question": "How should Christians respond to injustice?",
+      "options": [
+        "Remain neutral in every circumstance",
+        "Seek truth, protect the vulnerable and act with courage and wisdom",
+        "Use any means necessary",
+        "Care only about private morality"
+      ],
+      "answer": 1,
+      "explanation": "Biblical justice concerns right relationships, truthful systems and protection of those at risk.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-23",
+      "question": "What is pastoral care?",
+      "options": [
+        "Giving quick answers",
+        "Attentive presence, prayer, support and appropriate guidance",
+        "Professional counselling in every case",
+        "Keeping problems secret regardless of risk"
+      ],
+      "answer": 1,
+      "explanation": "Pastoral care knows its limits and may involve referral or safeguarding.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-24",
+      "question": "What is a healthy approach to spiritual disciplines?",
+      "options": [
+        "Use them to earn God’s love",
+        "Practise them as means of grace that form attention and obedience",
+        "Measure superiority",
+        "Avoid flexibility"
+      ],
+      "answer": 1,
+      "explanation": "Disciplines such as prayer, Scripture and fasting are practices of formation, not payment for grace.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-25",
+      "question": "What is repentance in relationships?",
+      "options": [
+        "Saying sorry without change",
+        "Acknowledging harm, turning from it and making appropriate repair",
+        "Demanding immediate trust",
+        "Explaining why the other person caused it"
+      ],
+      "answer": 1,
+      "explanation": "Repentance includes truth, changed behaviour and responsibility.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-26",
+      "question": "What is the difference between reconciliation and forgiveness?",
+      "options": [
+        "There is no difference",
+        "Forgiveness can begin with one person, while reconciliation requires mutual participation",
+        "Reconciliation requires no truth",
+        "Forgiveness always restores the previous relationship"
+      ],
+      "answer": 1,
+      "explanation": "Reconciliation normally requires repentance, safety and rebuilding.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-27",
+      "question": "How should Christians respond to burnout warning signs?",
+      "options": [
+        "Work harder to prove commitment",
+        "Rest, reassess limits and seek support",
+        "Hide them from everyone",
+        "Assume exhaustion is holiness"
+      ],
+      "answer": 1,
+      "explanation": "Faithfulness includes recognising human limits and receiving help.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-28",
+      "question": "What is Christian courage?",
+      "options": [
+        "Absence of fear",
+        "Faithful action despite fear, guided by love and wisdom",
+        "Aggression",
+        "Ignoring danger"
+      ],
+      "answer": 1,
+      "explanation": "Courage is not recklessness but faithful action under pressure.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-29",
+      "question": "How should Christians engage people who disagree?",
+      "options": [
+        "With contempt",
+        "With conviction, curiosity, respect and honesty",
+        "By avoiding all discussion",
+        "By pretending differences do not matter"
+      ],
+      "answer": 1,
+      "explanation": "Christian witness should combine truth with gentleness and respect.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "living-30",
+      "question": "What is ordinary faithfulness?",
+      "options": [
+        "Only dramatic spiritual achievements",
+        "Steady obedience in everyday relationships, work, prayer and service",
+        "Public recognition",
+        "Avoiding change"
+      ],
+      "answer": 1,
+      "explanation": "Much Christian formation happens through consistent, unnoticed acts of love and obedience.",
+      "link": "/ordinary-faithfulness-devotions/",
+      "link_text": "Read Ordinary Faithfulness"
+    }
+  ]
+}

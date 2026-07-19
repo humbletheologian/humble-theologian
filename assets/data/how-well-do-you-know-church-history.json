@@ -1,0 +1,426 @@
+{
+  "title": "How Well Do You Know Church History?",
+  "description": "Thirty questions tracing major people, movements, councils and turning points in Christian history.",
+  "questions": [
+    {
+      "id": "history-01",
+      "question": "Which event is traditionally associated with Pentecost in Acts 2?",
+      "options": [
+        "The birth of Jesus",
+        "The outpouring of the Holy Spirit and the church’s public witness",
+        "The Council of Jerusalem",
+        "Paul’s conversion"
+      ],
+      "answer": 1,
+      "explanation": "Pentecost marks the Spirit’s empowering presence and the beginning of the church’s public mission.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-02",
+      "question": "Why were many early Christians persecuted by Roman authorities?",
+      "options": [
+        "They refused all forms of work",
+        "Their exclusive allegiance to Christ conflicted with imperial religious expectations",
+        "They rejected the Old Testament",
+        "They opposed literacy"
+      ],
+      "answer": 1,
+      "explanation": "Christian refusal to worship the emperor or other gods could be viewed as disloyal and socially disruptive.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-03",
+      "question": "What was a major outcome of the Council of Nicaea in AD 325?",
+      "options": [
+        "The canon was finally selected",
+        "The full divinity of the Son was affirmed",
+        "The papacy was abolished",
+        "Infant baptism was introduced"
+      ],
+      "answer": 1,
+      "explanation": "Nicaea confessed the Son as truly divine and of one being with the Father.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-04",
+      "question": "Who was Athanasius?",
+      "options": [
+        "A Roman emperor",
+        "A major defender of Nicene teaching about Christ",
+        "The first Protestant reformer",
+        "A medieval pope"
+      ],
+      "answer": 1,
+      "explanation": "Athanasius strongly defended the full divinity of Christ against Arian theology.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-05",
+      "question": "What did the Council of Chalcedon in AD 451 teach about Christ?",
+      "options": [
+        "Jesus had only a divine nature",
+        "Jesus is one person in two natures, truly divine and truly human",
+        "Jesus was adopted by God",
+        "Jesus was two separate persons"
+      ],
+      "answer": 1,
+      "explanation": "Chalcedon confessed Christ as one person in two natures without confusion or division.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-06",
+      "question": "Who is often called the father of Western monasticism?",
+      "options": [
+        "Benedict of Nursia",
+        "Martin Luther",
+        "John Wesley",
+        "Irenaeus"
+      ],
+      "answer": 0,
+      "explanation": "Benedict’s rule shaped Western monastic communities around prayer, work and common life.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-07",
+      "question": "What is the Great Schism of 1054 commonly associated with?",
+      "options": [
+        "The split between Eastern Orthodox and Western Catholic churches",
+        "The beginning of the Reformation",
+        "The end of the Roman Empire",
+        "The formation of the Baptist movement"
+      ],
+      "answer": 0,
+      "explanation": "The date symbolises the growing separation between Eastern and Western Christianity.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-08",
+      "question": "What did Martin Luther challenge in 1517?",
+      "options": [
+        "The doctrine of the Trinity",
+        "The sale of indulgences and wider church abuses",
+        "The use of the Psalms",
+        "Belief in resurrection"
+      ],
+      "answer": 1,
+      "explanation": "Luther’s Ninety-Five Theses criticised indulgence preaching and helped ignite the Reformation.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-09",
+      "question": "What did the phrase sola scriptura mean for many Reformers?",
+      "options": [
+        "Only one Bible translation may be used",
+        "Scripture is the final norm for Christian doctrine",
+        "Church history has no value",
+        "Every individual interpretation is correct"
+      ],
+      "answer": 1,
+      "explanation": "Sola scriptura placed Scripture above other authorities while not necessarily rejecting tradition altogether.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-10",
+      "question": "Who was John Calvin?",
+      "options": [
+        "An early church martyr",
+        "A major Reformation theologian based in Geneva",
+        "The founder of Methodism",
+        "A desert monk"
+      ],
+      "answer": 1,
+      "explanation": "Calvin shaped Reformed theology through his teaching, writing and ministry in Geneva.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-11",
+      "question": "What was the English Reformation initially linked to?",
+      "options": [
+        "Henry VIII’s break with papal authority",
+        "The Council of Nicaea",
+        "The Crusades",
+        "The Great Awakening"
+      ],
+      "answer": 0,
+      "explanation": "Political and dynastic concerns under Henry VIII helped produce England’s separation from Rome.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-12",
+      "question": "Who were the Anabaptists?",
+      "options": [
+        "Reformers who emphasised believers’ baptism and voluntary church membership",
+        "Medieval popes",
+        "Eastern Orthodox monks",
+        "Roman soldiers"
+      ],
+      "answer": 0,
+      "explanation": "Anabaptists rejected infant baptism and stressed a gathered church of committed believers.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-13",
+      "question": "Where did the modern Baptist movement emerge in the early seventeenth century?",
+      "options": [
+        "England and the Netherlands",
+        "Egypt and Ethiopia",
+        "Spain and Portugal",
+        "Russia and Greece"
+      ],
+      "answer": 0,
+      "explanation": "Early Baptists emerged among English Separatists, including communities connected with Amsterdam.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-14",
+      "question": "What did John Wesley help lead?",
+      "options": [
+        "The Methodist revival",
+        "The Council of Trent",
+        "The Crusades",
+        "The Eastern Schism"
+      ],
+      "answer": 0,
+      "explanation": "Wesley became a leading figure in the eighteenth-century Methodist revival.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-15",
+      "question": "What was the First Great Awakening?",
+      "options": [
+        "A fourth-century council",
+        "An eighteenth-century revival movement in Britain and North America",
+        "A medieval monastic reform",
+        "A twentieth-century ecumenical council"
+      ],
+      "answer": 1,
+      "explanation": "The Great Awakening involved widespread evangelical preaching, conversion and renewal.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-16",
+      "question": "Who was William Wilberforce?",
+      "options": [
+        "A theologian at Nicaea",
+        "A British Christian campaigner against the slave trade",
+        "A medieval mystic",
+        "A Baptist founder"
+      ],
+      "answer": 1,
+      "explanation": "Wilberforce combined evangelical conviction with long political efforts against the slave trade.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-17",
+      "question": "What was the Oxford Movement?",
+      "options": [
+        "A movement renewing Catholic traditions within Anglicanism",
+        "A Baptist missionary society",
+        "A Roman persecution",
+        "A Pentecostal revival"
+      ],
+      "answer": 0,
+      "explanation": "The nineteenth-century Oxford Movement emphasised Anglican continuity with historic catholic Christianity.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-18",
+      "question": "What was a major feature of the modern missionary movement?",
+      "options": [
+        "The translation of Scripture and establishment of churches across cultures",
+        "The rejection of education",
+        "The ending of all denominations",
+        "The abandonment of medicine"
+      ],
+      "answer": 0,
+      "explanation": "Missionary activity included evangelism, Bible translation, education, medicine and church formation, though it was sometimes entangled with colonialism.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-19",
+      "question": "Who was Dietrich Bonhoeffer?",
+      "options": [
+        "A German pastor and theologian who resisted Nazism",
+        "A medieval pope",
+        "An American revivalist",
+        "A Byzantine emperor"
+      ],
+      "answer": 0,
+      "explanation": "Bonhoeffer opposed Nazi ideology and was executed in 1945 for his involvement in resistance circles.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-20",
+      "question": "What was the Barmen Declaration of 1934?",
+      "options": [
+        "A defence of the church’s allegiance to Christ against Nazi control",
+        "A statement creating the Baptist denomination",
+        "A medieval monastic rule",
+        "A Catholic catechism"
+      ],
+      "answer": 0,
+      "explanation": "Barmen rejected attempts to subordinate the church’s message to Nazi ideology.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-21",
+      "question": "What was Vatican II?",
+      "options": [
+        "A fourth-century council",
+        "A twentieth-century Roman Catholic council of renewal and reform",
+        "The beginning of Eastern Orthodoxy",
+        "The founding of Pentecostalism"
+      ],
+      "answer": 1,
+      "explanation": "The Second Vatican Council, held from 1962 to 1965, addressed liturgy, Scripture, church life and engagement with the modern world.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-22",
+      "question": "Where is the modern Pentecostal movement often traced in the United States?",
+      "options": [
+        "The Azusa Street Revival",
+        "The Council of Trent",
+        "The Oxford Movement",
+        "The Synod of Dort"
+      ],
+      "answer": 0,
+      "explanation": "The 1906 Azusa Street Revival became a major catalyst for global Pentecostalism.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-23",
+      "question": "What is the ecumenical movement?",
+      "options": [
+        "An effort towards greater Christian unity and cooperation",
+        "A campaign to end Bible translation",
+        "A movement rejecting all denominations by force",
+        "A medieval military order"
+      ],
+      "answer": 0,
+      "explanation": "Ecumenism seeks dialogue, cooperation and greater visible unity among Christian traditions.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-24",
+      "question": "Why is the printing press important in Christian history?",
+      "options": [
+        "It enabled wider production and circulation of Bibles and theological works",
+        "It ended preaching",
+        "It created the biblical canon",
+        "It replaced churches"
+      ],
+      "answer": 0,
+      "explanation": "Printing greatly increased access to Scripture, sermons, pamphlets and theological debate.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-25",
+      "question": "Who translated the Bible into German during the Reformation?",
+      "options": [
+        "Martin Luther",
+        "Augustine",
+        "Thomas Aquinas",
+        "John Wesley"
+      ],
+      "answer": 0,
+      "explanation": "Luther’s German translation strongly influenced both church life and the German language.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-26",
+      "question": "Who was Augustine of Hippo?",
+      "options": [
+        "An influential fourth and fifth-century theologian and bishop",
+        "A Protestant missionary to China",
+        "A Byzantine emperor",
+        "The founder of Methodism"
+      ],
+      "answer": 0,
+      "explanation": "Augustine shaped Western theology through works on grace, the church, the Trinity and Christian life.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-27",
+      "question": "What did the Council of Trent address?",
+      "options": [
+        "Roman Catholic reform and responses to Protestant teaching",
+        "The Arian controversy",
+        "The abolition of monasticism",
+        "The formation of Eastern Orthodoxy"
+      ],
+      "answer": 0,
+      "explanation": "Trent clarified Catholic doctrine and initiated reforms in response to Protestant challenges.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-28",
+      "question": "What was the Social Gospel movement?",
+      "options": [
+        "A movement stressing Christian engagement with social injustice and reform",
+        "A medieval crusade",
+        "A debate about the Trinity",
+        "A rejection of public ethics"
+      ],
+      "answer": 0,
+      "explanation": "The Social Gospel applied Christian teaching to poverty, labour conditions and social structures.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-29",
+      "question": "Why should Christians study church history?",
+      "options": [
+        "To prove one tradition never made mistakes",
+        "To learn from the church’s faithfulness, failures and debates across time",
+        "To avoid reading Scripture",
+        "To replace present discipleship"
+      ],
+      "answer": 1,
+      "explanation": "Church history offers perspective, humility and wisdom by showing how Christians have believed and acted in many settings.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "history-30",
+      "question": "What is one danger in telling church history too simply?",
+      "options": [
+        "It may ignore minority voices, cultural settings and the failures of powerful institutions",
+        "It makes dates easier to remember",
+        "It encourages reading primary sources",
+        "It reveals disagreement"
+      ],
+      "answer": 0,
+      "explanation": "Responsible history recognises complexity, diverse voices and both faithfulness and wrongdoing.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    }
+  ]
+}

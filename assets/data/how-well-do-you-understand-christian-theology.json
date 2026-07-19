@@ -1,0 +1,426 @@
+{
+  "title": "How Well Do You Understand Christian Theology?",
+  "description": "Thirty questions covering central doctrines, theological terms and differing Christian viewpoints.",
+  "questions": [
+    {
+      "id": "theology-01",
+      "question": "What does monotheism affirm?",
+      "options": [
+        "There is one God",
+        "There are three gods",
+        "God is identical with creation",
+        "No knowledge of God is possible"
+      ],
+      "answer": 0,
+      "explanation": "Christian theology is monotheistic, confessing one God.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-02",
+      "question": "What does the Trinity affirm?",
+      "options": [
+        "One God in three persons",
+        "Three gods cooperating",
+        "One person changing roles",
+        "The Father alone is divine"
+      ],
+      "answer": 0,
+      "explanation": "The doctrine confesses one divine being eternally existing as Father, Son and Holy Spirit.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-03",
+      "question": "What does creation ex nihilo mean?",
+      "options": [
+        "Creation from nothing",
+        "Creation from evil matter",
+        "Creation without purpose",
+        "Creation by angels"
+      ],
+      "answer": 0,
+      "explanation": "The phrase means that God did not shape the universe from pre-existing independent matter.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-04",
+      "question": "What is providence?",
+      "options": [
+        "God’s sustaining and governing care for creation",
+        "A human ability to predict the future",
+        "The process of canon formation",
+        "A church financial policy"
+      ],
+      "answer": 0,
+      "explanation": "Providence describes God’s continuing care, preservation and governance of creation.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-05",
+      "question": "What is the image of God?",
+      "options": [
+        "A physical resemblance only",
+        "Humanity’s God-given dignity and vocation to represent him in creation",
+        "A status held only by rulers",
+        "A quality lost by disabled people"
+      ],
+      "answer": 1,
+      "explanation": "All human beings bear God’s image and therefore possess inherent dignity and calling.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-06",
+      "question": "What is sin?",
+      "options": [
+        "Only breaking civil law",
+        "Rebellion, corruption and failure to love God and neighbour",
+        "A lack of education",
+        "Physical limitation"
+      ],
+      "answer": 1,
+      "explanation": "Sin includes distorted desire, action, allegiance and systems opposed to God’s good purposes.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-07",
+      "question": "What is atonement?",
+      "options": [
+        "The work of Christ that reconciles sinners to God",
+        "A method of Bible study",
+        "A church election",
+        "The final resurrection"
+      ],
+      "answer": 0,
+      "explanation": "Atonement refers to Christ’s saving work, especially through his death and resurrection.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-08",
+      "question": "What is justification?",
+      "options": [
+        "God declaring sinners righteous through Christ",
+        "The believer becoming incapable of sin",
+        "The process of church membership",
+        "The study of ethics"
+      ],
+      "answer": 0,
+      "explanation": "Justification concerns being put right with God by grace through faith.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-09",
+      "question": "What is sanctification?",
+      "options": [
+        "Growth in holiness through the Spirit",
+        "The selection of canonical books",
+        "The final judgement",
+        "The founding of a denomination"
+      ],
+      "answer": 0,
+      "explanation": "Sanctification is the Spirit-enabled formation of believers into Christlikeness.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-10",
+      "question": "What is glorification?",
+      "options": [
+        "The final transformation of believers in resurrection life",
+        "Public recognition of ministers",
+        "The worship of saints",
+        "A successful ministry career"
+      ],
+      "answer": 0,
+      "explanation": "Glorification refers to the completion of salvation in resurrection and renewed creation.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-11",
+      "question": "What does Christology study?",
+      "options": [
+        "The person and work of Jesus Christ",
+        "The organisation of churches",
+        "The interpretation of Revelation only",
+        "The history of missions"
+      ],
+      "answer": 0,
+      "explanation": "Christology examines who Jesus is and what he has accomplished.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-12",
+      "question": "What does pneumatology study?",
+      "options": [
+        "The Holy Spirit",
+        "Church buildings",
+        "Human psychology",
+        "The Old Testament law"
+      ],
+      "answer": 0,
+      "explanation": "Pneumatology is the theological study of the person and work of the Holy Spirit.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-13",
+      "question": "What is ecclesiology?",
+      "options": [
+        "The theology of the church",
+        "The study of angels",
+        "The doctrine of creation",
+        "The interpretation of parables"
+      ],
+      "answer": 0,
+      "explanation": "Ecclesiology considers the church’s identity, practices, mission and leadership.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-14",
+      "question": "What is eschatology?",
+      "options": [
+        "The theology of last things and Christian hope",
+        "The study of biblical languages",
+        "The doctrine of Scripture",
+        "The history of worship music"
+      ],
+      "answer": 0,
+      "explanation": "Eschatology concerns resurrection, judgement, Christ’s return and new creation.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-15",
+      "question": "What is revelation in theology?",
+      "options": [
+        "God making himself and his purposes known",
+        "A private opinion held strongly",
+        "Every prediction about the future",
+        "The last book of the Bible only"
+      ],
+      "answer": 0,
+      "explanation": "Revelation is God’s self-disclosure through creation, history, Scripture and supremely Christ.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-16",
+      "question": "What does inspiration of Scripture mean?",
+      "options": [
+        "God worked through human authors so Scripture communicates his word",
+        "The authors wrote without personalities or contexts",
+        "Every translation is equally exact",
+        "Readers never need interpretation"
+      ],
+      "answer": 0,
+      "explanation": "Inspiration affirms divine agency through genuinely human authors.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-17",
+      "question": "What does the sufficiency of Scripture mean?",
+      "options": [
+        "Scripture contains everything needed for faithful knowledge of salvation and Christian life",
+        "Scripture contains every scientific fact",
+        "Christians need no teachers",
+        "Church history has no value"
+      ],
+      "answer": 0,
+      "explanation": "Sufficiency concerns Scripture’s adequacy for its God-given purpose, not exhaustive information about every subject.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-18",
+      "question": "What is general revelation?",
+      "options": [
+        "Knowledge of God available through creation and human experience",
+        "Secret knowledge given to a few people",
+        "Only the teaching of the apostles",
+        "The final judgement"
+      ],
+      "answer": 0,
+      "explanation": "General revelation refers to God’s self-disclosure through creation, conscience and providence.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-19",
+      "question": "What is special revelation?",
+      "options": [
+        "God’s particular self-disclosure through redemptive acts, Scripture and Christ",
+        "Anything personally meaningful",
+        "Scientific discovery",
+        "Church architecture"
+      ],
+      "answer": 0,
+      "explanation": "Special revelation refers to God’s more specific saving self-disclosure.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-20",
+      "question": "What is original sin?",
+      "options": [
+        "The first sin only",
+        "The inherited condition and solidarity of humanity in sin",
+        "A doctrine that children are personally guilty of every adult act",
+        "The belief that matter is evil"
+      ],
+      "answer": 1,
+      "explanation": "The term describes humanity’s shared fallen condition, though traditions explain its transmission differently.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-21",
+      "question": "What is substitutionary atonement?",
+      "options": [
+        "Christ acts on behalf of sinners and bears what they could not bear",
+        "Humans save themselves through imitation",
+        "The resurrection replaces the cross",
+        "The church becomes divine"
+      ],
+      "answer": 0,
+      "explanation": "Substitution emphasises Christ acting for us in dealing with sin and judgement.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-22",
+      "question": "What is Christus Victor?",
+      "options": [
+        "An atonement theme emphasising Christ’s victory over sin, death and evil powers",
+        "A title for a medieval pope",
+        "A view denying the cross",
+        "A doctrine of church government"
+      ],
+      "answer": 0,
+      "explanation": "Christus Victor highlights liberation through Christ’s triumph over hostile powers.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-23",
+      "question": "What is adoption in salvation?",
+      "options": [
+        "Believers being welcomed into God’s family",
+        "Changing denominations",
+        "Becoming an apostle",
+        "Receiving a church office"
+      ],
+      "answer": 0,
+      "explanation": "Adoption describes the gift of belonging to God as his children through Christ.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-24",
+      "question": "What is union with Christ?",
+      "options": [
+        "Participation in Christ’s life through faith and the Spirit",
+        "Physical absorption into God",
+        "Agreement with every Christian",
+        "Membership in one denomination"
+      ],
+      "answer": 0,
+      "explanation": "Union with Christ gathers together themes of salvation, identity and participation in Christ.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-25",
+      "question": "What is the kingdom of God?",
+      "options": [
+        "God’s saving reign",
+        "A geographical church state",
+        "Heaven only after death",
+        "A synonym for one denomination"
+      ],
+      "answer": 0,
+      "explanation": "The kingdom is God’s rule arriving through Jesus and awaiting future fullness.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-26",
+      "question": "What is resurrection?",
+      "options": [
+        "The renewal of embodied life by God",
+        "The immortality of the soul alone",
+        "A metaphor for moral improvement only",
+        "The escape of spirits from creation"
+      ],
+      "answer": 0,
+      "explanation": "Christian hope centres on bodily resurrection, grounded in Jesus’ resurrection.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-27",
+      "question": "What is annihilationism?",
+      "options": [
+        "The view that the wicked are finally destroyed rather than sustained forever in conscious torment",
+        "The denial of judgement",
+        "Universal salvation",
+        "The belief that death ends everyone without resurrection"
+      ],
+      "answer": 0,
+      "explanation": "Annihilationism affirms judgement while understanding its final outcome as destruction.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-28",
+      "question": "What is universalism?",
+      "options": [
+        "The belief that all people will ultimately be saved",
+        "The belief in one universal church only",
+        "The rejection of mission",
+        "The doctrine of creation"
+      ],
+      "answer": 0,
+      "explanation": "Universalism teaches that God’s saving purpose will finally include everyone, though forms differ.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-29",
+      "question": "What is compatibilism?",
+      "options": [
+        "The view that divine sovereignty and meaningful human responsibility are compatible",
+        "The belief that all religions teach the same thing",
+        "A theory of church unity",
+        "A method of translation"
+      ],
+      "answer": 0,
+      "explanation": "Compatibilism seeks to affirm both divine determination and genuine responsibility.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    },
+    {
+      "id": "theology-30",
+      "question": "What is Arminianism?",
+      "options": [
+        "A tradition emphasising prevenient grace, resistible grace and meaningful human response",
+        "A denial of grace",
+        "A form of atheism",
+        "A medieval monastic order"
+      ],
+      "answer": 0,
+      "explanation": "Arminian theology affirms salvation by grace while stressing that grace can be resisted.",
+      "link": "/articles/",
+      "link_text": "Browse related articles"
+    }
+  ]
+}

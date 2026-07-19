@@ -1,0 +1,426 @@
+{
+  "title": "How Well Do You Know Christianity?",
+  "description": "Thirty questions across theology, church history, Christian living, church and ministry.",
+  "questions": [
+    {
+      "id": "christianity-01",
+      "question": "What does the doctrine of the Trinity teach?",
+      "options": [
+        "God is one person appearing in three forms",
+        "There are three separate gods",
+        "The one God eternally exists as Father, Son and Holy Spirit",
+        "Jesus became divine after the resurrection"
+      ],
+      "answer": 2,
+      "explanation": "Christian teaching confesses one God in three distinct persons: Father, Son and Holy Spirit.",
+      "link": "/where-i-stand/",
+      "link_text": "See Where I Stand"
+    },
+    {
+      "id": "christianity-02",
+      "question": "What does the incarnation refer to?",
+      "options": [
+        "The Son of God becoming truly human",
+        "The creation of angels",
+        "The church becoming a political power",
+        "The translation of Scripture"
+      ],
+      "answer": 0,
+      "explanation": "The incarnation is the Christian claim that the eternal Son took on human nature in Jesus Christ.",
+      "link": "/articles/",
+      "link_text": "Browse theology articles"
+    },
+    {
+      "id": "christianity-03",
+      "question": "Which event stands at the centre of Christian hope?",
+      "options": [
+        "The destruction of Jerusalem",
+        "The resurrection of Jesus",
+        "The conversion of Constantine",
+        "The invention of printing"
+      ],
+      "answer": 1,
+      "explanation": "Jesus’ resurrection is the beginning of new creation and the foundation of Christian hope.",
+      "link": "/where-i-stand/",
+      "link_text": "See Where I Stand"
+    },
+    {
+      "id": "christianity-04",
+      "question": "What is the gospel?",
+      "options": [
+        "Advice for becoming morally impressive",
+        "Good news about God’s saving work through Jesus Christ",
+        "A private spiritual technique",
+        "A list of church rules"
+      ],
+      "answer": 1,
+      "explanation": "The gospel is good news about what God has done through Jesus’ life, death, resurrection and reign.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    },
+    {
+      "id": "christianity-05",
+      "question": "What is sanctification?",
+      "options": [
+        "The Spirit’s continuing work of forming believers into Christlikeness",
+        "The act of translating the Bible",
+        "The selection of church leaders",
+        "The final judgement"
+      ],
+      "answer": 0,
+      "explanation": "Sanctification describes the ongoing transformation of believers in holiness and Christlike character.",
+      "link": "/articles/",
+      "link_text": "Browse Christian living articles"
+    },
+    {
+      "id": "christianity-06",
+      "question": "What is a sacrament or ordinance?",
+      "options": [
+        "A political law enforced by the church",
+        "A practice such as baptism or the Lord’s Supper commanded by Christ",
+        "A private mystical vision",
+        "Any church tradition"
+      ],
+      "answer": 1,
+      "explanation": "Christians use these terms for practices instituted by Christ, especially baptism and the Lord’s Supper.",
+      "link": "/articles/",
+      "link_text": "Browse church and ministry articles"
+    },
+    {
+      "id": "christianity-07",
+      "question": "What was the main issue at the Council of Nicaea in AD 325?",
+      "options": [
+        "Whether Jesus is truly divine",
+        "Which English Bible should be used",
+        "Whether churches should have buildings",
+        "Whether Christians should sing"
+      ],
+      "answer": 0,
+      "explanation": "Nicaea defended the full divinity of the Son against Arian teaching.",
+      "link": "/articles/",
+      "link_text": "Browse church history articles"
+    },
+    {
+      "id": "christianity-08",
+      "question": "What did the Protestant Reformation especially challenge?",
+      "options": [
+        "The existence of the Old Testament",
+        "Abuses and doctrines within the medieval Western church",
+        "The use of prayer",
+        "The belief that Jesus rose"
+      ],
+      "answer": 1,
+      "explanation": "Reformers challenged abuses and argued for renewal in doctrine, worship and church authority.",
+      "link": "/articles/",
+      "link_text": "Browse church history articles"
+    },
+    {
+      "id": "christianity-09",
+      "question": "Which statement best describes Christian prayer?",
+      "options": [
+        "A way to control God",
+        "Communication with God shaped by worship, confession, thanksgiving and request",
+        "A replacement for action",
+        "A practice only for clergy"
+      ],
+      "answer": 1,
+      "explanation": "Christian prayer is relational communion with God and includes worship, confession, thanksgiving and petition.",
+      "link": "/resources/",
+      "link_text": "Browse prayer resources"
+    },
+    {
+      "id": "christianity-10",
+      "question": "What is discipleship?",
+      "options": [
+        "Winning religious arguments",
+        "Learning to follow Jesus in belief, character and practice",
+        "Holding a church title",
+        "Memorising facts without obedience"
+      ],
+      "answer": 1,
+      "explanation": "Discipleship is the lifelong process of learning from Jesus and living under his lordship.",
+      "link": "/start-here/",
+      "link_text": "Start Here"
+    },
+    {
+      "id": "christianity-11",
+      "question": "What is the church?",
+      "options": [
+        "Only a religious building",
+        "The community of people called to belong to Christ",
+        "A political nation",
+        "A weekly event only"
+      ],
+      "answer": 1,
+      "explanation": "In the New Testament, the church is primarily the gathered and scattered people of God.",
+      "link": "/articles/",
+      "link_text": "Browse church and ministry articles"
+    },
+    {
+      "id": "christianity-12",
+      "question": "What does repentance involve?",
+      "options": [
+        "Regret without change",
+        "Turning towards God with changed allegiance and behaviour",
+        "Punishing yourself until forgiven",
+        "Avoiding all non-Christians"
+      ],
+      "answer": 1,
+      "explanation": "Repentance is a turning of mind, loyalty and life towards God.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    },
+    {
+      "id": "christianity-13",
+      "question": "What is grace?",
+      "options": [
+        "God’s unearned favour and generous action",
+        "A reward for perfect behaviour",
+        "A church leadership rank",
+        "Freedom from all responsibility"
+      ],
+      "answer": 0,
+      "explanation": "Grace is God’s undeserved generosity, most fully revealed in salvation through Christ.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    },
+    {
+      "id": "christianity-14",
+      "question": "What is meant by the authority of Scripture?",
+      "options": [
+        "Every interpretation is equally correct",
+        "Scripture functions as a trustworthy norm for Christian faith and life",
+        "Only clergy may read the Bible",
+        "The Bible answers every modern question directly"
+      ],
+      "answer": 1,
+      "explanation": "Christians affirm Scripture as authoritative while still needing careful interpretation.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
+    },
+    {
+      "id": "christianity-15",
+      "question": "What is the Christian hope for creation?",
+      "options": [
+        "Permanent escape from creation",
+        "The renewal of creation under God’s reign",
+        "The destruction of all material existence",
+        "Endless human progress without God"
+      ],
+      "answer": 1,
+      "explanation": "The biblical hope is resurrection and renewed creation, not merely escape from the world.",
+      "link": "/where-i-stand/",
+      "link_text": "See Where I Stand"
+    },
+    {
+      "id": "christianity-16",
+      "question": "Which virtue is included in the fruit of the Spirit?",
+      "options": [
+        "Self-promotion",
+        "Self-control",
+        "Suspicion",
+        "Ambition"
+      ],
+      "answer": 1,
+      "explanation": "Galatians 5 includes self-control among the fruit produced by the Spirit.",
+      "link": "/articles/",
+      "link_text": "Browse Christian living articles"
+    },
+    {
+      "id": "christianity-17",
+      "question": "Why do Christians gather for worship?",
+      "options": [
+        "To earn salvation",
+        "To honour God, hear Scripture, pray, share fellowship and be formed as Christ’s people",
+        "To avoid all contact with society",
+        "To preserve one cultural style"
+      ],
+      "answer": 1,
+      "explanation": "Christian worship gathers believers around God’s word, prayer, praise, fellowship and mission.",
+      "link": "/articles/",
+      "link_text": "Browse church and ministry articles"
+    },
+    {
+      "id": "christianity-18",
+      "question": "What does forgiveness require?",
+      "options": [
+        "Pretending no wrong occurred",
+        "Releasing personal vengeance while still taking truth and safety seriously",
+        "Restoring trust immediately",
+        "Avoiding all consequences"
+      ],
+      "answer": 1,
+      "explanation": "Forgiveness rejects revenge but does not erase truth, accountability or wise boundaries.",
+      "link": "/articles/",
+      "link_text": "Browse Christian living articles"
+    },
+    {
+      "id": "christianity-19",
+      "question": "What is Christian mission?",
+      "options": [
+        "Forcing religious conformity",
+        "Participating in God’s work of witness, service, reconciliation and disciple-making",
+        "Building institutional power",
+        "Ignoring physical needs"
+      ],
+      "answer": 1,
+      "explanation": "Mission includes proclaiming Christ, making disciples, serving others and bearing witness to God’s kingdom.",
+      "link": "/articles/",
+      "link_text": "Browse church and ministry articles"
+    },
+    {
+      "id": "christianity-20",
+      "question": "What does justification describe?",
+      "options": [
+        "God declaring sinners righteous through Christ",
+        "The believer becoming instantly perfect",
+        "The church selecting ministers",
+        "The study of biblical languages"
+      ],
+      "answer": 0,
+      "explanation": "Justification refers to God’s gracious declaration that sinners are put right with him through Christ.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    },
+    {
+      "id": "christianity-21",
+      "question": "Who were the apostles?",
+      "options": [
+        "Roman governors",
+        "Authorised witnesses and messengers of Jesus",
+        "Medieval theologians",
+        "Old Testament kings"
+      ],
+      "answer": 1,
+      "explanation": "The apostles were commissioned witnesses of Jesus, especially his resurrection and teaching.",
+      "link": "/how-we-got-the-bible/",
+      "link_text": "Read How We Got the Bible"
+    },
+    {
+      "id": "christianity-22",
+      "question": "What does catholic mean in the phrase 'the catholic church' in early creeds?",
+      "options": [
+        "Roman Catholic only",
+        "Universal or worldwide",
+        "Politically powerful",
+        "Without doctrine"
+      ],
+      "answer": 1,
+      "explanation": "In the creeds, catholic means universal, referring to the whole church across places and times.",
+      "link": "/articles/",
+      "link_text": "Browse church history articles"
+    },
+    {
+      "id": "christianity-23",
+      "question": "What is Christian hospitality?",
+      "options": [
+        "Entertaining only close friends",
+        "Welcoming and caring for others, including strangers",
+        "Avoiding difficult people",
+        "Providing expensive meals"
+      ],
+      "answer": 1,
+      "explanation": "Biblical hospitality is generous welcome, especially towards those who may not be able to repay it.",
+      "link": "/articles/",
+      "link_text": "Browse Christian living articles"
+    },
+    {
+      "id": "christianity-24",
+      "question": "What is the purpose of spiritual gifts?",
+      "options": [
+        "Personal status",
+        "Building up the church and serving others",
+        "Proving one Christian is superior",
+        "Replacing character"
+      ],
+      "answer": 1,
+      "explanation": "The New Testament presents spiritual gifts as graces given for service and the common good.",
+      "link": "/articles/",
+      "link_text": "Browse church and ministry articles"
+    },
+    {
+      "id": "christianity-25",
+      "question": "Which statement best describes Christian leadership?",
+      "options": [
+        "Authority without accountability",
+        "Servant leadership shaped by Christ’s example",
+        "Control through fear",
+        "Recognition of the most gifted speaker"
+      ],
+      "answer": 1,
+      "explanation": "Christian leadership should be accountable, sacrificial and directed towards serving and equipping others.",
+      "link": "/articles/",
+      "link_text": "Browse church and ministry articles"
+    },
+    {
+      "id": "christianity-26",
+      "question": "What is lament?",
+      "options": [
+        "A failure of faith",
+        "Honest prayer expressing grief, protest and trust before God",
+        "A denial of hope",
+        "Complaining without prayer"
+      ],
+      "answer": 1,
+      "explanation": "Biblical lament brings pain honestly to God while continuing to seek him.",
+      "link": "/resources/",
+      "link_text": "Browse devotional resources"
+    },
+    {
+      "id": "christianity-27",
+      "question": "What did the early creeds mainly seek to do?",
+      "options": [
+        "Replace the Bible",
+        "Summarise and safeguard central Christian beliefs",
+        "Establish one worship style",
+        "Set national laws"
+      ],
+      "answer": 1,
+      "explanation": "Creeds condensed core convictions about God, Christ, the Spirit, the church and resurrection.",
+      "link": "/articles/",
+      "link_text": "Browse theology articles"
+    },
+    {
+      "id": "christianity-28",
+      "question": "Why is love of neighbour central to Christian ethics?",
+      "options": [
+        "It replaces love for God",
+        "Jesus joined it closely to love for God",
+        "It applies only to church members",
+        "It removes the need for truth"
+      ],
+      "answer": 1,
+      "explanation": "Jesus named love of God and neighbour as the greatest commandments.",
+      "link": "/articles/",
+      "link_text": "Browse Christian living articles"
+    },
+    {
+      "id": "christianity-29",
+      "question": "What is pastoral care?",
+      "options": [
+        "Managing church finances",
+        "Supporting people spiritually, emotionally and practically",
+        "Avoiding difficult conversations",
+        "Providing professional therapy in every situation"
+      ],
+      "answer": 1,
+      "explanation": "Pastoral care attends to people with prayer, listening, guidance, presence and appropriate practical support.",
+      "link": "/articles/",
+      "link_text": "Browse church and ministry articles"
+    },
+    {
+      "id": "christianity-30",
+      "question": "What does it mean to confess Jesus as Lord?",
+      "options": [
+        "Treat Jesus only as a moral teacher",
+        "Acknowledge Jesus’ authority and give him allegiance",
+        "Use a religious title without obedience",
+        "Reject the Old Testament"
+      ],
+      "answer": 1,
+      "explanation": "Calling Jesus Lord is a confession of his authority that calls for faith, worship and obedience.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    }
+  ]
+}
