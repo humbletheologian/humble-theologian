@@ -1,0 +1,131 @@
+{
+  "title": "How Well Do You Know the Bible?",
+  "description": "Ten questions covering biblical structure, genre, canon, gospel, interpretation and Christian hope.",
+  "questions": [
+    {
+      "question": "Which description best reflects what the Bible is?",
+      "options": [
+        "A single book written by one human author",
+        "A library of writings produced across different periods, genres and settings",
+        "A collection of moral sayings arranged by topic",
+        "A history of Christianity beginning with Jesus"
+      ],
+      "answer": 1,
+      "explanation": "The Bible is a collection of writings produced in different historical settings and literary genres. Christians read these diverse books as a unified story of God’s work in creation, Israel, Christ and new creation.",
+      "link": "/how-we-got-the-bible/",
+      "link_text": "Read How We Got the Bible"
+    },
+    {
+      "question": "Which Gospel begins with the words, ‘In the beginning was the Word’?",
+      "options": ["Matthew", "Mark", "Luke", "John"],
+      "answer": 3,
+      "explanation": "John begins by identifying Jesus as the eternal Word who was with God and was God. This opening connects Jesus with creation and prepares for John’s emphasis on his divine identity.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    },
+    {
+      "question": "Why does recognising biblical genre matter?",
+      "options": [
+        "It determines whether a passage is inspired",
+        "It helps us read poetry, narrative, law, letters and visions according to how they communicate",
+        "It allows difficult passages to be ignored",
+        "It proves that only historical narratives are trustworthy"
+      ],
+      "answer": 1,
+      "explanation": "Genre helps us understand how a passage communicates truth. Poetry uses imagery differently from narrative, while proverbs, letters and apocalyptic visions each require appropriate reading strategies.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
+    },
+    {
+      "question": "What is the central announcement of the Christian gospel?",
+      "options": [
+        "Good people will receive a better life",
+        "Jesus died for sins, was raised and reigns as Lord",
+        "Israel’s law has been replaced by personal spirituality",
+        "Human beings can reach God through sufficient knowledge"
+      ],
+      "answer": 1,
+      "explanation": "The gospel centres on what God has done through Jesus: his life, death for sins, resurrection and lordship. It calls people to repentance, faith and participation in God’s renewed creation.",
+      "link": "/what-is-the-gospel/",
+      "link_text": "Read What Is the Gospel?"
+    },
+    {
+      "question": "Which statement best explains the biblical canon?",
+      "options": [
+        "The list of books Christians receive as Scripture",
+        "A translation method used for ancient manuscripts",
+        "The order in which every biblical book was written",
+        "A set of rules for interpreting prophecy"
+      ],
+      "answer": 0,
+      "explanation": "Canon refers to the recognised collection of writings received as Scripture. Christian traditions agree on the New Testament but differ somewhat over the extent of the Old Testament canon.",
+      "link": "/how-we-got-the-bible/",
+      "link_text": "Explore the development of the canon"
+    },
+    {
+      "question": "When reading an Old Testament law, what should Christians consider first?",
+      "options": [
+        "How to enforce it directly in a modern nation",
+        "Its place in Israel’s covenant, its purpose and how it relates to Christ",
+        "Whether it agrees with current cultural values",
+        "Whether it appears in the middle or at the end of a chapter"
+      ],
+      "answer": 1,
+      "explanation": "Old Testament laws belonged to Israel’s covenant life. Christians should consider their historical setting and purpose, how they fit the wider biblical story and how their moral wisdom is fulfilled and reframed through Christ.",
+      "link": "/how-should-christians-read-old-testament-law/",
+      "link_text": "Read How Should Christians Read Old Testament Law?"
+    },
+    {
+      "question": "What is the primary Christian hope presented at the end of the biblical story?",
+      "options": [
+        "Disembodied souls escaping creation forever",
+        "The destruction of the physical universe",
+        "Resurrection and God’s renewal of creation",
+        "A return to life under the Sinai covenant"
+      ],
+      "answer": 2,
+      "explanation": "The biblical story moves towards resurrection, judgement and new creation. Revelation ends with God dwelling with humanity as creation is renewed, not with creation being permanently abandoned.",
+      "link": "/where-i-stand/",
+      "link_text": "See the site’s current position on Christian hope"
+    },
+    {
+      "question": "Which statement best describes a parable of Jesus?",
+      "options": [
+        "A fictional story with no connection to truth",
+        "A legal command that must be applied word for word",
+        "A story or comparison that reveals and challenges through the message of God’s kingdom",
+        "A prediction that always describes the end times"
+      ],
+      "answer": 2,
+      "explanation": "Jesus’ parables use familiar scenes, stories and comparisons to reveal the kingdom, confront assumptions and call hearers to respond. They should not be flattened into allegories in which every detail has a hidden meaning.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Learn more about reading biblical genres"
+    },
+    {
+      "question": "What does it mean to read a passage in context?",
+      "options": [
+        "Reading only the verse that answers the question",
+        "Considering its surrounding passage, book, historical setting and place in the biblical story",
+        "Accepting the interpretation that is most familiar",
+        "Reading every sentence as a direct command to the modern reader"
+      ],
+      "answer": 1,
+      "explanation": "Context includes the sentences around a verse, the argument or story of the book, the original audience and the passage’s place within Scripture. Context guards against using isolated verses to support conclusions they were not intended to teach.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read the guide to biblical interpretation"
+    },
+    {
+      "question": "According to 2 Timothy 3:16–17, what is Scripture intended to do?",
+      "options": [
+        "Answer every possible scientific question",
+        "Equip God’s people for every good work",
+        "Remove the need for Christian teachers and community",
+        "Provide a secret code for predicting modern events"
+      ],
+      "answer": 1,
+      "explanation": "Paul describes Scripture as God-breathed and useful for teaching, correction and training in righteousness so that God’s servant may be equipped for every good work. Its purpose is formative as well as informative.",
+      "link": "/inerrant-infallible-or-trustworthy/",
+      "link_text": "Read how Christians describe the Bible"
+    }
+  ]
+}
