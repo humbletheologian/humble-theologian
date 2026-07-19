@@ -14,11 +14,17 @@ This glossary is here to help newer Christians, Bible college students and thoug
 
 **Accommodation** - The idea that God communicates divine truth in forms suited to human language, culture and limitation without surrendering the truth God intends to convey.
 
+**Adoption** - The gift of being welcomed into God’s family through Christ, receiving the status, belonging and inheritance of God’s children.
+
+**Anabaptist** - A stream of the Radical Reformation that emphasised believers’ baptism, voluntary church membership, discipleship and separation of church and state.
+
 **Annihilationism** - The view that final judgment results in the destruction of the wicked rather than their endless conscious torment.
 
 **Apocalyptic** - A symbolic and visionary kind of writing that reveals God’s perspective on history, conflict, judgment and hope. Daniel and Revelation contain major apocalyptic sections.
 
 **Apostle** - A commissioned messenger. In the New Testament, the term especially refers to those sent by the risen Christ to bear authoritative witness to him.
+
+**Arianism** - The teaching associated with Arius that the Son was created and was not eternally divine in the same way as the Father. It was rejected at the Council of Nicaea.
 
 **Arminianism** - A Christian account of salvation that emphasises God’s enabling grace, Christ’s provision for all and a genuine human response that can be resisted.
 
@@ -28,11 +34,25 @@ This glossary is here to help newer Christians, Bible college students and thoug
 
 **Biblical theology** - The study of how themes, promises and doctrines develop through the unfolding story of Scripture.
 
+**Boundaries** - Clear limits that identify what a person is responsible for, what behaviour they will accept and how they will respond when those limits are crossed.
+
+**Burnout** - A state of deep physical, emotional or spiritual exhaustion often caused by prolonged stress, excessive demands and inadequate rest or support.
+
 **Calvinism** - A theological tradition associated with John Calvin and later Reformed theology, commonly emphasising God’s sovereignty, election and effective grace in salvation.
 
 **Canon** - The recognised collection of biblical books received as Scripture by a Christian community.
 
+**Canonical interpretation** - Reading a passage in its own literary setting while also considering its place within the complete canon and the wider biblical story.
+
+**Christian hospitality** - The practice of welcoming, receiving and caring for others, including strangers and people who may not be able to repay the kindness.
+
+**Christian maturity** - Growth in Christlike character, wisdom, love, holiness, discernment and faithful participation in the life and mission of the church.
+
 **Christology** - The area of theology concerned with who Jesus Christ is, including his humanity, divinity, identity, mission and work.
+
+**Christus Victor** - An atonement theme that presents the death and resurrection of Jesus as God’s victory over sin, death, evil and hostile spiritual powers.
+
+**Compatibilism** - The view that divine sovereignty and meaningful human responsibility can both be true, even when human choices occur within God’s determining will.
 
 **Complementarianism** - The view that men and women are equal in dignity and worth, but that some church or family roles are reserved for men.
 
@@ -40,7 +60,13 @@ This glossary is here to help newer Christians, Bible college students and thoug
 
 **Confession** - A substantial statement of Christian belief used by a church or tradition to summarise and teach its doctrine.
 
+**Contentment** - Grateful trust in God that is not controlled by comparison, possessions or circumstances, while still allowing grief, ambition and hope for change.
+
 **Context** - The surrounding setting that helps us understand a passage, including the words nearby, the book as a whole, the historical situation and the wider biblical story.
+
+**Council of Chalcedon** - The church council held in AD 451 that confessed Jesus Christ as one person in two natures, truly divine and truly human.
+
+**Council of Nicaea** - The church council held in AD 325 that rejected Arianism and affirmed that the Son is truly divine and of one being with the Father.
 
 **Covenant** - A solemn relationship established by God, often involving promises, commitments and signs. Major biblical covenants include those with Noah, Abraham, Israel, David and the new covenant in Christ.
 
@@ -52,6 +78,8 @@ This glossary is here to help newer Christians, Bible college students and thoug
 
 **Disability theology** - Theological reflection shaped by the presence, experience and contribution of disabled people, asking how Christian beliefs and church practices understand embodiment, dignity, dependence and belonging.
 
+**Discernment** - Wise judgment shaped by Scripture, prayer, experience, Christian community and attention to motives, circumstances and consequences.
+
 **Discipleship** - The lifelong process of following Jesus, learning from him and being shaped into his likeness.
 
 **Dispensationalism** - A theological framework that emphasises distinct periods in God’s dealings with humanity and usually maintains a strong distinction between Israel and the church.
@@ -60,7 +88,13 @@ This glossary is here to help newer Christians, Bible college students and thoug
 
 **Dynamic equivalence** - A translation approach that prioritises communicating the meaning of the original text naturally in the receiving language. It is also called functional equivalence.
 
+**Ecclesiology** - The area of theology concerned with the identity, nature, mission, worship, practices and leadership of the church.
+
+**Ecumenism** - Efforts to encourage dialogue, cooperation and greater visible unity among different Christian churches and traditions.
+
 **Egalitarianism** - The view that men and women are equally able to serve in all roles of church leadership, according to gifting and calling.
+
+**Eisegesis** - Reading one’s own assumptions or preferred ideas into a biblical text rather than drawing meaning from the text in context.
 
 **Eschatology** - The area of theology concerned with final things, including resurrection, judgment, the return of Christ and the hope of new creation.
 
@@ -72,15 +106,29 @@ This glossary is here to help newer Christians, Bible college students and thoug
 
 **Formal equivalence** - A translation approach that aims to preserve the wording and structure of the original languages as closely as readable English allows.
 
+**General revelation** - God’s self-disclosure through creation, providence, conscience and human experience, available broadly to humanity.
+
 **Generative AI** - Artificial intelligence that produces new text, images or other content from patterns learned from large datasets. Its output still requires verification and human judgment.
 
+**Generosity** - The willing and wise sharing of time, attention, abilities and resources for the good of others.
+
 **Genre** - The kind of writing being read, such as narrative, poetry, law, prophecy, Gospel, letter or apocalyptic. Genre helps guide interpretation.
+
+**Glorification** - The completion of salvation when believers are raised and transformed to share fully in resurrection life and the renewed creation.
 
 **Gospel** - The good news of what God has done through Jesus Christ: his life, death, resurrection, reign and the invitation to repentance, faith and new life.
 
 **Grace** - God’s undeserved kindness and favour, shown supremely in Jesus Christ and received rather than earned.
 
+**Great Awakening** - A name given to major evangelical revival movements, especially in eighteenth-century Britain and North America, marked by preaching, conversion and spiritual renewal.
+
+**Great Schism** - The gradual division between Eastern Orthodox and Western Catholic Christianity, commonly associated with the mutual excommunications of 1054.
+
 **Hermeneutics** - The study of interpretation, especially the principles and practices used when reading Scripture.
+
+**Historical context** - The social, cultural, political, geographical and religious circumstances surrounding a biblical text and its first audience.
+
+**Humility** - Seeing oneself truthfully before God, rejecting both pride and false self-denigration, and being willing to learn, serve and receive correction.
 
 **Image of God** - The biblical teaching that human beings are made to represent, reflect and relate to God, receiving dignity from the Creator rather than from ability, status or usefulness.
 
@@ -96,6 +144,8 @@ This glossary is here to help newer Christians, Bible college students and thoug
 
 **Intermediate state** - The condition of people between death and the future resurrection. Christians disagree about whether this state is conscious or unconscious.
 
+**Justice** - Right relationships and fair treatment shaped by God’s character, including truthfulness, accountability and concern for people who are vulnerable or oppressed.
+
 **Justification** - God’s gracious act of declaring sinners to be in the right through faith in Jesus Christ.
 
 **Kingdom of God** - God’s reign and rule. In the New Testament, the kingdom is announced and embodied by Jesus, already present but not yet fully complete.
@@ -104,25 +154,47 @@ This glossary is here to help newer Christians, Bible college students and thoug
 
 **Lament** - Faithful grief brought before God. Lament names sorrow, injustice, pain or confusion while still turning toward God.
 
+**Literary context** - The words, sentences, paragraphs, sections and argument surrounding a passage within the book in which it appears.
+
+**Methodism** - A Christian movement associated with John and Charles Wesley that emphasises grace, holiness, discipleship, evangelism and organised small-group formation.
+
 **Molinism** - A view associated with Luis de Molina that seeks to reconcile divine providence and human freedom through God’s knowledge of what free creatures would choose in any possible circumstance.
 
+**Monotheism** - The belief that there is one God. Historic Christianity is monotheistic while confessing the one God as Father, Son and Holy Spirit.
+
 **New creation** - The Christian hope that God will renew creation, raise the dead and dwell with his people, rather than simply removing souls from the earth forever.
+
+**Nicene Creed** - An early Christian creed developed from the Councils of Nicaea and Constantinople, confessing belief in the Father, Son and Holy Spirit.
 
 **Old Testament law** - The commands given to Israel within the covenant story of the Old Testament. Christians read them through Christ, the whole biblical story and the wisdom of the Spirit.
 
 **Ordinance** - A practice commanded by Jesus for the church, especially baptism and the Lord’s Supper. Baptist traditions often prefer this term to sacrament.
 
+**Original sin** - The shared fallen condition of humanity inherited from Adam, involving corruption, alienation and a bent towards sin. Christian traditions explain its transmission in different ways.
+
 **Paraphrase** - A freer restatement of biblical meaning in contemporary language. A paraphrase can aid understanding but is not usually designed for close word-level study.
 
 **Pastoral care** - The church’s ministry of spiritual support, encouragement, prayer, guidance and practical concern for people in real circumstances.
 
+**Peacemaking** - The active pursuit of truthful, just and restored relationships rather than merely avoiding disagreement or suppressing conflict.
+
 **Penal substitution** - An atonement model in which Christ bears the judgment due to sinners, allowing God to forgive while upholding divine justice.
 
+**Pentecostalism** - A diverse Christian movement emphasising the present work of the Holy Spirit, spiritual gifts, healing, evangelism and Spirit-empowered worship.
+
 **Perspicuity** - Another term for the clarity of Scripture: the belief that its central saving message can be understood by ordinary readers, even though some passages remain difficult.
+
+**Pneumatology** - The area of theology concerned with the person and work of the Holy Spirit.
 
 **Premillennialism** - The view that Christ will return before a future millennial reign. Christians differ on how literally or symbolically to understand the millennium.
 
 **Prescriptive** - A text or command that tells people what they should do.
+
+**Proof-texting** - Using an isolated verse to support a claim without giving sufficient attention to its literary, historical and theological context.
+
+**Protestant Reformation** - The sixteenth-century movement that challenged abuses and doctrines in the Western church and produced Lutheran, Reformed, Anglican, Anabaptist and other Protestant traditions.
+
+**Providence** - God’s continuing work of sustaining, caring for and governing creation while creatures act with real responsibility.
 
 **Provisionism** - A view of salvation that emphasises God’s gracious provision for all people, while also affirming human response and resisting some Calvinist accounts of election and grace.
 
@@ -130,11 +202,15 @@ This glossary is here to help newer Christians, Bible college students and thoug
 
 **Recapitulation** - An atonement theme in which Christ faithfully retraces and renews human life, succeeding where Adam and humanity failed.
 
+**Reconciliation** - The restoration of a damaged relationship through truth, repentance, forgiveness and the rebuilding of trust. It normally requires participation from both sides.
+
 **Redemption** - God’s act of rescuing people from sin, slavery, evil and death, often pictured as liberation through the payment of a cost.
 
 **Repentance** - Turning from sin and self-rule toward God. Repentance includes changed allegiance, not merely feeling sorry.
 
 **Resurrection** - God’s raising of the dead to embodied life. Christian hope is grounded in the resurrection of Jesus and the promised resurrection of his people.
+
+**Sabbath** - A biblical pattern of regular rest and worship that reminds people they are creatures sustained by God rather than defined only by productivity.
 
 **Sacrament** - A visible sign of God’s grace, commonly used of baptism and the Lord’s Supper. Some traditions prefer the word ordinance.
 
@@ -144,15 +220,27 @@ This glossary is here to help newer Christians, Bible college students and thoug
 
 **Second Coming** - The future return of Jesus Christ to judge, renew, reign and complete God’s saving purposes.
 
+**Service** - The use of one’s gifts, time, strength and opportunities for the good of others in response to the example and command of Jesus.
+
+**Social Gospel** - A movement that emphasised applying Christian teaching to social problems such as poverty, inequality, labour conditions and public injustice.
+
 **Social model of disability** - An approach that locates much disability in social, architectural and attitudinal barriers rather than only in an individual body or diagnosis.
 
 **Soul sleep** - The view that the dead are unconscious until the resurrection, rather than consciously present in heaven or hell before final judgment.
 
+**Special revelation** - God’s particular self-disclosure through redemptive acts, inspired Scripture and supremely Jesus Christ.
+
+**Spiritual disciplines** - Practices such as prayer, Scripture reading, fasting, worship, solitude and service through which believers make themselves available to God’s transforming grace.
+
 **Spiritual formation** - The process by which a person is shaped spiritually, especially into Christlike love, character, habits and desires.
+
+**Spiritual gifts** - Abilities and ministries given by the Holy Spirit for serving others, building up the church and participating in God’s mission.
 
 **Statement of faith** - A church or organisation’s summary of the beliefs it considers important for identity, teaching or membership.
 
 **Stewardship** - Responsible care for what God entrusts to people, including creation, money, time, gifts, relationships and influence.
+
+**Substitutionary atonement** - A broad atonement theme in which Christ acts on behalf of sinners and bears what they could not bear in order to bring forgiveness and reconciliation.
 
 **Supplication** - A request made to God in prayer, whether for oneself or for others.
 
@@ -166,12 +254,22 @@ This glossary is here to help newer Christians, Bible college students and thoug
 
 **Trinity** - The Christian teaching that the one God eternally exists as Father, Son and Holy Spirit.
 
+**Typology** - The recognition of recurring persons, events and institutions in Scripture that form patterns and reach fuller expression in Christ and the biblical story.
+
 **Union with Christ** - The believer’s shared life with Jesus through the Spirit, including participation in his death, resurrection, righteousness and future glory.
 
 **Universal reconciliation** - The view that God will ultimately reconcile every person to himself, sometimes through judgment and correction.
+
+**Universalism** - The belief that all people will ultimately be saved or reconciled to God. Different forms explain judgment, freedom and restoration in different ways.
+
+**Vatican II** - The Second Vatican Council, held from 1962 to 1965, which addressed Roman Catholic worship, Scripture, church life, ecumenism and engagement with the modern world.
 
 **Verbal plenary inspiration** - The belief that inspiration extends to all of Scripture and to the words through which its authors communicated, without requiring mechanical dictation.
 
 **Vocation** - A calling from God. Vocation can include paid work, ministry, family responsibilities, service, witness and ordinary faithfulness.
 
+**Wisdom literature** - Biblical writing that explores skill in faithful living, including Proverbs, Job and Ecclesiastes, and often using poetry, reflection and general observations.
+
 **Witness** - The church’s calling to bear truthful testimony to Jesus in word, action, character and community life.
+
+**Word study** - The careful investigation of how a word is used in its sentence, book, original language and wider context, without assuming every possible meaning applies at once.
