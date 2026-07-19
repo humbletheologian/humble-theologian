@@ -1,0 +1,136 @@
+{
+  "title": "How Well Do You Interpret the Bible?",
+  "description": "Ten questions about context, genre, original audience, biblical theology and faithful application.",
+  "questions": [
+    {
+      "question": "What is usually the best first step when interpreting a Bible verse?",
+      "options": [
+        "Ask what the verse means to you personally",
+        "Read the sentences and argument around it",
+        "Search for another verse with the same word",
+        "Decide whether you agree with it"
+      ],
+      "answer": 1,
+      "explanation": "A verse belongs within a paragraph, chapter and book. Reading the surrounding passage helps us follow the author’s argument and prevents isolated proof-texting.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read How to Interpret the Bible"
+    },
+    {
+      "question": "Why is the original audience important?",
+      "options": [
+        "The Bible applied only to its first readers",
+        "Knowing their situation helps explain what the author was addressing",
+        "Modern readers must reproduce every ancient custom",
+        "The original audience determines whether a book is inspired"
+      ],
+      "answer": 1,
+      "explanation": "Biblical authors wrote to real people facing particular questions, pressures and cultural circumstances. Understanding that setting helps us distinguish the original message from its faithful application today.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Explore audience and historical context"
+    },
+    {
+      "question": "Which statement best explains the difference between descriptive and prescriptive passages?",
+      "options": [
+        "Descriptive passages are true while prescriptive passages are symbolic",
+        "Descriptive passages report what happened while prescriptive passages instruct what should happen",
+        "Descriptive passages occur only in the Old Testament",
+        "Prescriptive passages must always be applied without considering context"
+      ],
+      "answer": 1,
+      "explanation": "A narrative may accurately describe behaviour without approving or commanding it. Readers must ask whether Scripture is reporting an event, evaluating it or presenting it as a pattern to follow.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read about description and prescription"
+    },
+    {
+      "question": "How should biblical poetry normally be read?",
+      "options": [
+        "As straightforward scientific description",
+        "As imagery, parallelism and emotionally expressive language",
+        "As a code in which every object predicts a future event",
+        "As less truthful than biblical narrative"
+      ],
+      "answer": 1,
+      "explanation": "Poetry communicates truth through imagery, metaphor, repetition and parallel lines. Recognising these features prevents figurative language from being forced into literal scientific claims.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Learn more about biblical genre"
+    },
+    {
+      "question": "What is a common danger in biblical word studies?",
+      "options": [
+        "Checking how a word is used elsewhere",
+        "Assuming a word carries every possible dictionary meaning each time it appears",
+        "Comparing several translations",
+        "Considering the sentence in which the word occurs"
+      ],
+      "answer": 1,
+      "explanation": "Words take their particular meaning from context. Importing every possible definition or a word’s full history into one occurrence can produce meanings the author never intended.",
+      "link": "/bible-translations-word-for-word-to-thought-for-thought/",
+      "link_text": "Read about Bible translation"
+    },
+    {
+      "question": "When interpreting an Old Testament law, which question is most helpful?",
+      "options": [
+        "How can it be enforced directly in every modern nation?",
+        "What role did it play in Israel’s covenant and how is it related to Christ?",
+        "Can it be ignored because it is old?",
+        "Does it match current social expectations?"
+      ],
+      "answer": 1,
+      "explanation": "Old Testament laws belonged to Israel’s covenant life. Christians should consider their purpose, the kind of law involved and how its moral wisdom is fulfilled and reframed through Christ.",
+      "link": "/how-should-christians-read-old-testament-law/",
+      "link_text": "Read How Should Christians Read Old Testament Law?"
+    },
+    {
+      "question": "Which approach is most helpful when reading a parable of Jesus?",
+      "options": [
+        "Assign a secret meaning to every minor detail",
+        "Identify the main challenge or kingdom message in its setting",
+        "Treat it as a literal report of an historical event",
+        "Assume every parable teaches exactly the same lesson"
+      ],
+      "answer": 1,
+      "explanation": "Parables use memorable stories and comparisons to reveal the kingdom, confront assumptions and call hearers to respond. Details support the central point but should not automatically become an elaborate hidden code.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Explore how to read parables"
+    },
+    {
+      "question": "What should readers expect when approaching apocalyptic literature such as parts of Daniel or Revelation?",
+      "options": [
+        "A plain chronological newspaper-style account",
+        "Symbolic visions drawing on earlier Scripture and the struggles of God’s people",
+        "Predictions that can be understood without knowing the Old Testament",
+        "A message intended only for the final generation"
+      ],
+      "answer": 1,
+      "explanation": "Apocalyptic literature communicates through vivid symbols, visions and echoes of earlier Scripture. Its first hearers were encouraged to remain faithful under pressure, even as it points towards God’s final victory.",
+      "link": "/where-i-stand/",
+      "link_text": "See the site’s current end-times position"
+    },
+    {
+      "question": "What does it mean to read Scripture canonically?",
+      "options": [
+        "Read only the books everyone agrees belong in the canon",
+        "Interpret each passage within its book and the wider biblical story",
+        "Give later books permission to cancel earlier Scripture",
+        "Arrange verses according to theological topics"
+      ],
+      "answer": 1,
+      "explanation": "A canonical reading respects each passage in its own setting while also considering its place within the complete scriptural story of creation, covenant, Christ, church and new creation.",
+      "link": "/how-we-got-the-bible/",
+      "link_text": "Read How We Got the Bible"
+    },
+    {
+      "question": "Which statement best describes faithful application?",
+      "options": [
+        "Repeating the original action exactly in every culture",
+        "Moving from the passage’s original meaning to a fitting response today",
+        "Beginning with a modern issue and finding a verse that supports your view",
+        "Applying only passages that feel personally relevant"
+      ],
+      "answer": 1,
+      "explanation": "Faithful application begins with what the text communicated in its original context, identifies the enduring theological or moral principle and considers how obedience should take shape in the present setting.",
+      "link": "/how-to-interpret-the-bible/",
+      "link_text": "Read the full interpretation guide"
+    }
+  ]
+}
